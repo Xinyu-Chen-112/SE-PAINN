@@ -1,4 +1,4 @@
-___author___ = 'chen xinyu'
+___author___ = '陈鑫宇'
 ___version___ = '1.7.0'
 
 import copy
