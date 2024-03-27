@@ -1,0 +1,1868 @@
+2024-03-15 23:48:50,567 [INFO ]  loading data from ../input/train_data
+2024-03-15 23:49:05,185 [INFO ]  Dataset size: 7984, train set size: 7185, validation set size: 799
+2024-03-15 23:49:06,584 [INFO ]  target_mean=-0.014320, target_stddev=0.018025
+2024-03-15 23:49:07,938 [INFO ]  step    1 : train_time=0.592 s, total=0.592 s, mean=0.592 s
+2024-03-15 23:49:08,080 [INFO ]  step    2 : train_time=0.129 s, total=0.720 s, mean=0.360 s
+2024-03-15 23:49:08,217 [INFO ]  step    3 : train_time=0.129 s, total=0.849 s, mean=0.283 s
+2024-03-15 23:49:08,354 [INFO ]  step    4 : train_time=0.128 s, total=0.977 s, mean=0.244 s
+2024-03-15 23:49:08,489 [INFO ]  step    5 : train_time=0.125 s, total=1.102 s, mean=0.220 s
+2024-03-15 23:49:08,489 [INFO ]  Train Interval Report : train_rmse_mean=0.018083
+2024-03-15 23:49:08,709 [INFO ]  		Validate : val_time=0.220 s, total=0.220 s, mean=0.220 s
+2024-03-15 23:49:08,709 [INFO ]  			val_rmse=0.015703, smooth_rmse=0.015703
+2024-03-15 23:49:10,449 [INFO ]  step    6 : train_time=0.132 s, total=1.234 s, mean=0.206 s
+2024-03-15 23:49:10,585 [INFO ]  step    7 : train_time=0.127 s, total=1.360 s, mean=0.194 s
+2024-03-15 23:49:10,719 [INFO ]  step    8 : train_time=0.125 s, total=1.485 s, mean=0.186 s
+2024-03-15 23:49:10,854 [INFO ]  step    9 : train_time=0.126 s, total=1.611 s, mean=0.179 s
+2024-03-15 23:49:10,993 [INFO ]  step   10 : train_time=0.130 s, total=1.741 s, mean=0.174 s
+2024-03-15 23:49:10,993 [INFO ]  Train Interval Report : train_rmse_mean=0.017128
+2024-03-15 23:49:11,058 [INFO ]  		Validate : val_time=0.065 s, total=0.285 s, mean=0.143 s
+2024-03-15 23:49:11,058 [INFO ]  			val_rmse=0.014952, smooth_rmse=0.015027
+2024-03-15 23:49:12,839 [INFO ]  step   11 : train_time=0.132 s, total=1.874 s, mean=0.170 s
+2024-03-15 23:49:12,978 [INFO ]  step   12 : train_time=0.129 s, total=2.002 s, mean=0.167 s
+2024-03-15 23:49:13,114 [INFO ]  step   13 : train_time=0.127 s, total=2.129 s, mean=0.164 s
+2024-03-15 23:49:13,255 [INFO ]  step   14 : train_time=0.131 s, total=2.260 s, mean=0.161 s
+2024-03-15 23:49:13,392 [INFO ]  step   15 : train_time=0.127 s, total=2.388 s, mean=0.159 s
+2024-03-15 23:49:13,392 [INFO ]  Train Interval Report : train_rmse_mean=0.016405
+2024-03-15 23:49:13,459 [INFO ]  		Validate : val_time=0.067 s, total=0.352 s, mean=0.117 s
+2024-03-15 23:49:13,460 [INFO ]  			val_rmse=0.014675, smooth_rmse=0.014710
+2024-03-15 23:49:15,195 [INFO ]  step   16 : train_time=0.130 s, total=2.517 s, mean=0.157 s
+2024-03-15 23:49:15,334 [INFO ]  step   17 : train_time=0.129 s, total=2.646 s, mean=0.156 s
+2024-03-15 23:49:15,473 [INFO ]  step   18 : train_time=0.129 s, total=2.775 s, mean=0.154 s
+2024-03-15 23:49:15,610 [INFO ]  step   19 : train_time=0.127 s, total=2.902 s, mean=0.153 s
+2024-03-15 23:49:15,746 [INFO ]  step   20 : train_time=0.126 s, total=3.029 s, mean=0.151 s
+2024-03-15 23:49:15,747 [INFO ]  Train Interval Report : train_rmse_mean=0.016674
+2024-03-15 23:49:15,814 [INFO ]  		Validate : val_time=0.067 s, total=0.420 s, mean=0.105 s
+2024-03-15 23:49:15,814 [INFO ]  			val_rmse=0.014155, smooth_rmse=0.014210
+2024-03-15 23:49:17,528 [INFO ]  step   21 : train_time=0.133 s, total=3.161 s, mean=0.151 s
+2024-03-15 23:49:17,669 [INFO ]  step   22 : train_time=0.131 s, total=3.292 s, mean=0.150 s
+2024-03-15 23:49:17,809 [INFO ]  step   23 : train_time=0.130 s, total=3.422 s, mean=0.149 s
+2024-03-15 23:49:17,949 [INFO ]  step   24 : train_time=0.130 s, total=3.552 s, mean=0.148 s
+2024-03-15 23:49:18,090 [INFO ]  step   25 : train_time=0.131 s, total=3.683 s, mean=0.147 s
+2024-03-15 23:49:18,090 [INFO ]  Train Interval Report : train_rmse_mean=0.015844
+2024-03-15 23:49:18,159 [INFO ]  		Validate : val_time=0.069 s, total=0.488 s, mean=0.098 s
+2024-03-15 23:49:18,159 [INFO ]  			val_rmse=0.012944, smooth_rmse=0.013070
+2024-03-15 23:49:19,922 [INFO ]  step   26 : train_time=0.131 s, total=3.814 s, mean=0.147 s
+2024-03-15 23:49:20,062 [INFO ]  step   27 : train_time=0.130 s, total=3.944 s, mean=0.146 s
+2024-03-15 23:49:20,204 [INFO ]  step   28 : train_time=0.132 s, total=4.076 s, mean=0.146 s
+2024-03-15 23:49:20,349 [INFO ]  step   29 : train_time=0.136 s, total=4.212 s, mean=0.145 s
+2024-03-15 23:49:20,490 [INFO ]  step   30 : train_time=0.131 s, total=4.343 s, mean=0.145 s
+2024-03-15 23:49:20,490 [INFO ]  Train Interval Report : train_rmse_mean=0.014982
+2024-03-15 23:49:20,560 [INFO ]  		Validate : val_time=0.070 s, total=0.558 s, mean=0.093 s
+2024-03-15 23:49:20,560 [INFO ]  			val_rmse=0.012293, smooth_rmse=0.012371
+2024-03-15 23:49:22,369 [INFO ]  step   31 : train_time=0.134 s, total=4.477 s, mean=0.144 s
+2024-03-15 23:49:22,517 [INFO ]  step   32 : train_time=0.137 s, total=4.614 s, mean=0.144 s
+2024-03-15 23:49:22,661 [INFO ]  step   33 : train_time=0.135 s, total=4.749 s, mean=0.144 s
+2024-03-15 23:49:22,808 [INFO ]  step   34 : train_time=0.137 s, total=4.886 s, mean=0.144 s
+2024-03-15 23:49:22,949 [INFO ]  step   35 : train_time=0.131 s, total=5.017 s, mean=0.143 s
+2024-03-15 23:49:22,949 [INFO ]  Train Interval Report : train_rmse_mean=0.014129
+2024-03-15 23:49:23,020 [INFO ]  		Validate : val_time=0.070 s, total=0.629 s, mean=0.090 s
+2024-03-15 23:49:23,020 [INFO ]  			val_rmse=0.011711, smooth_rmse=0.011777
+2024-03-15 23:49:24,779 [INFO ]  step   36 : train_time=0.131 s, total=5.149 s, mean=0.143 s
+2024-03-15 23:49:24,923 [INFO ]  step   37 : train_time=0.134 s, total=5.283 s, mean=0.143 s
+2024-03-15 23:49:25,069 [INFO ]  step   38 : train_time=0.137 s, total=5.419 s, mean=0.143 s
+2024-03-15 23:49:25,213 [INFO ]  step   39 : train_time=0.135 s, total=5.554 s, mean=0.142 s
+2024-03-15 23:49:25,359 [INFO ]  step   40 : train_time=0.136 s, total=5.690 s, mean=0.142 s
+2024-03-15 23:49:25,359 [INFO ]  Train Interval Report : train_rmse_mean=0.014534
+2024-03-15 23:49:25,430 [INFO ]  		Validate : val_time=0.071 s, total=0.699 s, mean=0.087 s
+2024-03-15 23:49:25,430 [INFO ]  			val_rmse=0.010965, smooth_rmse=0.011046
+2024-03-15 23:49:27,168 [INFO ]  step   41 : train_time=0.133 s, total=5.823 s, mean=0.142 s
+2024-03-15 23:49:27,312 [INFO ]  step   42 : train_time=0.133 s, total=5.956 s, mean=0.142 s
+2024-03-15 23:49:27,456 [INFO ]  step   43 : train_time=0.134 s, total=6.090 s, mean=0.142 s
+2024-03-15 23:49:27,596 [INFO ]  step   44 : train_time=0.131 s, total=6.221 s, mean=0.141 s
+2024-03-15 23:49:27,737 [INFO ]  step   45 : train_time=0.131 s, total=6.352 s, mean=0.141 s
+2024-03-15 23:49:27,737 [INFO ]  Train Interval Report : train_rmse_mean=0.012557
+2024-03-15 23:49:27,805 [INFO ]  		Validate : val_time=0.068 s, total=0.767 s, mean=0.085 s
+2024-03-15 23:49:27,805 [INFO ]  			val_rmse=0.011272, smooth_rmse=0.011249
+2024-03-15 23:49:28,756 [INFO ]  step   46 : train_time=0.131 s, total=6.483 s, mean=0.141 s
+2024-03-15 23:49:28,896 [INFO ]  step   47 : train_time=0.129 s, total=6.612 s, mean=0.141 s
+2024-03-15 23:49:29,036 [INFO ]  step   48 : train_time=0.131 s, total=6.743 s, mean=0.140 s
+2024-03-15 23:49:29,175 [INFO ]  step   49 : train_time=0.129 s, total=6.872 s, mean=0.140 s
+2024-03-15 23:49:29,315 [INFO ]  step   50 : train_time=0.130 s, total=7.002 s, mean=0.140 s
+2024-03-15 23:49:29,315 [INFO ]  Train Interval Report : train_rmse_mean=0.013308
+2024-03-15 23:49:29,386 [INFO ]  		Validate : val_time=0.070 s, total=0.838 s, mean=0.084 s
+2024-03-15 23:49:29,386 [INFO ]  			val_rmse=0.010715, smooth_rmse=0.010769
+2024-03-15 23:49:31,150 [INFO ]  step   51 : train_time=0.133 s, total=7.135 s, mean=0.140 s
+2024-03-15 23:49:31,294 [INFO ]  step   52 : train_time=0.134 s, total=7.269 s, mean=0.140 s
+2024-03-15 23:49:31,433 [INFO ]  step   53 : train_time=0.129 s, total=7.398 s, mean=0.140 s
+2024-03-15 23:49:31,571 [INFO ]  step   54 : train_time=0.128 s, total=7.526 s, mean=0.139 s
+2024-03-15 23:49:31,712 [INFO ]  step   55 : train_time=0.131 s, total=7.657 s, mean=0.139 s
+2024-03-15 23:49:31,712 [INFO ]  Train Interval Report : train_rmse_mean=0.012947
+2024-03-15 23:49:31,782 [INFO ]  		Validate : val_time=0.070 s, total=0.907 s, mean=0.082 s
+2024-03-15 23:49:31,782 [INFO ]  			val_rmse=0.010950, smooth_rmse=0.010931
+2024-03-15 23:49:32,721 [INFO ]  step   56 : train_time=0.135 s, total=7.793 s, mean=0.139 s
+2024-03-15 23:49:32,866 [INFO ]  step   57 : train_time=0.135 s, total=7.927 s, mean=0.139 s
+2024-03-15 23:49:33,015 [INFO ]  step   58 : train_time=0.139 s, total=8.067 s, mean=0.139 s
+2024-03-15 23:49:33,162 [INFO ]  step   59 : train_time=0.137 s, total=8.203 s, mean=0.139 s
+2024-03-15 23:49:33,307 [INFO ]  step   60 : train_time=0.135 s, total=8.339 s, mean=0.139 s
+2024-03-15 23:49:33,307 [INFO ]  Train Interval Report : train_rmse_mean=0.012409
+2024-03-15 23:49:33,378 [INFO ]  		Validate : val_time=0.071 s, total=0.979 s, mean=0.082 s
+2024-03-15 23:49:33,379 [INFO ]  			val_rmse=0.010454, smooth_rmse=0.010501
+2024-03-15 23:49:35,140 [INFO ]  step   61 : train_time=0.134 s, total=8.473 s, mean=0.139 s
+2024-03-15 23:49:35,285 [INFO ]  step   62 : train_time=0.135 s, total=8.608 s, mean=0.139 s
+2024-03-15 23:49:35,428 [INFO ]  step   63 : train_time=0.133 s, total=8.741 s, mean=0.139 s
+2024-03-15 23:49:35,575 [INFO ]  step   64 : train_time=0.137 s, total=8.878 s, mean=0.139 s
+2024-03-15 23:49:35,722 [INFO ]  step   65 : train_time=0.134 s, total=9.012 s, mean=0.139 s
+2024-03-15 23:49:35,722 [INFO ]  Train Interval Report : train_rmse_mean=0.011435
+2024-03-15 23:49:35,792 [INFO ]  		Validate : val_time=0.069 s, total=1.048 s, mean=0.081 s
+2024-03-15 23:49:35,792 [INFO ]  			val_rmse=0.009967, smooth_rmse=0.010020
+2024-03-15 23:49:37,552 [INFO ]  step   66 : train_time=0.141 s, total=9.153 s, mean=0.139 s
+2024-03-15 23:49:37,698 [INFO ]  step   67 : train_time=0.136 s, total=9.289 s, mean=0.139 s
+2024-03-15 23:49:37,845 [INFO ]  step   68 : train_time=0.137 s, total=9.425 s, mean=0.139 s
+2024-03-15 23:49:38,083 [INFO ]  step   69 : train_time=0.229 s, total=9.654 s, mean=0.140 s
+2024-03-15 23:49:38,318 [INFO ]  step   70 : train_time=0.225 s, total=9.879 s, mean=0.141 s
+2024-03-15 23:49:38,319 [INFO ]  Train Interval Report : train_rmse_mean=0.012299
+2024-03-15 23:49:38,427 [INFO ]  		Validate : val_time=0.107 s, total=1.155 s, mean=0.083 s
+2024-03-15 23:49:38,427 [INFO ]  			val_rmse=0.010738, smooth_rmse=0.010667
+2024-03-15 23:49:39,428 [INFO ]  step   71 : train_time=0.168 s, total=10.048 s, mean=0.142 s
+2024-03-15 23:49:39,603 [INFO ]  step   72 : train_time=0.165 s, total=10.213 s, mean=0.142 s
+2024-03-15 23:49:39,774 [INFO ]  step   73 : train_time=0.161 s, total=10.373 s, mean=0.142 s
+2024-03-15 23:49:39,945 [INFO ]  step   74 : train_time=0.161 s, total=10.534 s, mean=0.142 s
+2024-03-15 23:49:40,117 [INFO ]  step   75 : train_time=0.162 s, total=10.697 s, mean=0.143 s
+2024-03-15 23:49:40,117 [INFO ]  Train Interval Report : train_rmse_mean=0.011208
+2024-03-15 23:49:40,198 [INFO ]  		Validate : val_time=0.081 s, total=1.236 s, mean=0.082 s
+2024-03-15 23:49:40,198 [INFO ]  			val_rmse=0.011273, smooth_rmse=0.011213
+2024-03-15 23:49:41,208 [INFO ]  step   76 : train_time=0.147 s, total=10.843 s, mean=0.143 s
+2024-03-15 23:49:41,364 [INFO ]  step   77 : train_time=0.145 s, total=10.989 s, mean=0.143 s
+2024-03-15 23:49:41,517 [INFO ]  step   78 : train_time=0.144 s, total=11.132 s, mean=0.143 s
+2024-03-15 23:49:41,667 [INFO ]  step   79 : train_time=0.141 s, total=11.273 s, mean=0.143 s
+2024-03-15 23:49:41,822 [INFO ]  step   80 : train_time=0.145 s, total=11.417 s, mean=0.143 s
+2024-03-15 23:49:41,822 [INFO ]  Train Interval Report : train_rmse_mean=0.012885
+2024-03-15 23:49:41,902 [INFO ]  		Validate : val_time=0.080 s, total=1.316 s, mean=0.082 s
+2024-03-15 23:49:41,902 [INFO ]  			val_rmse=0.009673, smooth_rmse=0.009827
+2024-03-15 23:49:43,718 [INFO ]  step   81 : train_time=0.141 s, total=11.558 s, mean=0.143 s
+2024-03-15 23:49:43,864 [INFO ]  step   82 : train_time=0.137 s, total=11.695 s, mean=0.143 s
+2024-03-15 23:49:44,009 [INFO ]  step   83 : train_time=0.135 s, total=11.830 s, mean=0.143 s
+2024-03-15 23:49:44,249 [INFO ]  step   84 : train_time=0.231 s, total=12.061 s, mean=0.144 s
+2024-03-15 23:49:44,496 [INFO ]  step   85 : train_time=0.238 s, total=12.299 s, mean=0.145 s
+2024-03-15 23:49:44,496 [INFO ]  Train Interval Report : train_rmse_mean=0.010956
+2024-03-15 23:49:44,614 [INFO ]  		Validate : val_time=0.118 s, total=1.434 s, mean=0.084 s
+2024-03-15 23:49:44,614 [INFO ]  			val_rmse=0.010103, smooth_rmse=0.010076
+2024-03-15 23:49:45,616 [INFO ]  step   86 : train_time=0.178 s, total=12.476 s, mean=0.145 s
+2024-03-15 23:49:45,801 [INFO ]  step   87 : train_time=0.176 s, total=12.652 s, mean=0.145 s
+2024-03-15 23:49:45,986 [INFO ]  step   88 : train_time=0.176 s, total=12.828 s, mean=0.146 s
+2024-03-15 23:49:46,171 [INFO ]  step   89 : train_time=0.176 s, total=13.004 s, mean=0.146 s
+2024-03-15 23:49:46,359 [INFO ]  step   90 : train_time=0.179 s, total=13.183 s, mean=0.146 s
+2024-03-15 23:49:46,359 [INFO ]  Train Interval Report : train_rmse_mean=0.011007
+2024-03-15 23:49:46,446 [INFO ]  		Validate : val_time=0.087 s, total=1.521 s, mean=0.084 s
+2024-03-15 23:49:46,446 [INFO ]  			val_rmse=0.009250, smooth_rmse=0.009333
+2024-03-15 23:49:48,199 [INFO ]  step   91 : train_time=0.142 s, total=13.325 s, mean=0.146 s
+2024-03-15 23:49:48,344 [INFO ]  step   92 : train_time=0.136 s, total=13.461 s, mean=0.146 s
+2024-03-15 23:49:48,498 [INFO ]  step   93 : train_time=0.145 s, total=13.606 s, mean=0.146 s
+2024-03-15 23:49:48,655 [INFO ]  step   94 : train_time=0.148 s, total=13.754 s, mean=0.146 s
+2024-03-15 23:49:48,806 [INFO ]  step   95 : train_time=0.142 s, total=13.895 s, mean=0.146 s
+2024-03-15 23:49:48,806 [INFO ]  Train Interval Report : train_rmse_mean=0.010631
+2024-03-15 23:49:48,880 [INFO ]  		Validate : val_time=0.074 s, total=1.594 s, mean=0.084 s
+2024-03-15 23:49:48,880 [INFO ]  			val_rmse=0.008759, smooth_rmse=0.008816
+2024-03-15 23:49:50,616 [INFO ]  step   96 : train_time=0.139 s, total=14.034 s, mean=0.146 s
+2024-03-15 23:49:50,762 [INFO ]  step   97 : train_time=0.137 s, total=14.171 s, mean=0.146 s
+2024-03-15 23:49:50,909 [INFO ]  step   98 : train_time=0.138 s, total=14.309 s, mean=0.146 s
+2024-03-15 23:49:51,056 [INFO ]  step   99 : train_time=0.138 s, total=14.447 s, mean=0.146 s
+2024-03-15 23:49:51,206 [INFO ]  step  100 : train_time=0.141 s, total=14.588 s, mean=0.146 s
+2024-03-15 23:49:51,206 [INFO ]  Train Interval Report : train_rmse_mean=0.010082
+2024-03-15 23:49:51,285 [INFO ]  		Validate : val_time=0.079 s, total=1.673 s, mean=0.084 s
+2024-03-15 23:49:51,285 [INFO ]  			val_rmse=0.009202, smooth_rmse=0.009164
+2024-03-15 23:49:52,237 [INFO ]  step  101 : train_time=0.145 s, total=14.733 s, mean=0.146 s
+2024-03-15 23:49:52,388 [INFO ]  step  102 : train_time=0.142 s, total=14.875 s, mean=0.146 s
+2024-03-15 23:49:52,541 [INFO ]  step  103 : train_time=0.145 s, total=15.019 s, mean=0.146 s
+2024-03-15 23:49:52,698 [INFO ]  step  104 : train_time=0.148 s, total=15.167 s, mean=0.146 s
+2024-03-15 23:49:52,875 [INFO ]  step  105 : train_time=0.168 s, total=15.335 s, mean=0.146 s
+2024-03-15 23:49:52,875 [INFO ]  Train Interval Report : train_rmse_mean=0.010062
+2024-03-15 23:49:52,956 [INFO ]  		Validate : val_time=0.081 s, total=1.754 s, mean=0.084 s
+2024-03-15 23:49:52,956 [INFO ]  			val_rmse=0.009284, smooth_rmse=0.009272
+2024-03-15 23:49:53,946 [INFO ]  step  106 : train_time=0.147 s, total=15.482 s, mean=0.146 s
+2024-03-15 23:49:54,102 [INFO ]  step  107 : train_time=0.146 s, total=15.628 s, mean=0.146 s
+2024-03-15 23:49:54,258 [INFO ]  step  108 : train_time=0.147 s, total=15.775 s, mean=0.146 s
+2024-03-15 23:49:54,413 [INFO ]  step  109 : train_time=0.146 s, total=15.921 s, mean=0.146 s
+2024-03-15 23:49:54,565 [INFO ]  step  110 : train_time=0.142 s, total=16.064 s, mean=0.146 s
+2024-03-15 23:49:54,565 [INFO ]  Train Interval Report : train_rmse_mean=0.010074
+2024-03-15 23:49:54,636 [INFO ]  		Validate : val_time=0.071 s, total=1.825 s, mean=0.083 s
+2024-03-15 23:49:54,636 [INFO ]  			val_rmse=0.008930, smooth_rmse=0.008964
+2024-03-15 23:49:55,612 [INFO ]  step  111 : train_time=0.138 s, total=16.201 s, mean=0.146 s
+2024-03-15 23:49:55,758 [INFO ]  step  112 : train_time=0.137 s, total=16.338 s, mean=0.146 s
+2024-03-15 23:49:55,911 [INFO ]  step  113 : train_time=0.145 s, total=16.483 s, mean=0.146 s
+2024-03-15 23:49:56,090 [INFO ]  step  114 : train_time=0.169 s, total=16.652 s, mean=0.146 s
+2024-03-15 23:49:56,268 [INFO ]  step  115 : train_time=0.169 s, total=16.821 s, mean=0.146 s
+2024-03-15 23:49:56,268 [INFO ]  Train Interval Report : train_rmse_mean=0.008556
+2024-03-15 23:49:56,354 [INFO ]  		Validate : val_time=0.086 s, total=1.911 s, mean=0.083 s
+2024-03-15 23:49:56,354 [INFO ]  			val_rmse=0.008507, smooth_rmse=0.008552
+2024-03-15 23:49:58,108 [INFO ]  step  116 : train_time=0.138 s, total=16.960 s, mean=0.146 s
+2024-03-15 23:49:58,257 [INFO ]  step  117 : train_time=0.140 s, total=17.099 s, mean=0.146 s
+2024-03-15 23:49:58,406 [INFO ]  step  118 : train_time=0.139 s, total=17.239 s, mean=0.146 s
+2024-03-15 23:49:58,557 [INFO ]  step  119 : train_time=0.142 s, total=17.381 s, mean=0.146 s
+2024-03-15 23:49:58,704 [INFO ]  step  120 : train_time=0.138 s, total=17.519 s, mean=0.146 s
+2024-03-15 23:49:58,704 [INFO ]  Train Interval Report : train_rmse_mean=0.009681
+2024-03-15 23:49:58,775 [INFO ]  		Validate : val_time=0.071 s, total=1.982 s, mean=0.083 s
+2024-03-15 23:49:58,775 [INFO ]  			val_rmse=0.008019, smooth_rmse=0.008072
+2024-03-15 23:50:00,517 [INFO ]  step  121 : train_time=0.141 s, total=17.660 s, mean=0.146 s
+2024-03-15 23:50:00,661 [INFO ]  step  122 : train_time=0.135 s, total=17.795 s, mean=0.146 s
+2024-03-15 23:50:00,805 [INFO ]  step  123 : train_time=0.135 s, total=17.930 s, mean=0.146 s
+2024-03-15 23:50:00,949 [INFO ]  step  124 : train_time=0.136 s, total=18.065 s, mean=0.146 s
+2024-03-15 23:50:01,097 [INFO ]  step  125 : train_time=0.139 s, total=18.204 s, mean=0.146 s
+2024-03-15 23:50:01,097 [INFO ]  Train Interval Report : train_rmse_mean=0.009216
+2024-03-15 23:50:01,167 [INFO ]  		Validate : val_time=0.070 s, total=2.052 s, mean=0.082 s
+2024-03-15 23:50:01,167 [INFO ]  			val_rmse=0.008618, smooth_rmse=0.008564
+2024-03-15 23:50:02,115 [INFO ]  step  126 : train_time=0.141 s, total=18.345 s, mean=0.146 s
+2024-03-15 23:50:02,259 [INFO ]  step  127 : train_time=0.134 s, total=18.479 s, mean=0.146 s
+2024-03-15 23:50:02,405 [INFO ]  step  128 : train_time=0.137 s, total=18.617 s, mean=0.145 s
+2024-03-15 23:50:02,550 [INFO ]  step  129 : train_time=0.135 s, total=18.752 s, mean=0.145 s
+2024-03-15 23:50:02,692 [INFO ]  step  130 : train_time=0.133 s, total=18.885 s, mean=0.145 s
+2024-03-15 23:50:02,692 [INFO ]  Train Interval Report : train_rmse_mean=0.009711
+2024-03-15 23:50:02,762 [INFO ]  		Validate : val_time=0.070 s, total=2.122 s, mean=0.082 s
+2024-03-15 23:50:02,762 [INFO ]  			val_rmse=0.008989, smooth_rmse=0.008946
+2024-03-15 23:50:03,702 [INFO ]  step  131 : train_time=0.137 s, total=19.022 s, mean=0.145 s
+2024-03-15 23:50:03,852 [INFO ]  step  132 : train_time=0.140 s, total=19.162 s, mean=0.145 s
+2024-03-15 23:50:03,995 [INFO ]  step  133 : train_time=0.134 s, total=19.297 s, mean=0.145 s
+2024-03-15 23:50:04,140 [INFO ]  step  134 : train_time=0.136 s, total=19.432 s, mean=0.145 s
+2024-03-15 23:50:04,285 [INFO ]  step  135 : train_time=0.135 s, total=19.568 s, mean=0.145 s
+2024-03-15 23:50:04,285 [INFO ]  Train Interval Report : train_rmse_mean=0.008308
+2024-03-15 23:50:04,388 [INFO ]  		Validate : val_time=0.103 s, total=2.225 s, mean=0.082 s
+2024-03-15 23:50:04,388 [INFO ]  			val_rmse=0.008707, smooth_rmse=0.008731
+2024-03-15 23:50:05,352 [INFO ]  step  136 : train_time=0.138 s, total=19.706 s, mean=0.145 s
+2024-03-15 23:50:05,497 [INFO ]  step  137 : train_time=0.136 s, total=19.842 s, mean=0.145 s
+2024-03-15 23:50:05,641 [INFO ]  step  138 : train_time=0.135 s, total=19.977 s, mean=0.145 s
+2024-03-15 23:50:05,786 [INFO ]  step  139 : train_time=0.136 s, total=20.114 s, mean=0.145 s
+2024-03-15 23:50:05,932 [INFO ]  step  140 : train_time=0.137 s, total=20.250 s, mean=0.145 s
+2024-03-15 23:50:05,932 [INFO ]  Train Interval Report : train_rmse_mean=0.008980
+2024-03-15 23:50:06,002 [INFO ]  		Validate : val_time=0.070 s, total=2.294 s, mean=0.082 s
+2024-03-15 23:50:06,002 [INFO ]  			val_rmse=0.009137, smooth_rmse=0.009097
+2024-03-15 23:50:06,951 [INFO ]  step  141 : train_time=0.135 s, total=20.386 s, mean=0.145 s
+2024-03-15 23:50:07,097 [INFO ]  step  142 : train_time=0.136 s, total=20.522 s, mean=0.145 s
+2024-03-15 23:50:07,242 [INFO ]  step  143 : train_time=0.136 s, total=20.658 s, mean=0.144 s
+2024-03-15 23:50:07,386 [INFO ]  step  144 : train_time=0.135 s, total=20.793 s, mean=0.144 s
+2024-03-15 23:50:07,535 [INFO ]  step  145 : train_time=0.137 s, total=20.930 s, mean=0.144 s
+2024-03-15 23:50:07,535 [INFO ]  Train Interval Report : train_rmse_mean=0.008116
+2024-03-15 23:50:07,604 [INFO ]  		Validate : val_time=0.069 s, total=2.364 s, mean=0.082 s
+2024-03-15 23:50:07,604 [INFO ]  			val_rmse=0.007900, smooth_rmse=0.008020
+2024-03-15 23:50:09,386 [INFO ]  step  146 : train_time=0.140 s, total=21.070 s, mean=0.144 s
+2024-03-15 23:50:09,533 [INFO ]  step  147 : train_time=0.136 s, total=21.206 s, mean=0.144 s
+2024-03-15 23:50:09,680 [INFO ]  step  148 : train_time=0.137 s, total=21.343 s, mean=0.144 s
+2024-03-15 23:50:09,827 [INFO ]  step  149 : train_time=0.137 s, total=21.479 s, mean=0.144 s
+2024-03-15 23:50:09,972 [INFO ]  step  150 : train_time=0.135 s, total=21.614 s, mean=0.144 s
+2024-03-15 23:50:09,972 [INFO ]  Train Interval Report : train_rmse_mean=0.008399
+2024-03-15 23:50:10,042 [INFO ]  		Validate : val_time=0.070 s, total=2.433 s, mean=0.081 s
+2024-03-15 23:50:10,042 [INFO ]  			val_rmse=0.008864, smooth_rmse=0.008780
+2024-03-15 23:50:10,990 [INFO ]  step  151 : train_time=0.134 s, total=21.749 s, mean=0.144 s
+2024-03-15 23:50:11,137 [INFO ]  step  152 : train_time=0.138 s, total=21.887 s, mean=0.144 s
+2024-03-15 23:50:11,282 [INFO ]  step  153 : train_time=0.135 s, total=22.022 s, mean=0.144 s
+2024-03-15 23:50:11,426 [INFO ]  step  154 : train_time=0.135 s, total=22.157 s, mean=0.144 s
+2024-03-15 23:50:11,572 [INFO ]  step  155 : train_time=0.136 s, total=22.293 s, mean=0.144 s
+2024-03-15 23:50:11,572 [INFO ]  Train Interval Report : train_rmse_mean=0.008653
+2024-03-15 23:50:11,641 [INFO ]  		Validate : val_time=0.069 s, total=2.503 s, mean=0.081 s
+2024-03-15 23:50:11,641 [INFO ]  			val_rmse=0.008519, smooth_rmse=0.008545
+2024-03-15 23:50:12,584 [INFO ]  step  156 : train_time=0.137 s, total=22.430 s, mean=0.144 s
+2024-03-15 23:50:12,722 [INFO ]  step  157 : train_time=0.128 s, total=22.558 s, mean=0.144 s
+2024-03-15 23:50:13,076 [INFO ]  step  158 : train_time=0.345 s, total=22.903 s, mean=0.145 s
+2024-03-15 23:50:13,228 [INFO ]  step  159 : train_time=0.143 s, total=23.046 s, mean=0.145 s
+2024-03-15 23:50:13,372 [INFO ]  step  160 : train_time=0.134 s, total=23.181 s, mean=0.145 s
+2024-03-15 23:50:13,372 [INFO ]  Train Interval Report : train_rmse_mean=0.008099
+2024-03-15 23:50:13,443 [INFO ]  		Validate : val_time=0.071 s, total=2.573 s, mean=0.080 s
+2024-03-15 23:50:13,443 [INFO ]  			val_rmse=0.008009, smooth_rmse=0.008063
+2024-03-15 23:50:14,412 [INFO ]  step  161 : train_time=0.136 s, total=23.317 s, mean=0.145 s
+2024-03-15 23:50:14,559 [INFO ]  step  162 : train_time=0.138 s, total=23.455 s, mean=0.145 s
+2024-03-15 23:50:14,706 [INFO ]  step  163 : train_time=0.138 s, total=23.592 s, mean=0.145 s
+2024-03-15 23:50:14,850 [INFO ]  step  164 : train_time=0.136 s, total=23.728 s, mean=0.145 s
+2024-03-15 23:50:14,992 [INFO ]  step  165 : train_time=0.133 s, total=23.861 s, mean=0.145 s
+2024-03-15 23:50:14,992 [INFO ]  Train Interval Report : train_rmse_mean=0.007608
+2024-03-15 23:50:15,062 [INFO ]  		Validate : val_time=0.069 s, total=2.643 s, mean=0.080 s
+2024-03-15 23:50:15,062 [INFO ]  			val_rmse=0.007579, smooth_rmse=0.007628
+2024-03-15 23:50:16,837 [INFO ]  step  166 : train_time=0.141 s, total=24.002 s, mean=0.145 s
+2024-03-15 23:50:16,982 [INFO ]  step  167 : train_time=0.136 s, total=24.138 s, mean=0.145 s
+2024-03-15 23:50:17,127 [INFO ]  step  168 : train_time=0.135 s, total=24.273 s, mean=0.144 s
+2024-03-15 23:50:17,272 [INFO ]  step  169 : train_time=0.136 s, total=24.410 s, mean=0.144 s
+2024-03-15 23:50:17,417 [INFO ]  step  170 : train_time=0.137 s, total=24.546 s, mean=0.144 s
+2024-03-15 23:50:17,417 [INFO ]  Train Interval Report : train_rmse_mean=0.007802
+2024-03-15 23:50:17,487 [INFO ]  		Validate : val_time=0.069 s, total=2.712 s, mean=0.080 s
+2024-03-15 23:50:17,487 [INFO ]  			val_rmse=0.007949, smooth_rmse=0.007917
+2024-03-15 23:50:18,457 [INFO ]  step  171 : train_time=0.139 s, total=24.685 s, mean=0.144 s
+2024-03-15 23:50:18,603 [INFO ]  step  172 : train_time=0.136 s, total=24.821 s, mean=0.144 s
+2024-03-15 23:50:18,747 [INFO ]  step  173 : train_time=0.135 s, total=24.957 s, mean=0.144 s
+2024-03-15 23:50:18,893 [INFO ]  step  174 : train_time=0.137 s, total=25.094 s, mean=0.144 s
+2024-03-15 23:50:19,038 [INFO ]  step  175 : train_time=0.136 s, total=25.230 s, mean=0.144 s
+2024-03-15 23:50:19,038 [INFO ]  Train Interval Report : train_rmse_mean=0.007683
+2024-03-15 23:50:19,108 [INFO ]  		Validate : val_time=0.070 s, total=2.782 s, mean=0.079 s
+2024-03-15 23:50:19,108 [INFO ]  			val_rmse=0.008506, smooth_rmse=0.008447
+2024-03-15 23:50:20,070 [INFO ]  step  176 : train_time=0.138 s, total=25.368 s, mean=0.144 s
+2024-03-15 23:50:20,215 [INFO ]  step  177 : train_time=0.136 s, total=25.503 s, mean=0.144 s
+2024-03-15 23:50:20,359 [INFO ]  step  178 : train_time=0.135 s, total=25.638 s, mean=0.144 s
+2024-03-15 23:50:20,504 [INFO ]  step  179 : train_time=0.136 s, total=25.774 s, mean=0.144 s
+2024-03-15 23:50:20,649 [INFO ]  step  180 : train_time=0.135 s, total=25.910 s, mean=0.144 s
+2024-03-15 23:50:20,649 [INFO ]  Train Interval Report : train_rmse_mean=0.007835
+2024-03-15 23:50:20,718 [INFO ]  		Validate : val_time=0.069 s, total=2.851 s, mean=0.079 s
+2024-03-15 23:50:20,719 [INFO ]  			val_rmse=0.007257, smooth_rmse=0.007376
+2024-03-15 23:50:22,475 [INFO ]  step  181 : train_time=0.138 s, total=26.048 s, mean=0.144 s
+2024-03-15 23:50:22,618 [INFO ]  step  182 : train_time=0.134 s, total=26.181 s, mean=0.144 s
+2024-03-15 23:50:22,761 [INFO ]  step  183 : train_time=0.134 s, total=26.316 s, mean=0.144 s
+2024-03-15 23:50:22,907 [INFO ]  step  184 : train_time=0.136 s, total=26.452 s, mean=0.144 s
+2024-03-15 23:50:23,052 [INFO ]  step  185 : train_time=0.136 s, total=26.588 s, mean=0.144 s
+2024-03-15 23:50:23,052 [INFO ]  Train Interval Report : train_rmse_mean=0.007382
+2024-03-15 23:50:23,122 [INFO ]  		Validate : val_time=0.070 s, total=2.921 s, mean=0.079 s
+2024-03-15 23:50:23,122 [INFO ]  			val_rmse=0.008358, smooth_rmse=0.008260
+2024-03-15 23:50:24,058 [INFO ]  step  186 : train_time=0.140 s, total=26.728 s, mean=0.144 s
+2024-03-15 23:50:24,198 [INFO ]  step  187 : train_time=0.130 s, total=26.858 s, mean=0.144 s
+2024-03-15 23:50:24,343 [INFO ]  step  188 : train_time=0.136 s, total=26.994 s, mean=0.144 s
+2024-03-15 23:50:24,488 [INFO ]  step  189 : train_time=0.136 s, total=27.129 s, mean=0.144 s
+2024-03-15 23:50:24,635 [INFO ]  step  190 : train_time=0.138 s, total=27.268 s, mean=0.144 s
+2024-03-15 23:50:24,635 [INFO ]  Train Interval Report : train_rmse_mean=0.007423
+2024-03-15 23:50:24,705 [INFO ]  		Validate : val_time=0.070 s, total=2.991 s, mean=0.079 s
+2024-03-15 23:50:24,705 [INFO ]  			val_rmse=0.007206, smooth_rmse=0.007311
+2024-03-15 23:50:26,462 [INFO ]  step  191 : train_time=0.134 s, total=27.401 s, mean=0.143 s
+2024-03-15 23:50:26,609 [INFO ]  step  192 : train_time=0.138 s, total=27.539 s, mean=0.143 s
+2024-03-15 23:50:26,757 [INFO ]  step  193 : train_time=0.138 s, total=27.677 s, mean=0.143 s
+2024-03-15 23:50:26,901 [INFO ]  step  194 : train_time=0.136 s, total=27.813 s, mean=0.143 s
+2024-03-15 23:50:27,045 [INFO ]  step  195 : train_time=0.135 s, total=27.948 s, mean=0.143 s
+2024-03-15 23:50:27,045 [INFO ]  Train Interval Report : train_rmse_mean=0.006524
+2024-03-15 23:50:27,115 [INFO ]  		Validate : val_time=0.070 s, total=3.061 s, mean=0.078 s
+2024-03-15 23:50:27,115 [INFO ]  			val_rmse=0.007246, smooth_rmse=0.007253
+2024-03-15 23:50:28,885 [INFO ]  step  196 : train_time=0.136 s, total=28.084 s, mean=0.143 s
+2024-03-15 23:50:29,031 [INFO ]  step  197 : train_time=0.137 s, total=28.221 s, mean=0.143 s
+2024-03-15 23:50:29,177 [INFO ]  step  198 : train_time=0.136 s, total=28.357 s, mean=0.143 s
+2024-03-15 23:50:29,320 [INFO ]  step  199 : train_time=0.134 s, total=28.491 s, mean=0.143 s
+2024-03-15 23:50:29,466 [INFO ]  step  200 : train_time=0.137 s, total=28.629 s, mean=0.143 s
+2024-03-15 23:50:29,466 [INFO ]  Train Interval Report : train_rmse_mean=0.006353
+2024-03-15 23:50:29,536 [INFO ]  		Validate : val_time=0.070 s, total=3.131 s, mean=0.078 s
+2024-03-15 23:50:29,536 [INFO ]  			val_rmse=0.007317, smooth_rmse=0.007310
+2024-03-15 23:50:30,500 [INFO ]  step  201 : train_time=0.137 s, total=28.766 s, mean=0.143 s
+2024-03-15 23:50:30,644 [INFO ]  step  202 : train_time=0.134 s, total=28.900 s, mean=0.143 s
+2024-03-15 23:50:30,792 [INFO ]  step  203 : train_time=0.139 s, total=29.039 s, mean=0.143 s
+2024-03-15 23:50:30,936 [INFO ]  step  204 : train_time=0.135 s, total=29.174 s, mean=0.143 s
+2024-03-15 23:50:31,082 [INFO ]  step  205 : train_time=0.137 s, total=29.311 s, mean=0.143 s
+2024-03-15 23:50:31,082 [INFO ]  Train Interval Report : train_rmse_mean=0.006552
+2024-03-15 23:50:31,151 [INFO ]  		Validate : val_time=0.069 s, total=3.200 s, mean=0.078 s
+2024-03-15 23:50:31,151 [INFO ]  			val_rmse=0.007084, smooth_rmse=0.007106
+2024-03-15 23:50:32,896 [INFO ]  step  206 : train_time=0.131 s, total=29.441 s, mean=0.143 s
+2024-03-15 23:50:33,037 [INFO ]  step  207 : train_time=0.132 s, total=29.573 s, mean=0.143 s
+2024-03-15 23:50:33,182 [INFO ]  step  208 : train_time=0.136 s, total=29.709 s, mean=0.143 s
+2024-03-15 23:50:33,326 [INFO ]  step  209 : train_time=0.135 s, total=29.844 s, mean=0.143 s
+2024-03-15 23:50:33,470 [INFO ]  step  210 : train_time=0.135 s, total=29.979 s, mean=0.143 s
+2024-03-15 23:50:33,471 [INFO ]  Train Interval Report : train_rmse_mean=0.005931
+2024-03-15 23:50:33,538 [INFO ]  		Validate : val_time=0.068 s, total=3.267 s, mean=0.078 s
+2024-03-15 23:50:33,538 [INFO ]  			val_rmse=0.006263, smooth_rmse=0.006347
+2024-03-15 23:50:35,289 [INFO ]  step  211 : train_time=0.135 s, total=30.114 s, mean=0.143 s
+2024-03-15 23:50:35,429 [INFO ]  step  212 : train_time=0.131 s, total=30.245 s, mean=0.143 s
+2024-03-15 23:50:35,573 [INFO ]  step  213 : train_time=0.134 s, total=30.379 s, mean=0.143 s
+2024-03-15 23:50:35,717 [INFO ]  step  214 : train_time=0.135 s, total=30.515 s, mean=0.143 s
+2024-03-15 23:50:35,857 [INFO ]  step  215 : train_time=0.132 s, total=30.646 s, mean=0.143 s
+2024-03-15 23:50:35,857 [INFO ]  Train Interval Report : train_rmse_mean=0.005351
+2024-03-15 23:50:35,926 [INFO ]  		Validate : val_time=0.069 s, total=3.336 s, mean=0.078 s
+2024-03-15 23:50:35,926 [INFO ]  			val_rmse=0.006625, smooth_rmse=0.006597
+2024-03-15 23:50:36,879 [INFO ]  step  216 : train_time=0.134 s, total=30.780 s, mean=0.143 s
+2024-03-15 23:50:37,028 [INFO ]  step  217 : train_time=0.140 s, total=30.920 s, mean=0.142 s
+2024-03-15 23:50:37,170 [INFO ]  step  218 : train_time=0.133 s, total=31.053 s, mean=0.142 s
+2024-03-15 23:50:37,310 [INFO ]  step  219 : train_time=0.131 s, total=31.184 s, mean=0.142 s
+2024-03-15 23:50:37,455 [INFO ]  step  220 : train_time=0.135 s, total=31.320 s, mean=0.142 s
+2024-03-15 23:50:37,455 [INFO ]  Train Interval Report : train_rmse_mean=0.005559
+2024-03-15 23:50:37,524 [INFO ]  		Validate : val_time=0.069 s, total=3.405 s, mean=0.077 s
+2024-03-15 23:50:37,524 [INFO ]  			val_rmse=0.006058, smooth_rmse=0.006112
+2024-03-15 23:50:39,286 [INFO ]  step  221 : train_time=0.130 s, total=31.449 s, mean=0.142 s
+2024-03-15 23:50:39,432 [INFO ]  step  222 : train_time=0.137 s, total=31.586 s, mean=0.142 s
+2024-03-15 23:50:39,576 [INFO ]  step  223 : train_time=0.135 s, total=31.721 s, mean=0.142 s
+2024-03-15 23:50:39,719 [INFO ]  step  224 : train_time=0.134 s, total=31.855 s, mean=0.142 s
+2024-03-15 23:50:39,865 [INFO ]  step  225 : train_time=0.137 s, total=31.992 s, mean=0.142 s
+2024-03-15 23:50:39,865 [INFO ]  Train Interval Report : train_rmse_mean=0.005648
+2024-03-15 23:50:39,935 [INFO ]  		Validate : val_time=0.070 s, total=3.475 s, mean=0.077 s
+2024-03-15 23:50:39,935 [INFO ]  			val_rmse=0.006813, smooth_rmse=0.006742
+2024-03-15 23:50:40,902 [INFO ]  step  226 : train_time=0.133 s, total=32.125 s, mean=0.142 s
+2024-03-15 23:50:41,046 [INFO ]  step  227 : train_time=0.134 s, total=32.258 s, mean=0.142 s
+2024-03-15 23:50:41,186 [INFO ]  step  228 : train_time=0.131 s, total=32.389 s, mean=0.142 s
+2024-03-15 23:50:41,332 [INFO ]  step  229 : train_time=0.137 s, total=32.526 s, mean=0.142 s
+2024-03-15 23:50:41,475 [INFO ]  step  230 : train_time=0.134 s, total=32.660 s, mean=0.142 s
+2024-03-15 23:50:41,475 [INFO ]  Train Interval Report : train_rmse_mean=0.005859
+2024-03-15 23:50:41,541 [INFO ]  		Validate : val_time=0.067 s, total=3.542 s, mean=0.077 s
+2024-03-15 23:50:41,542 [INFO ]  			val_rmse=0.006503, smooth_rmse=0.006527
+2024-03-15 23:50:42,481 [INFO ]  step  231 : train_time=0.134 s, total=32.794 s, mean=0.142 s
+2024-03-15 23:50:42,619 [INFO ]  step  232 : train_time=0.129 s, total=32.923 s, mean=0.142 s
+2024-03-15 23:50:42,761 [INFO ]  step  233 : train_time=0.133 s, total=33.056 s, mean=0.142 s
+2024-03-15 23:50:42,904 [INFO ]  step  234 : train_time=0.133 s, total=33.189 s, mean=0.142 s
+2024-03-15 23:50:43,049 [INFO ]  step  235 : train_time=0.137 s, total=33.326 s, mean=0.142 s
+2024-03-15 23:50:43,049 [INFO ]  Train Interval Report : train_rmse_mean=0.005503
+2024-03-15 23:50:43,121 [INFO ]  		Validate : val_time=0.071 s, total=3.613 s, mean=0.077 s
+2024-03-15 23:50:43,121 [INFO ]  			val_rmse=0.006493, smooth_rmse=0.006496
+2024-03-15 23:50:44,072 [INFO ]  step  236 : train_time=0.135 s, total=33.461 s, mean=0.142 s
+2024-03-15 23:50:44,221 [INFO ]  step  237 : train_time=0.140 s, total=33.600 s, mean=0.142 s
+2024-03-15 23:50:44,371 [INFO ]  step  238 : train_time=0.141 s, total=33.741 s, mean=0.142 s
+2024-03-15 23:50:44,515 [INFO ]  step  239 : train_time=0.135 s, total=33.877 s, mean=0.142 s
+2024-03-15 23:50:44,658 [INFO ]  step  240 : train_time=0.134 s, total=34.010 s, mean=0.142 s
+2024-03-15 23:50:44,658 [INFO ]  Train Interval Report : train_rmse_mean=0.005927
+2024-03-15 23:50:44,727 [INFO ]  		Validate : val_time=0.069 s, total=3.682 s, mean=0.077 s
+2024-03-15 23:50:44,727 [INFO ]  			val_rmse=0.006513, smooth_rmse=0.006511
+2024-03-15 23:50:45,665 [INFO ]  step  241 : train_time=0.136 s, total=34.146 s, mean=0.142 s
+2024-03-15 23:50:45,808 [INFO ]  step  242 : train_time=0.134 s, total=34.281 s, mean=0.142 s
+2024-03-15 23:50:45,950 [INFO ]  step  243 : train_time=0.133 s, total=34.413 s, mean=0.142 s
+2024-03-15 23:50:46,095 [INFO ]  step  244 : train_time=0.136 s, total=34.549 s, mean=0.142 s
+2024-03-15 23:50:46,241 [INFO ]  step  245 : train_time=0.137 s, total=34.687 s, mean=0.142 s
+2024-03-15 23:50:46,241 [INFO ]  Train Interval Report : train_rmse_mean=0.005852
+2024-03-15 23:50:46,310 [INFO ]  		Validate : val_time=0.069 s, total=3.751 s, mean=0.077 s
+2024-03-15 23:50:46,310 [INFO ]  			val_rmse=0.007300, smooth_rmse=0.007221
+2024-03-15 23:50:47,257 [INFO ]  step  246 : train_time=0.135 s, total=34.822 s, mean=0.142 s
+2024-03-15 23:50:47,402 [INFO ]  step  247 : train_time=0.136 s, total=34.958 s, mean=0.142 s
+2024-03-15 23:50:47,544 [INFO ]  step  248 : train_time=0.133 s, total=35.091 s, mean=0.141 s
+2024-03-15 23:50:47,694 [INFO ]  step  249 : train_time=0.140 s, total=35.231 s, mean=0.141 s
+2024-03-15 23:50:47,835 [INFO ]  step  250 : train_time=0.133 s, total=35.364 s, mean=0.141 s
+2024-03-15 23:50:47,835 [INFO ]  Train Interval Report : train_rmse_mean=0.005847
+2024-03-15 23:50:47,905 [INFO ]  		Validate : val_time=0.070 s, total=3.820 s, mean=0.076 s
+2024-03-15 23:50:47,905 [INFO ]  			val_rmse=0.007776, smooth_rmse=0.007721
+2024-03-15 23:50:48,848 [INFO ]  step  251 : train_time=0.136 s, total=35.499 s, mean=0.141 s
+2024-03-15 23:50:48,989 [INFO ]  step  252 : train_time=0.132 s, total=35.631 s, mean=0.141 s
+2024-03-15 23:50:49,134 [INFO ]  step  253 : train_time=0.136 s, total=35.767 s, mean=0.141 s
+2024-03-15 23:50:49,281 [INFO ]  step  254 : train_time=0.134 s, total=35.901 s, mean=0.141 s
+2024-03-15 23:50:49,429 [INFO ]  step  255 : train_time=0.139 s, total=36.040 s, mean=0.141 s
+2024-03-15 23:50:49,429 [INFO ]  Train Interval Report : train_rmse_mean=0.006060
+2024-03-15 23:50:49,498 [INFO ]  		Validate : val_time=0.069 s, total=3.889 s, mean=0.076 s
+2024-03-15 23:50:49,498 [INFO ]  			val_rmse=0.006644, smooth_rmse=0.006751
+2024-03-15 23:50:50,469 [INFO ]  step  256 : train_time=0.135 s, total=36.175 s, mean=0.141 s
+2024-03-15 23:50:50,607 [INFO ]  step  257 : train_time=0.130 s, total=36.304 s, mean=0.141 s
+2024-03-15 23:50:50,749 [INFO ]  step  258 : train_time=0.132 s, total=36.436 s, mean=0.141 s
+2024-03-15 23:50:50,888 [INFO ]  step  259 : train_time=0.130 s, total=36.567 s, mean=0.141 s
+2024-03-15 23:50:51,030 [INFO ]  step  260 : train_time=0.133 s, total=36.700 s, mean=0.141 s
+2024-03-15 23:50:51,030 [INFO ]  Train Interval Report : train_rmse_mean=0.005245
+2024-03-15 23:50:51,100 [INFO ]  		Validate : val_time=0.070 s, total=3.959 s, mean=0.076 s
+2024-03-15 23:50:51,101 [INFO ]  			val_rmse=0.005754, smooth_rmse=0.005853
+2024-03-15 23:50:52,872 [INFO ]  step  261 : train_time=0.131 s, total=36.831 s, mean=0.141 s
+2024-03-15 23:50:53,017 [INFO ]  step  262 : train_time=0.136 s, total=36.967 s, mean=0.141 s
+2024-03-15 23:50:53,161 [INFO ]  step  263 : train_time=0.134 s, total=37.101 s, mean=0.141 s
+2024-03-15 23:50:53,306 [INFO ]  step  264 : train_time=0.136 s, total=37.237 s, mean=0.141 s
+2024-03-15 23:50:53,450 [INFO ]  step  265 : train_time=0.136 s, total=37.373 s, mean=0.141 s
+2024-03-15 23:50:53,451 [INFO ]  Train Interval Report : train_rmse_mean=0.004414
+2024-03-15 23:50:53,520 [INFO ]  		Validate : val_time=0.070 s, total=4.029 s, mean=0.076 s
+2024-03-15 23:50:53,520 [INFO ]  			val_rmse=0.005407, smooth_rmse=0.005452
+2024-03-15 23:50:55,305 [INFO ]  step  266 : train_time=0.133 s, total=37.506 s, mean=0.141 s
+2024-03-15 23:50:55,451 [INFO ]  step  267 : train_time=0.137 s, total=37.642 s, mean=0.141 s
+2024-03-15 23:50:55,596 [INFO ]  step  268 : train_time=0.136 s, total=37.778 s, mean=0.141 s
+2024-03-15 23:50:55,741 [INFO ]  step  269 : train_time=0.136 s, total=37.914 s, mean=0.141 s
+2024-03-15 23:50:55,887 [INFO ]  step  270 : train_time=0.137 s, total=38.051 s, mean=0.141 s
+2024-03-15 23:50:55,887 [INFO ]  Train Interval Report : train_rmse_mean=0.004317
+2024-03-15 23:50:55,957 [INFO ]  		Validate : val_time=0.069 s, total=4.098 s, mean=0.076 s
+2024-03-15 23:50:55,957 [INFO ]  			val_rmse=0.005426, smooth_rmse=0.005428
+2024-03-15 23:50:57,702 [INFO ]  step  271 : train_time=0.131 s, total=38.182 s, mean=0.141 s
+2024-03-15 23:50:57,843 [INFO ]  step  272 : train_time=0.133 s, total=38.315 s, mean=0.141 s
+2024-03-15 23:50:57,986 [INFO ]  step  273 : train_time=0.134 s, total=38.448 s, mean=0.141 s
+2024-03-15 23:50:58,133 [INFO ]  step  274 : train_time=0.138 s, total=38.587 s, mean=0.141 s
+2024-03-15 23:50:58,278 [INFO ]  step  275 : train_time=0.135 s, total=38.722 s, mean=0.141 s
+2024-03-15 23:50:58,278 [INFO ]  Train Interval Report : train_rmse_mean=0.003982
+2024-03-15 23:50:58,347 [INFO ]  		Validate : val_time=0.070 s, total=4.168 s, mean=0.076 s
+2024-03-15 23:50:58,348 [INFO ]  			val_rmse=0.005180, smooth_rmse=0.005205
+2024-03-15 23:51:00,100 [INFO ]  step  276 : train_time=0.135 s, total=38.857 s, mean=0.141 s
+2024-03-15 23:51:00,243 [INFO ]  step  277 : train_time=0.134 s, total=38.991 s, mean=0.141 s
+2024-03-15 23:51:00,388 [INFO ]  step  278 : train_time=0.136 s, total=39.127 s, mean=0.141 s
+2024-03-15 23:51:00,533 [INFO ]  step  279 : train_time=0.136 s, total=39.263 s, mean=0.141 s
+2024-03-15 23:51:00,682 [INFO ]  step  280 : train_time=0.140 s, total=39.403 s, mean=0.141 s
+2024-03-15 23:51:00,682 [INFO ]  Train Interval Report : train_rmse_mean=0.003680
+2024-03-15 23:51:00,752 [INFO ]  		Validate : val_time=0.070 s, total=4.238 s, mean=0.076 s
+2024-03-15 23:51:00,752 [INFO ]  			val_rmse=0.004740, smooth_rmse=0.004787
+2024-03-15 23:51:02,544 [INFO ]  step  281 : train_time=0.135 s, total=39.538 s, mean=0.141 s
+2024-03-15 23:51:02,693 [INFO ]  step  282 : train_time=0.139 s, total=39.677 s, mean=0.141 s
+2024-03-15 23:51:02,834 [INFO ]  step  283 : train_time=0.132 s, total=39.809 s, mean=0.141 s
+2024-03-15 23:51:02,981 [INFO ]  step  284 : train_time=0.138 s, total=39.947 s, mean=0.141 s
+2024-03-15 23:51:03,129 [INFO ]  step  285 : train_time=0.139 s, total=40.086 s, mean=0.141 s
+2024-03-15 23:51:03,129 [INFO ]  Train Interval Report : train_rmse_mean=0.003694
+2024-03-15 23:51:03,199 [INFO ]  		Validate : val_time=0.070 s, total=4.308 s, mean=0.076 s
+2024-03-15 23:51:03,199 [INFO ]  			val_rmse=0.004706, smooth_rmse=0.004714
+2024-03-15 23:51:04,941 [INFO ]  step  286 : train_time=0.132 s, total=40.218 s, mean=0.141 s
+2024-03-15 23:51:05,083 [INFO ]  step  287 : train_time=0.132 s, total=40.350 s, mean=0.141 s
+2024-03-15 23:51:05,221 [INFO ]  step  288 : train_time=0.130 s, total=40.480 s, mean=0.141 s
+2024-03-15 23:51:05,359 [INFO ]  step  289 : train_time=0.128 s, total=40.608 s, mean=0.141 s
+2024-03-15 23:51:05,502 [INFO ]  step  290 : train_time=0.135 s, total=40.743 s, mean=0.140 s
+2024-03-15 23:51:05,502 [INFO ]  Train Interval Report : train_rmse_mean=0.003744
+2024-03-15 23:51:05,571 [INFO ]  		Validate : val_time=0.068 s, total=4.376 s, mean=0.075 s
+2024-03-15 23:51:05,571 [INFO ]  			val_rmse=0.004844, smooth_rmse=0.004831
+2024-03-15 23:51:06,506 [INFO ]  step  291 : train_time=0.129 s, total=40.872 s, mean=0.140 s
+2024-03-15 23:51:06,648 [INFO ]  step  292 : train_time=0.132 s, total=41.004 s, mean=0.140 s
+2024-03-15 23:51:06,787 [INFO ]  step  293 : train_time=0.131 s, total=41.134 s, mean=0.140 s
+2024-03-15 23:51:06,929 [INFO ]  step  294 : train_time=0.133 s, total=41.267 s, mean=0.140 s
+2024-03-15 23:51:07,073 [INFO ]  step  295 : train_time=0.135 s, total=41.402 s, mean=0.140 s
+2024-03-15 23:51:07,073 [INFO ]  Train Interval Report : train_rmse_mean=0.003394
+2024-03-15 23:51:07,143 [INFO ]  		Validate : val_time=0.070 s, total=4.446 s, mean=0.075 s
+2024-03-15 23:51:07,143 [INFO ]  			val_rmse=0.004856, smooth_rmse=0.004854
+2024-03-15 23:51:08,070 [INFO ]  step  296 : train_time=0.133 s, total=41.535 s, mean=0.140 s
+2024-03-15 23:51:08,209 [INFO ]  step  297 : train_time=0.130 s, total=41.666 s, mean=0.140 s
+2024-03-15 23:51:08,352 [INFO ]  step  298 : train_time=0.134 s, total=41.800 s, mean=0.140 s
+2024-03-15 23:51:08,493 [INFO ]  step  299 : train_time=0.132 s, total=41.931 s, mean=0.140 s
+2024-03-15 23:51:08,628 [INFO ]  step  300 : train_time=0.126 s, total=42.057 s, mean=0.140 s
+2024-03-15 23:51:08,628 [INFO ]  Train Interval Report : train_rmse_mean=0.003238
+2024-03-15 23:51:08,695 [INFO ]  		Validate : val_time=0.067 s, total=4.513 s, mean=0.075 s
+2024-03-15 23:51:08,696 [INFO ]  			val_rmse=0.004825, smooth_rmse=0.004827
+2024-03-15 23:51:09,625 [INFO ]  step  301 : train_time=0.135 s, total=42.193 s, mean=0.140 s
+2024-03-15 23:51:09,772 [INFO ]  step  302 : train_time=0.137 s, total=42.330 s, mean=0.140 s
+2024-03-15 23:51:09,912 [INFO ]  step  303 : train_time=0.132 s, total=42.461 s, mean=0.140 s
+2024-03-15 23:51:10,061 [INFO ]  step  304 : train_time=0.139 s, total=42.601 s, mean=0.140 s
+2024-03-15 23:51:10,206 [INFO ]  step  305 : train_time=0.136 s, total=42.736 s, mean=0.140 s
+2024-03-15 23:51:10,206 [INFO ]  Train Interval Report : train_rmse_mean=0.003204
+2024-03-15 23:51:10,275 [INFO ]  		Validate : val_time=0.069 s, total=4.583 s, mean=0.075 s
+2024-03-15 23:51:10,275 [INFO ]  			val_rmse=0.004802, smooth_rmse=0.004804
+2024-03-15 23:51:11,230 [INFO ]  step  306 : train_time=0.133 s, total=42.869 s, mean=0.140 s
+2024-03-15 23:51:11,374 [INFO ]  step  307 : train_time=0.134 s, total=43.003 s, mean=0.140 s
+2024-03-15 23:51:11,522 [INFO ]  step  308 : train_time=0.139 s, total=43.142 s, mean=0.140 s
+2024-03-15 23:51:11,667 [INFO ]  step  309 : train_time=0.136 s, total=43.279 s, mean=0.140 s
+2024-03-15 23:51:11,808 [INFO ]  step  310 : train_time=0.132 s, total=43.411 s, mean=0.140 s
+2024-03-15 23:51:11,808 [INFO ]  Train Interval Report : train_rmse_mean=0.003304
+2024-03-15 23:51:11,878 [INFO ]  		Validate : val_time=0.070 s, total=4.652 s, mean=0.075 s
+2024-03-15 23:51:11,878 [INFO ]  			val_rmse=0.004554, smooth_rmse=0.004579
+2024-03-15 23:51:13,654 [INFO ]  step  311 : train_time=0.131 s, total=43.542 s, mean=0.140 s
+2024-03-15 23:51:13,798 [INFO ]  step  312 : train_time=0.134 s, total=43.676 s, mean=0.140 s
+2024-03-15 23:51:13,934 [INFO ]  step  313 : train_time=0.128 s, total=43.803 s, mean=0.140 s
+2024-03-15 23:51:14,076 [INFO ]  step  314 : train_time=0.133 s, total=43.936 s, mean=0.140 s
+2024-03-15 23:51:14,215 [INFO ]  step  315 : train_time=0.130 s, total=44.066 s, mean=0.140 s
+2024-03-15 23:51:14,216 [INFO ]  Train Interval Report : train_rmse_mean=0.003225
+2024-03-15 23:51:14,282 [INFO ]  		Validate : val_time=0.067 s, total=4.719 s, mean=0.075 s
+2024-03-15 23:51:14,283 [INFO ]  			val_rmse=0.004500, smooth_rmse=0.004508
+2024-03-15 23:51:16,086 [INFO ]  step  316 : train_time=0.134 s, total=44.201 s, mean=0.140 s
+2024-03-15 23:51:16,225 [INFO ]  step  317 : train_time=0.130 s, total=44.330 s, mean=0.140 s
+2024-03-15 23:51:16,366 [INFO ]  step  318 : train_time=0.132 s, total=44.463 s, mean=0.140 s
+2024-03-15 23:51:16,513 [INFO ]  step  319 : train_time=0.138 s, total=44.600 s, mean=0.140 s
+2024-03-15 23:51:16,660 [INFO ]  step  320 : train_time=0.138 s, total=44.738 s, mean=0.140 s
+2024-03-15 23:51:16,660 [INFO ]  Train Interval Report : train_rmse_mean=0.003048
+2024-03-15 23:51:16,730 [INFO ]  		Validate : val_time=0.070 s, total=4.789 s, mean=0.075 s
+2024-03-15 23:51:16,730 [INFO ]  			val_rmse=0.004567, smooth_rmse=0.004561
+2024-03-15 23:51:17,665 [INFO ]  step  321 : train_time=0.133 s, total=44.871 s, mean=0.140 s
+2024-03-15 23:51:17,808 [INFO ]  step  322 : train_time=0.133 s, total=45.004 s, mean=0.140 s
+2024-03-15 23:51:17,952 [INFO ]  step  323 : train_time=0.135 s, total=45.139 s, mean=0.140 s
+2024-03-15 23:51:18,098 [INFO ]  step  324 : train_time=0.137 s, total=45.277 s, mean=0.140 s
+2024-03-15 23:51:18,240 [INFO ]  step  325 : train_time=0.133 s, total=45.410 s, mean=0.140 s
+2024-03-15 23:51:18,240 [INFO ]  Train Interval Report : train_rmse_mean=0.003118
+2024-03-15 23:51:18,310 [INFO ]  		Validate : val_time=0.069 s, total=4.858 s, mean=0.075 s
+2024-03-15 23:51:18,310 [INFO ]  			val_rmse=0.004711, smooth_rmse=0.004696
+2024-03-15 23:51:19,236 [INFO ]  step  326 : train_time=0.132 s, total=45.541 s, mean=0.140 s
+2024-03-15 23:51:19,380 [INFO ]  step  327 : train_time=0.135 s, total=45.676 s, mean=0.140 s
+2024-03-15 23:51:19,524 [INFO ]  step  328 : train_time=0.135 s, total=45.811 s, mean=0.140 s
+2024-03-15 23:51:19,672 [INFO ]  step  329 : train_time=0.139 s, total=45.951 s, mean=0.140 s
+2024-03-15 23:51:19,815 [INFO ]  step  330 : train_time=0.134 s, total=46.084 s, mean=0.140 s
+2024-03-15 23:51:19,815 [INFO ]  Train Interval Report : train_rmse_mean=0.003188
+2024-03-15 23:51:19,886 [INFO ]  		Validate : val_time=0.070 s, total=4.928 s, mean=0.075 s
+2024-03-15 23:51:19,886 [INFO ]  			val_rmse=0.004563, smooth_rmse=0.004576
+2024-03-15 23:51:20,817 [INFO ]  step  331 : train_time=0.132 s, total=46.216 s, mean=0.140 s
+2024-03-15 23:51:20,956 [INFO ]  step  332 : train_time=0.130 s, total=46.346 s, mean=0.140 s
+2024-03-15 23:51:21,100 [INFO ]  step  333 : train_time=0.135 s, total=46.481 s, mean=0.140 s
+2024-03-15 23:51:21,248 [INFO ]  step  334 : train_time=0.139 s, total=46.620 s, mean=0.140 s
+2024-03-15 23:51:21,394 [INFO ]  step  335 : train_time=0.137 s, total=46.757 s, mean=0.140 s
+2024-03-15 23:51:21,394 [INFO ]  Train Interval Report : train_rmse_mean=0.002957
+2024-03-15 23:51:21,463 [INFO ]  		Validate : val_time=0.068 s, total=4.997 s, mean=0.075 s
+2024-03-15 23:51:21,463 [INFO ]  			val_rmse=0.004413, smooth_rmse=0.004429
+2024-03-15 23:51:23,218 [INFO ]  step  336 : train_time=0.133 s, total=46.890 s, mean=0.140 s
+2024-03-15 23:51:23,357 [INFO ]  step  337 : train_time=0.130 s, total=47.020 s, mean=0.140 s
+2024-03-15 23:51:23,504 [INFO ]  step  338 : train_time=0.137 s, total=47.157 s, mean=0.140 s
+2024-03-15 23:51:23,647 [INFO ]  step  339 : train_time=0.134 s, total=47.291 s, mean=0.140 s
+2024-03-15 23:51:23,788 [INFO ]  step  340 : train_time=0.132 s, total=47.423 s, mean=0.139 s
+2024-03-15 23:51:23,788 [INFO ]  Train Interval Report : train_rmse_mean=0.003154
+2024-03-15 23:51:23,857 [INFO ]  		Validate : val_time=0.069 s, total=5.066 s, mean=0.074 s
+2024-03-15 23:51:23,858 [INFO ]  			val_rmse=0.004613, smooth_rmse=0.004595
+2024-03-15 23:51:24,803 [INFO ]  step  341 : train_time=0.136 s, total=47.559 s, mean=0.139 s
+2024-03-15 23:51:24,950 [INFO ]  step  342 : train_time=0.138 s, total=47.697 s, mean=0.139 s
+2024-03-15 23:51:25,089 [INFO ]  step  343 : train_time=0.129 s, total=47.826 s, mean=0.139 s
+2024-03-15 23:51:25,228 [INFO ]  step  344 : train_time=0.130 s, total=47.956 s, mean=0.139 s
+2024-03-15 23:51:25,370 [INFO ]  step  345 : train_time=0.134 s, total=48.090 s, mean=0.139 s
+2024-03-15 23:51:25,370 [INFO ]  Train Interval Report : train_rmse_mean=0.003037
+2024-03-15 23:51:25,439 [INFO ]  		Validate : val_time=0.068 s, total=5.134 s, mean=0.074 s
+2024-03-15 23:51:25,439 [INFO ]  			val_rmse=0.004380, smooth_rmse=0.004402
+2024-03-15 23:51:27,224 [INFO ]  step  346 : train_time=0.130 s, total=48.220 s, mean=0.139 s
+2024-03-15 23:51:27,369 [INFO ]  step  347 : train_time=0.136 s, total=48.356 s, mean=0.139 s
+2024-03-15 23:51:27,513 [INFO ]  step  348 : train_time=0.135 s, total=48.491 s, mean=0.139 s
+2024-03-15 23:51:27,658 [INFO ]  step  349 : train_time=0.135 s, total=48.626 s, mean=0.139 s
+2024-03-15 23:51:27,802 [INFO ]  step  350 : train_time=0.136 s, total=48.762 s, mean=0.139 s
+2024-03-15 23:51:27,802 [INFO ]  Train Interval Report : train_rmse_mean=0.002893
+2024-03-15 23:51:27,872 [INFO ]  		Validate : val_time=0.070 s, total=5.204 s, mean=0.074 s
+2024-03-15 23:51:27,872 [INFO ]  			val_rmse=0.004399, smooth_rmse=0.004399
+2024-03-15 23:51:29,634 [INFO ]  step  351 : train_time=0.129 s, total=48.891 s, mean=0.139 s
+2024-03-15 23:51:29,777 [INFO ]  step  352 : train_time=0.134 s, total=49.025 s, mean=0.139 s
+2024-03-15 23:51:29,918 [INFO ]  step  353 : train_time=0.132 s, total=49.156 s, mean=0.139 s
+2024-03-15 23:51:30,057 [INFO ]  step  354 : train_time=0.131 s, total=49.287 s, mean=0.139 s
+2024-03-15 23:51:30,198 [INFO ]  step  355 : train_time=0.132 s, total=49.419 s, mean=0.139 s
+2024-03-15 23:51:30,198 [INFO ]  Train Interval Report : train_rmse_mean=0.002871
+2024-03-15 23:51:30,265 [INFO ]  		Validate : val_time=0.066 s, total=5.270 s, mean=0.074 s
+2024-03-15 23:51:30,265 [INFO ]  			val_rmse=0.004336, smooth_rmse=0.004343
+2024-03-15 23:51:32,037 [INFO ]  step  356 : train_time=0.132 s, total=49.551 s, mean=0.139 s
+2024-03-15 23:51:32,178 [INFO ]  step  357 : train_time=0.131 s, total=49.682 s, mean=0.139 s
+2024-03-15 23:51:32,320 [INFO ]  step  358 : train_time=0.132 s, total=49.814 s, mean=0.139 s
+2024-03-15 23:51:32,462 [INFO ]  step  359 : train_time=0.133 s, total=49.948 s, mean=0.139 s
+2024-03-15 23:51:32,606 [INFO ]  step  360 : train_time=0.135 s, total=50.083 s, mean=0.139 s
+2024-03-15 23:51:32,606 [INFO ]  Train Interval Report : train_rmse_mean=0.002908
+2024-03-15 23:51:32,676 [INFO ]  		Validate : val_time=0.070 s, total=5.340 s, mean=0.074 s
+2024-03-15 23:51:32,676 [INFO ]  			val_rmse=0.004089, smooth_rmse=0.004115
+2024-03-15 23:51:34,472 [INFO ]  step  361 : train_time=0.131 s, total=50.214 s, mean=0.139 s
+2024-03-15 23:51:34,619 [INFO ]  step  362 : train_time=0.137 s, total=50.351 s, mean=0.139 s
+2024-03-15 23:51:34,764 [INFO ]  step  363 : train_time=0.136 s, total=50.487 s, mean=0.139 s
+2024-03-15 23:51:34,910 [INFO ]  step  364 : train_time=0.136 s, total=50.624 s, mean=0.139 s
+2024-03-15 23:51:35,055 [INFO ]  step  365 : train_time=0.136 s, total=50.760 s, mean=0.139 s
+2024-03-15 23:51:35,055 [INFO ]  Train Interval Report : train_rmse_mean=0.002723
+2024-03-15 23:51:35,124 [INFO ]  		Validate : val_time=0.068 s, total=5.408 s, mean=0.074 s
+2024-03-15 23:51:35,124 [INFO ]  			val_rmse=0.004003, smooth_rmse=0.004014
+2024-03-15 23:51:36,901 [INFO ]  step  366 : train_time=0.129 s, total=50.889 s, mean=0.139 s
+2024-03-15 23:51:37,045 [INFO ]  step  367 : train_time=0.134 s, total=51.023 s, mean=0.139 s
+2024-03-15 23:51:37,187 [INFO ]  step  368 : train_time=0.134 s, total=51.156 s, mean=0.139 s
+2024-03-15 23:51:37,333 [INFO ]  step  369 : train_time=0.137 s, total=51.293 s, mean=0.139 s
+2024-03-15 23:51:37,478 [INFO ]  step  370 : train_time=0.136 s, total=51.429 s, mean=0.139 s
+2024-03-15 23:51:37,478 [INFO ]  Train Interval Report : train_rmse_mean=0.002745
+2024-03-15 23:51:37,548 [INFO ]  		Validate : val_time=0.070 s, total=5.478 s, mean=0.074 s
+2024-03-15 23:51:37,548 [INFO ]  			val_rmse=0.004409, smooth_rmse=0.004369
+2024-03-15 23:51:38,479 [INFO ]  step  371 : train_time=0.130 s, total=51.559 s, mean=0.139 s
+2024-03-15 23:51:38,623 [INFO ]  step  372 : train_time=0.134 s, total=51.693 s, mean=0.139 s
+2024-03-15 23:51:38,769 [INFO ]  step  373 : train_time=0.137 s, total=51.830 s, mean=0.139 s
+2024-03-15 23:51:38,914 [INFO ]  step  374 : train_time=0.136 s, total=51.966 s, mean=0.139 s
+2024-03-15 23:51:39,060 [INFO ]  step  375 : train_time=0.137 s, total=52.103 s, mean=0.139 s
+2024-03-15 23:51:39,060 [INFO ]  Train Interval Report : train_rmse_mean=0.002725
+2024-03-15 23:51:39,130 [INFO ]  		Validate : val_time=0.070 s, total=5.548 s, mean=0.074 s
+2024-03-15 23:51:39,130 [INFO ]  			val_rmse=0.003819, smooth_rmse=0.003874
+2024-03-15 23:51:40,844 [INFO ]  step  376 : train_time=0.132 s, total=52.236 s, mean=0.139 s
+2024-03-15 23:51:40,984 [INFO ]  step  377 : train_time=0.130 s, total=52.366 s, mean=0.139 s
+2024-03-15 23:51:41,125 [INFO ]  step  378 : train_time=0.132 s, total=52.498 s, mean=0.139 s
+2024-03-15 23:51:41,268 [INFO ]  step  379 : train_time=0.133 s, total=52.632 s, mean=0.139 s
+2024-03-15 23:51:41,409 [INFO ]  step  380 : train_time=0.132 s, total=52.763 s, mean=0.139 s
+2024-03-15 23:51:41,409 [INFO ]  Train Interval Report : train_rmse_mean=0.002518
+2024-03-15 23:51:41,478 [INFO ]  		Validate : val_time=0.069 s, total=5.617 s, mean=0.074 s
+2024-03-15 23:51:41,478 [INFO ]  			val_rmse=0.003852, smooth_rmse=0.003854
+2024-03-15 23:51:43,235 [INFO ]  step  381 : train_time=0.129 s, total=52.893 s, mean=0.139 s
+2024-03-15 23:51:43,385 [INFO ]  step  382 : train_time=0.140 s, total=53.033 s, mean=0.139 s
+2024-03-15 23:51:43,526 [INFO ]  step  383 : train_time=0.132 s, total=53.165 s, mean=0.139 s
+2024-03-15 23:51:43,674 [INFO ]  step  384 : train_time=0.138 s, total=53.303 s, mean=0.139 s
+2024-03-15 23:51:43,816 [INFO ]  step  385 : train_time=0.133 s, total=53.436 s, mean=0.139 s
+2024-03-15 23:51:43,816 [INFO ]  Train Interval Report : train_rmse_mean=0.002457
+2024-03-15 23:51:43,886 [INFO ]  		Validate : val_time=0.070 s, total=5.687 s, mean=0.074 s
+2024-03-15 23:51:43,887 [INFO ]  			val_rmse=0.003828, smooth_rmse=0.003830
+2024-03-15 23:51:45,676 [INFO ]  step  386 : train_time=0.133 s, total=53.569 s, mean=0.139 s
+2024-03-15 23:51:45,826 [INFO ]  step  387 : train_time=0.139 s, total=53.708 s, mean=0.139 s
+2024-03-15 23:51:45,967 [INFO ]  step  388 : train_time=0.130 s, total=53.838 s, mean=0.139 s
+2024-03-15 23:51:46,108 [INFO ]  step  389 : train_time=0.130 s, total=53.968 s, mean=0.139 s
+2024-03-15 23:51:46,247 [INFO ]  step  390 : train_time=0.129 s, total=54.097 s, mean=0.139 s
+2024-03-15 23:51:46,247 [INFO ]  Train Interval Report : train_rmse_mean=0.002428
+2024-03-15 23:51:46,320 [INFO ]  		Validate : val_time=0.072 s, total=5.759 s, mean=0.074 s
+2024-03-15 23:51:46,320 [INFO ]  			val_rmse=0.004104, smooth_rmse=0.004077
+2024-03-15 23:51:47,257 [INFO ]  step  391 : train_time=0.131 s, total=54.228 s, mean=0.139 s
+2024-03-15 23:51:47,399 [INFO ]  step  392 : train_time=0.132 s, total=54.360 s, mean=0.139 s
+2024-03-15 23:51:47,537 [INFO ]  step  393 : train_time=0.128 s, total=54.488 s, mean=0.139 s
+2024-03-15 23:51:47,683 [INFO ]  step  394 : train_time=0.136 s, total=54.624 s, mean=0.139 s
+2024-03-15 23:51:47,821 [INFO ]  step  395 : train_time=0.129 s, total=54.754 s, mean=0.139 s
+2024-03-15 23:51:47,821 [INFO ]  Train Interval Report : train_rmse_mean=0.002438
+2024-03-15 23:51:47,888 [INFO ]  		Validate : val_time=0.067 s, total=5.826 s, mean=0.074 s
+2024-03-15 23:51:47,888 [INFO ]  			val_rmse=0.004034, smooth_rmse=0.004038
+2024-03-15 23:51:48,833 [INFO ]  step  396 : train_time=0.134 s, total=54.888 s, mean=0.139 s
+2024-03-15 23:51:48,973 [INFO ]  step  397 : train_time=0.131 s, total=55.019 s, mean=0.139 s
+2024-03-15 23:51:49,114 [INFO ]  step  398 : train_time=0.132 s, total=55.150 s, mean=0.139 s
+2024-03-15 23:51:49,255 [INFO ]  step  399 : train_time=0.132 s, total=55.283 s, mean=0.139 s
+2024-03-15 23:51:49,403 [INFO ]  step  400 : train_time=0.139 s, total=55.421 s, mean=0.139 s
+2024-03-15 23:51:49,404 [INFO ]  Train Interval Report : train_rmse_mean=0.002308
+2024-03-15 23:51:49,473 [INFO ]  		Validate : val_time=0.069 s, total=5.895 s, mean=0.074 s
+2024-03-15 23:51:49,473 [INFO ]  			val_rmse=0.003842, smooth_rmse=0.003862
+2024-03-15 23:51:50,408 [INFO ]  step  401 : train_time=0.134 s, total=55.556 s, mean=0.139 s
+2024-03-15 23:51:50,553 [INFO ]  step  402 : train_time=0.135 s, total=55.691 s, mean=0.139 s
+2024-03-15 23:51:50,698 [INFO ]  step  403 : train_time=0.136 s, total=55.827 s, mean=0.139 s
+2024-03-15 23:51:50,841 [INFO ]  step  404 : train_time=0.134 s, total=55.961 s, mean=0.139 s
+2024-03-15 23:51:50,984 [INFO ]  step  405 : train_time=0.134 s, total=56.095 s, mean=0.139 s
+2024-03-15 23:51:50,984 [INFO ]  Train Interval Report : train_rmse_mean=0.002099
+2024-03-15 23:51:51,054 [INFO ]  		Validate : val_time=0.070 s, total=5.965 s, mean=0.074 s
+2024-03-15 23:51:51,054 [INFO ]  			val_rmse=0.003702, smooth_rmse=0.003718
+2024-03-15 23:51:52,845 [INFO ]  step  406 : train_time=0.131 s, total=56.225 s, mean=0.138 s
+2024-03-15 23:51:52,992 [INFO ]  step  407 : train_time=0.137 s, total=56.363 s, mean=0.138 s
+2024-03-15 23:51:53,136 [INFO ]  step  408 : train_time=0.135 s, total=56.497 s, mean=0.138 s
+2024-03-15 23:51:53,280 [INFO ]  step  409 : train_time=0.135 s, total=56.633 s, mean=0.138 s
+2024-03-15 23:51:53,427 [INFO ]  step  410 : train_time=0.138 s, total=56.770 s, mean=0.138 s
+2024-03-15 23:51:53,427 [INFO ]  Train Interval Report : train_rmse_mean=0.002412
+2024-03-15 23:51:53,497 [INFO ]  		Validate : val_time=0.070 s, total=6.035 s, mean=0.074 s
+2024-03-15 23:51:53,497 [INFO ]  			val_rmse=0.003788, smooth_rmse=0.003781
+2024-03-15 23:51:54,453 [INFO ]  step  411 : train_time=0.130 s, total=56.901 s, mean=0.138 s
+2024-03-15 23:51:54,596 [INFO ]  step  412 : train_time=0.134 s, total=57.034 s, mean=0.138 s
+2024-03-15 23:51:54,744 [INFO ]  step  413 : train_time=0.139 s, total=57.173 s, mean=0.138 s
+2024-03-15 23:51:54,888 [INFO ]  step  414 : train_time=0.136 s, total=57.308 s, mean=0.138 s
+2024-03-15 23:51:55,034 [INFO ]  step  415 : train_time=0.137 s, total=57.445 s, mean=0.138 s
+2024-03-15 23:51:55,034 [INFO ]  Train Interval Report : train_rmse_mean=0.002211
+2024-03-15 23:51:55,104 [INFO ]  		Validate : val_time=0.070 s, total=6.105 s, mean=0.074 s
+2024-03-15 23:51:55,104 [INFO ]  			val_rmse=0.003813, smooth_rmse=0.003810
+2024-03-15 23:51:56,043 [INFO ]  step  416 : train_time=0.130 s, total=57.575 s, mean=0.138 s
+2024-03-15 23:51:56,184 [INFO ]  step  417 : train_time=0.132 s, total=57.707 s, mean=0.138 s
+2024-03-15 23:51:56,325 [INFO ]  step  418 : train_time=0.132 s, total=57.839 s, mean=0.138 s
+2024-03-15 23:51:56,471 [INFO ]  step  419 : train_time=0.137 s, total=57.976 s, mean=0.138 s
+2024-03-15 23:51:56,618 [INFO ]  step  420 : train_time=0.138 s, total=58.114 s, mean=0.138 s
+2024-03-15 23:51:56,618 [INFO ]  Train Interval Report : train_rmse_mean=0.002215
+2024-03-15 23:51:56,687 [INFO ]  		Validate : val_time=0.069 s, total=6.173 s, mean=0.073 s
+2024-03-15 23:51:56,687 [INFO ]  			val_rmse=0.003595, smooth_rmse=0.003617
+2024-03-15 23:51:58,443 [INFO ]  step  421 : train_time=0.134 s, total=58.248 s, mean=0.138 s
+2024-03-15 23:51:58,582 [INFO ]  step  422 : train_time=0.130 s, total=58.378 s, mean=0.138 s
+2024-03-15 23:51:58,722 [INFO ]  step  423 : train_time=0.130 s, total=58.508 s, mean=0.138 s
+2024-03-15 23:51:58,861 [INFO ]  step  424 : train_time=0.131 s, total=58.639 s, mean=0.138 s
+2024-03-15 23:51:59,004 [INFO ]  step  425 : train_time=0.134 s, total=58.772 s, mean=0.138 s
+2024-03-15 23:51:59,004 [INFO ]  Train Interval Report : train_rmse_mean=0.001885
+2024-03-15 23:51:59,072 [INFO ]  		Validate : val_time=0.068 s, total=6.241 s, mean=0.073 s
+2024-03-15 23:51:59,072 [INFO ]  			val_rmse=0.003611, smooth_rmse=0.003611
+2024-03-15 23:52:00,794 [INFO ]  step  426 : train_time=0.131 s, total=58.903 s, mean=0.138 s
+2024-03-15 23:52:00,938 [INFO ]  step  427 : train_time=0.135 s, total=59.039 s, mean=0.138 s
+2024-03-15 23:52:01,087 [INFO ]  step  428 : train_time=0.139 s, total=59.178 s, mean=0.138 s
+2024-03-15 23:52:01,233 [INFO ]  step  429 : train_time=0.137 s, total=59.315 s, mean=0.138 s
+2024-03-15 23:52:01,375 [INFO ]  step  430 : train_time=0.134 s, total=59.449 s, mean=0.138 s
+2024-03-15 23:52:01,375 [INFO ]  Train Interval Report : train_rmse_mean=0.002032
+2024-03-15 23:52:01,445 [INFO ]  		Validate : val_time=0.070 s, total=6.311 s, mean=0.073 s
+2024-03-15 23:52:01,446 [INFO ]  			val_rmse=0.003532, smooth_rmse=0.003540
+2024-03-15 23:52:03,191 [INFO ]  step  431 : train_time=0.132 s, total=59.581 s, mean=0.138 s
+2024-03-15 23:52:03,335 [INFO ]  step  432 : train_time=0.134 s, total=59.715 s, mean=0.138 s
+2024-03-15 23:52:03,481 [INFO ]  step  433 : train_time=0.137 s, total=59.852 s, mean=0.138 s
+2024-03-15 23:52:03,625 [INFO ]  step  434 : train_time=0.134 s, total=59.987 s, mean=0.138 s
+2024-03-15 23:52:03,772 [INFO ]  step  435 : train_time=0.137 s, total=60.124 s, mean=0.138 s
+2024-03-15 23:52:03,772 [INFO ]  Train Interval Report : train_rmse_mean=0.002054
+2024-03-15 23:52:03,841 [INFO ]  		Validate : val_time=0.070 s, total=6.381 s, mean=0.073 s
+2024-03-15 23:52:03,841 [INFO ]  			val_rmse=0.003742, smooth_rmse=0.003722
+2024-03-15 23:52:04,798 [INFO ]  step  436 : train_time=0.132 s, total=60.256 s, mean=0.138 s
+2024-03-15 23:52:04,938 [INFO ]  step  437 : train_time=0.130 s, total=60.386 s, mean=0.138 s
+2024-03-15 23:52:05,075 [INFO ]  step  438 : train_time=0.129 s, total=60.515 s, mean=0.138 s
+2024-03-15 23:52:05,215 [INFO ]  step  439 : train_time=0.131 s, total=60.646 s, mean=0.138 s
+2024-03-15 23:52:05,356 [INFO ]  step  440 : train_time=0.132 s, total=60.777 s, mean=0.138 s
+2024-03-15 23:52:05,356 [INFO ]  Train Interval Report : train_rmse_mean=0.002185
+2024-03-15 23:52:05,423 [INFO ]  		Validate : val_time=0.067 s, total=6.448 s, mean=0.073 s
+2024-03-15 23:52:05,424 [INFO ]  			val_rmse=0.003631, smooth_rmse=0.003640
+2024-03-15 23:52:06,387 [INFO ]  step  441 : train_time=0.135 s, total=60.912 s, mean=0.138 s
+2024-03-15 23:52:06,530 [INFO ]  step  442 : train_time=0.134 s, total=61.046 s, mean=0.138 s
+2024-03-15 23:52:06,673 [INFO ]  step  443 : train_time=0.134 s, total=61.180 s, mean=0.138 s
+2024-03-15 23:52:06,817 [INFO ]  step  444 : train_time=0.135 s, total=61.314 s, mean=0.138 s
+2024-03-15 23:52:06,961 [INFO ]  step  445 : train_time=0.135 s, total=61.449 s, mean=0.138 s
+2024-03-15 23:52:06,961 [INFO ]  Train Interval Report : train_rmse_mean=0.002399
+2024-03-15 23:52:07,031 [INFO ]  		Validate : val_time=0.070 s, total=6.518 s, mean=0.073 s
+2024-03-15 23:52:07,031 [INFO ]  			val_rmse=0.004232, smooth_rmse=0.004173
+2024-03-15 23:52:08,000 [INFO ]  step  446 : train_time=0.131 s, total=61.580 s, mean=0.138 s
+2024-03-15 23:52:08,149 [INFO ]  step  447 : train_time=0.139 s, total=61.719 s, mean=0.138 s
+2024-03-15 23:52:08,294 [INFO ]  step  448 : train_time=0.136 s, total=61.855 s, mean=0.138 s
+2024-03-15 23:52:08,437 [INFO ]  step  449 : train_time=0.134 s, total=61.989 s, mean=0.138 s
+2024-03-15 23:52:08,582 [INFO ]  step  450 : train_time=0.136 s, total=62.126 s, mean=0.138 s
+2024-03-15 23:52:08,582 [INFO ]  Train Interval Report : train_rmse_mean=0.002611
+2024-03-15 23:52:08,652 [INFO ]  		Validate : val_time=0.069 s, total=6.587 s, mean=0.073 s
+2024-03-15 23:52:08,652 [INFO ]  			val_rmse=0.004142, smooth_rmse=0.004145
+2024-03-15 23:52:09,581 [INFO ]  step  451 : train_time=0.130 s, total=62.256 s, mean=0.138 s
+2024-03-15 23:52:09,723 [INFO ]  step  452 : train_time=0.132 s, total=62.388 s, mean=0.138 s
+2024-03-15 23:52:09,860 [INFO ]  step  453 : train_time=0.128 s, total=62.516 s, mean=0.138 s
+2024-03-15 23:52:09,998 [INFO ]  step  454 : train_time=0.129 s, total=62.645 s, mean=0.138 s
+2024-03-15 23:52:10,137 [INFO ]  step  455 : train_time=0.130 s, total=62.775 s, mean=0.138 s
+2024-03-15 23:52:10,137 [INFO ]  Train Interval Report : train_rmse_mean=0.002456
+2024-03-15 23:52:10,204 [INFO ]  		Validate : val_time=0.066 s, total=6.654 s, mean=0.073 s
+2024-03-15 23:52:10,204 [INFO ]  			val_rmse=0.004068, smooth_rmse=0.004076
+2024-03-15 23:52:11,152 [INFO ]  step  456 : train_time=0.136 s, total=62.911 s, mean=0.138 s
+2024-03-15 23:52:11,289 [INFO ]  step  457 : train_time=0.128 s, total=63.039 s, mean=0.138 s
+2024-03-15 23:52:11,432 [INFO ]  step  458 : train_time=0.134 s, total=63.173 s, mean=0.138 s
+2024-03-15 23:52:11,571 [INFO ]  step  459 : train_time=0.130 s, total=63.302 s, mean=0.138 s
+2024-03-15 23:52:11,710 [INFO ]  step  460 : train_time=0.130 s, total=63.432 s, mean=0.138 s
+2024-03-15 23:52:11,711 [INFO ]  Train Interval Report : train_rmse_mean=0.002401
+2024-03-15 23:52:11,778 [INFO ]  		Validate : val_time=0.068 s, total=6.721 s, mean=0.073 s
+2024-03-15 23:52:11,778 [INFO ]  			val_rmse=0.003783, smooth_rmse=0.003812
+2024-03-15 23:52:12,730 [INFO ]  step  461 : train_time=0.135 s, total=63.567 s, mean=0.138 s
+2024-03-15 23:52:12,876 [INFO ]  step  462 : train_time=0.136 s, total=63.703 s, mean=0.138 s
+2024-03-15 23:52:13,015 [INFO ]  step  463 : train_time=0.130 s, total=63.833 s, mean=0.138 s
+2024-03-15 23:52:13,157 [INFO ]  step  464 : train_time=0.132 s, total=63.965 s, mean=0.138 s
+2024-03-15 23:52:13,299 [INFO ]  step  465 : train_time=0.134 s, total=64.099 s, mean=0.138 s
+2024-03-15 23:52:13,300 [INFO ]  Train Interval Report : train_rmse_mean=0.002048
+2024-03-15 23:52:13,369 [INFO ]  		Validate : val_time=0.069 s, total=6.790 s, mean=0.073 s
+2024-03-15 23:52:13,369 [INFO ]  			val_rmse=0.003680, smooth_rmse=0.003694
+2024-03-15 23:52:14,303 [INFO ]  step  466 : train_time=0.131 s, total=64.230 s, mean=0.138 s
+2024-03-15 23:52:14,448 [INFO ]  step  467 : train_time=0.136 s, total=64.366 s, mean=0.138 s
+2024-03-15 23:52:14,594 [INFO ]  step  468 : train_time=0.137 s, total=64.503 s, mean=0.138 s
+2024-03-15 23:52:14,740 [INFO ]  step  469 : train_time=0.136 s, total=64.639 s, mean=0.138 s
+2024-03-15 23:52:14,882 [INFO ]  step  470 : train_time=0.133 s, total=64.772 s, mean=0.138 s
+2024-03-15 23:52:14,882 [INFO ]  Train Interval Report : train_rmse_mean=0.001976
+2024-03-15 23:52:14,952 [INFO ]  		Validate : val_time=0.070 s, total=6.860 s, mean=0.073 s
+2024-03-15 23:52:14,952 [INFO ]  			val_rmse=0.003481, smooth_rmse=0.003502
+2024-03-15 23:52:16,717 [INFO ]  step  471 : train_time=0.132 s, total=64.904 s, mean=0.138 s
+2024-03-15 23:52:16,860 [INFO ]  step  472 : train_time=0.134 s, total=65.038 s, mean=0.138 s
+2024-03-15 23:52:17,004 [INFO ]  step  473 : train_time=0.134 s, total=65.172 s, mean=0.138 s
+2024-03-15 23:52:17,150 [INFO ]  step  474 : train_time=0.137 s, total=65.309 s, mean=0.138 s
+2024-03-15 23:52:17,296 [INFO ]  step  475 : train_time=0.136 s, total=65.446 s, mean=0.138 s
+2024-03-15 23:52:17,296 [INFO ]  Train Interval Report : train_rmse_mean=0.001754
+2024-03-15 23:52:17,364 [INFO ]  		Validate : val_time=0.069 s, total=6.929 s, mean=0.073 s
+2024-03-15 23:52:17,365 [INFO ]  			val_rmse=0.003387, smooth_rmse=0.003398
+2024-03-15 23:52:19,133 [INFO ]  step  476 : train_time=0.131 s, total=65.577 s, mean=0.138 s
+2024-03-15 23:52:19,273 [INFO ]  step  477 : train_time=0.130 s, total=65.707 s, mean=0.138 s
+2024-03-15 23:52:19,412 [INFO ]  step  478 : train_time=0.130 s, total=65.837 s, mean=0.138 s
+2024-03-15 23:52:19,554 [INFO ]  step  479 : train_time=0.133 s, total=65.970 s, mean=0.138 s
+2024-03-15 23:52:19,691 [INFO ]  step  480 : train_time=0.129 s, total=66.099 s, mean=0.138 s
+2024-03-15 23:52:19,692 [INFO ]  Train Interval Report : train_rmse_mean=0.001571
+2024-03-15 23:52:19,759 [INFO ]  		Validate : val_time=0.068 s, total=6.997 s, mean=0.073 s
+2024-03-15 23:52:19,760 [INFO ]  			val_rmse=0.003362, smooth_rmse=0.003366
+2024-03-15 23:52:21,532 [INFO ]  step  481 : train_time=0.131 s, total=66.230 s, mean=0.138 s
+2024-03-15 23:52:21,677 [INFO ]  step  482 : train_time=0.136 s, total=66.366 s, mean=0.138 s
+2024-03-15 23:52:21,818 [INFO ]  step  483 : train_time=0.132 s, total=66.498 s, mean=0.138 s
+2024-03-15 23:52:21,960 [INFO ]  step  484 : train_time=0.133 s, total=66.631 s, mean=0.138 s
+2024-03-15 23:52:22,105 [INFO ]  step  485 : train_time=0.136 s, total=66.766 s, mean=0.138 s
+2024-03-15 23:52:22,105 [INFO ]  Train Interval Report : train_rmse_mean=0.001381
+2024-03-15 23:52:22,175 [INFO ]  		Validate : val_time=0.070 s, total=7.066 s, mean=0.073 s
+2024-03-15 23:52:22,175 [INFO ]  			val_rmse=0.003426, smooth_rmse=0.003420
+2024-03-15 23:52:23,116 [INFO ]  step  486 : train_time=0.130 s, total=66.896 s, mean=0.138 s
+2024-03-15 23:52:23,257 [INFO ]  step  487 : train_time=0.132 s, total=67.028 s, mean=0.138 s
+2024-03-15 23:52:23,397 [INFO ]  step  488 : train_time=0.131 s, total=67.159 s, mean=0.138 s
+2024-03-15 23:52:23,545 [INFO ]  step  489 : train_time=0.139 s, total=67.298 s, mean=0.138 s
+2024-03-15 23:52:23,692 [INFO ]  step  490 : train_time=0.137 s, total=67.435 s, mean=0.138 s
+2024-03-15 23:52:23,692 [INFO ]  Train Interval Report : train_rmse_mean=0.001433
+2024-03-15 23:52:23,762 [INFO ]  		Validate : val_time=0.070 s, total=7.136 s, mean=0.073 s
+2024-03-15 23:52:23,762 [INFO ]  			val_rmse=0.003343, smooth_rmse=0.003351
+2024-03-15 23:52:25,502 [INFO ]  step  491 : train_time=0.134 s, total=67.569 s, mean=0.138 s
+2024-03-15 23:52:25,643 [INFO ]  step  492 : train_time=0.132 s, total=67.701 s, mean=0.138 s
+2024-03-15 23:52:25,788 [INFO ]  step  493 : train_time=0.136 s, total=67.836 s, mean=0.138 s
+2024-03-15 23:52:25,933 [INFO ]  step  494 : train_time=0.136 s, total=67.972 s, mean=0.138 s
+2024-03-15 23:52:26,079 [INFO ]  step  495 : train_time=0.137 s, total=68.109 s, mean=0.138 s
+2024-03-15 23:52:26,079 [INFO ]  Train Interval Report : train_rmse_mean=0.001387
+2024-03-15 23:52:26,149 [INFO ]  		Validate : val_time=0.070 s, total=7.206 s, mean=0.073 s
+2024-03-15 23:52:26,149 [INFO ]  			val_rmse=0.003339, smooth_rmse=0.003340
+2024-03-15 23:52:27,957 [INFO ]  step  496 : train_time=0.132 s, total=68.241 s, mean=0.138 s
+2024-03-15 23:52:28,097 [INFO ]  step  497 : train_time=0.130 s, total=68.371 s, mean=0.138 s
+2024-03-15 23:52:28,236 [INFO ]  step  498 : train_time=0.131 s, total=68.502 s, mean=0.138 s
+2024-03-15 23:52:28,377 [INFO ]  step  499 : train_time=0.132 s, total=68.633 s, mean=0.138 s
+2024-03-15 23:52:28,519 [INFO ]  step  500 : train_time=0.133 s, total=68.766 s, mean=0.138 s
+2024-03-15 23:52:28,519 [INFO ]  Train Interval Report : train_rmse_mean=0.001251
+2024-03-15 23:52:28,589 [INFO ]  		Validate : val_time=0.070 s, total=7.276 s, mean=0.073 s
+2024-03-15 23:52:28,589 [INFO ]  			val_rmse=0.003242, smooth_rmse=0.003252
+2024-03-15 23:52:30,376 [INFO ]  step  501 : train_time=0.133 s, total=68.900 s, mean=0.138 s
+2024-03-15 23:52:30,520 [INFO ]  step  502 : train_time=0.135 s, total=69.035 s, mean=0.138 s
+2024-03-15 23:52:30,664 [INFO ]  step  503 : train_time=0.135 s, total=69.170 s, mean=0.138 s
+2024-03-15 23:52:30,808 [INFO ]  step  504 : train_time=0.134 s, total=69.304 s, mean=0.138 s
+2024-03-15 23:52:30,952 [INFO ]  step  505 : train_time=0.135 s, total=69.439 s, mean=0.138 s
+2024-03-15 23:52:30,952 [INFO ]  Train Interval Report : train_rmse_mean=0.001214
+2024-03-15 23:52:31,021 [INFO ]  		Validate : val_time=0.069 s, total=7.345 s, mean=0.073 s
+2024-03-15 23:52:31,021 [INFO ]  			val_rmse=0.003340, smooth_rmse=0.003331
+2024-03-15 23:52:31,948 [INFO ]  step  506 : train_time=0.131 s, total=69.571 s, mean=0.137 s
+2024-03-15 23:52:32,097 [INFO ]  step  507 : train_time=0.139 s, total=69.710 s, mean=0.137 s
+2024-03-15 23:52:32,239 [INFO ]  step  508 : train_time=0.133 s, total=69.843 s, mean=0.137 s
+2024-03-15 23:52:32,381 [INFO ]  step  509 : train_time=0.133 s, total=69.976 s, mean=0.137 s
+2024-03-15 23:52:32,524 [INFO ]  step  510 : train_time=0.134 s, total=70.110 s, mean=0.137 s
+2024-03-15 23:52:32,524 [INFO ]  Train Interval Report : train_rmse_mean=0.001168
+2024-03-15 23:52:32,594 [INFO ]  		Validate : val_time=0.069 s, total=7.414 s, mean=0.073 s
+2024-03-15 23:52:32,594 [INFO ]  			val_rmse=0.003231, smooth_rmse=0.003241
+2024-03-15 23:52:34,316 [INFO ]  step  511 : train_time=0.128 s, total=70.238 s, mean=0.137 s
+2024-03-15 23:52:34,457 [INFO ]  step  512 : train_time=0.131 s, total=70.369 s, mean=0.137 s
+2024-03-15 23:52:34,601 [INFO ]  step  513 : train_time=0.136 s, total=70.504 s, mean=0.137 s
+2024-03-15 23:52:34,745 [INFO ]  step  514 : train_time=0.134 s, total=70.639 s, mean=0.137 s
+2024-03-15 23:52:34,888 [INFO ]  step  515 : train_time=0.134 s, total=70.773 s, mean=0.137 s
+2024-03-15 23:52:34,888 [INFO ]  Train Interval Report : train_rmse_mean=0.001124
+2024-03-15 23:52:34,958 [INFO ]  		Validate : val_time=0.070 s, total=7.484 s, mean=0.073 s
+2024-03-15 23:52:34,959 [INFO ]  			val_rmse=0.003169, smooth_rmse=0.003176
+2024-03-15 23:52:36,720 [INFO ]  step  516 : train_time=0.133 s, total=70.906 s, mean=0.137 s
+2024-03-15 23:52:36,869 [INFO ]  step  517 : train_time=0.139 s, total=71.045 s, mean=0.137 s
+2024-03-15 23:52:37,013 [INFO ]  step  518 : train_time=0.135 s, total=71.180 s, mean=0.137 s
+2024-03-15 23:52:37,157 [INFO ]  step  519 : train_time=0.135 s, total=71.315 s, mean=0.137 s
+2024-03-15 23:52:37,301 [INFO ]  step  520 : train_time=0.135 s, total=71.450 s, mean=0.137 s
+2024-03-15 23:52:37,301 [INFO ]  Train Interval Report : train_rmse_mean=0.001160
+2024-03-15 23:52:37,370 [INFO ]  		Validate : val_time=0.069 s, total=7.554 s, mean=0.073 s
+2024-03-15 23:52:37,371 [INFO ]  			val_rmse=0.003267, smooth_rmse=0.003258
+2024-03-15 23:52:38,326 [INFO ]  step  521 : train_time=0.131 s, total=71.581 s, mean=0.137 s
+2024-03-15 23:52:38,471 [INFO ]  step  522 : train_time=0.135 s, total=71.716 s, mean=0.137 s
+2024-03-15 23:52:38,609 [INFO ]  step  523 : train_time=0.129 s, total=71.845 s, mean=0.137 s
+2024-03-15 23:52:38,750 [INFO ]  step  524 : train_time=0.132 s, total=71.977 s, mean=0.137 s
+2024-03-15 23:52:38,894 [INFO ]  step  525 : train_time=0.134 s, total=72.111 s, mean=0.137 s
+2024-03-15 23:52:38,894 [INFO ]  Train Interval Report : train_rmse_mean=0.001110
+2024-03-15 23:52:38,964 [INFO ]  		Validate : val_time=0.070 s, total=7.623 s, mean=0.073 s
+2024-03-15 23:52:38,964 [INFO ]  			val_rmse=0.003333, smooth_rmse=0.003325
+2024-03-15 23:52:39,926 [INFO ]  step  526 : train_time=0.132 s, total=72.244 s, mean=0.137 s
+2024-03-15 23:52:40,069 [INFO ]  step  527 : train_time=0.133 s, total=72.377 s, mean=0.137 s
+2024-03-15 23:52:40,212 [INFO ]  step  528 : train_time=0.134 s, total=72.511 s, mean=0.137 s
+2024-03-15 23:52:40,360 [INFO ]  step  529 : train_time=0.139 s, total=72.650 s, mean=0.137 s
+2024-03-15 23:52:40,510 [INFO ]  step  530 : train_time=0.141 s, total=72.791 s, mean=0.137 s
+2024-03-15 23:52:40,510 [INFO ]  Train Interval Report : train_rmse_mean=0.001250
+2024-03-15 23:52:40,579 [INFO ]  		Validate : val_time=0.070 s, total=7.693 s, mean=0.073 s
+2024-03-15 23:52:40,580 [INFO ]  			val_rmse=0.003217, smooth_rmse=0.003228
+2024-03-15 23:52:41,526 [INFO ]  step  531 : train_time=0.130 s, total=72.921 s, mean=0.137 s
+2024-03-15 23:52:41,670 [INFO ]  step  532 : train_time=0.134 s, total=73.055 s, mean=0.137 s
+2024-03-15 23:52:41,807 [INFO ]  step  533 : train_time=0.129 s, total=73.183 s, mean=0.137 s
+2024-03-15 23:52:41,947 [INFO ]  step  534 : train_time=0.131 s, total=73.314 s, mean=0.137 s
+2024-03-15 23:52:42,087 [INFO ]  step  535 : train_time=0.131 s, total=73.445 s, mean=0.137 s
+2024-03-15 23:52:42,087 [INFO ]  Train Interval Report : train_rmse_mean=0.001135
+2024-03-15 23:52:42,155 [INFO ]  		Validate : val_time=0.068 s, total=7.761 s, mean=0.073 s
+2024-03-15 23:52:42,155 [INFO ]  			val_rmse=0.003243, smooth_rmse=0.003242
+2024-03-15 23:52:43,138 [INFO ]  step  536 : train_time=0.132 s, total=73.577 s, mean=0.137 s
+2024-03-15 23:52:43,279 [INFO ]  step  537 : train_time=0.131 s, total=73.709 s, mean=0.137 s
+2024-03-15 23:52:43,422 [INFO ]  step  538 : train_time=0.133 s, total=73.842 s, mean=0.137 s
+2024-03-15 23:52:43,566 [INFO ]  step  539 : train_time=0.135 s, total=73.977 s, mean=0.137 s
+2024-03-15 23:52:43,713 [INFO ]  step  540 : train_time=0.137 s, total=74.115 s, mean=0.137 s
+2024-03-15 23:52:43,713 [INFO ]  Train Interval Report : train_rmse_mean=0.001113
+2024-03-15 23:52:43,780 [INFO ]  		Validate : val_time=0.067 s, total=7.828 s, mean=0.072 s
+2024-03-15 23:52:43,780 [INFO ]  			val_rmse=0.003241, smooth_rmse=0.003241
+2024-03-15 23:52:44,710 [INFO ]  step  541 : train_time=0.134 s, total=74.248 s, mean=0.137 s
+2024-03-15 23:52:44,854 [INFO ]  step  542 : train_time=0.135 s, total=74.383 s, mean=0.137 s
+2024-03-15 23:52:44,999 [INFO ]  step  543 : train_time=0.136 s, total=74.519 s, mean=0.137 s
+2024-03-15 23:52:45,146 [INFO ]  step  544 : train_time=0.137 s, total=74.656 s, mean=0.137 s
+2024-03-15 23:52:45,289 [INFO ]  step  545 : train_time=0.134 s, total=74.791 s, mean=0.137 s
+2024-03-15 23:52:45,289 [INFO ]  Train Interval Report : train_rmse_mean=0.001042
+2024-03-15 23:52:45,358 [INFO ]  		Validate : val_time=0.069 s, total=7.897 s, mean=0.072 s
+2024-03-15 23:52:45,358 [INFO ]  			val_rmse=0.003220, smooth_rmse=0.003222
+2024-03-15 23:52:46,294 [INFO ]  step  546 : train_time=0.133 s, total=74.924 s, mean=0.137 s
+2024-03-15 23:52:46,441 [INFO ]  step  547 : train_time=0.137 s, total=75.061 s, mean=0.137 s
+2024-03-15 23:52:46,580 [INFO ]  step  548 : train_time=0.130 s, total=75.191 s, mean=0.137 s
+2024-03-15 23:52:46,724 [INFO ]  step  549 : train_time=0.135 s, total=75.326 s, mean=0.137 s
+2024-03-15 23:52:46,864 [INFO ]  step  550 : train_time=0.131 s, total=75.457 s, mean=0.137 s
+2024-03-15 23:52:46,865 [INFO ]  Train Interval Report : train_rmse_mean=0.001081
+2024-03-15 23:52:46,933 [INFO ]  		Validate : val_time=0.068 s, total=7.965 s, mean=0.072 s
+2024-03-15 23:52:46,933 [INFO ]  			val_rmse=0.003157, smooth_rmse=0.003163
+2024-03-15 23:52:48,711 [INFO ]  step  551 : train_time=0.129 s, total=75.586 s, mean=0.137 s
+2024-03-15 23:52:48,856 [INFO ]  step  552 : train_time=0.135 s, total=75.722 s, mean=0.137 s
+2024-03-15 23:52:49,000 [INFO ]  step  553 : train_time=0.135 s, total=75.856 s, mean=0.137 s
+2024-03-15 23:52:49,144 [INFO ]  step  554 : train_time=0.135 s, total=75.991 s, mean=0.137 s
+2024-03-15 23:52:49,290 [INFO ]  step  555 : train_time=0.137 s, total=76.128 s, mean=0.137 s
+2024-03-15 23:52:49,290 [INFO ]  Train Interval Report : train_rmse_mean=0.000924
+2024-03-15 23:52:49,360 [INFO ]  		Validate : val_time=0.070 s, total=8.035 s, mean=0.072 s
+2024-03-15 23:52:49,360 [INFO ]  			val_rmse=0.003164, smooth_rmse=0.003164
+2024-03-15 23:52:50,303 [INFO ]  step  556 : train_time=0.135 s, total=76.263 s, mean=0.137 s
+2024-03-15 23:52:50,444 [INFO ]  step  557 : train_time=0.132 s, total=76.395 s, mean=0.137 s
+2024-03-15 23:52:50,587 [INFO ]  step  558 : train_time=0.134 s, total=76.529 s, mean=0.137 s
+2024-03-15 23:52:50,730 [INFO ]  step  559 : train_time=0.134 s, total=76.663 s, mean=0.137 s
+2024-03-15 23:52:50,875 [INFO ]  step  560 : train_time=0.136 s, total=76.798 s, mean=0.137 s
+2024-03-15 23:52:50,875 [INFO ]  Train Interval Report : train_rmse_mean=0.000937
+2024-03-15 23:52:50,944 [INFO ]  		Validate : val_time=0.069 s, total=8.104 s, mean=0.072 s
+2024-03-15 23:52:50,944 [INFO ]  			val_rmse=0.003227, smooth_rmse=0.003220
+2024-03-15 23:52:51,920 [INFO ]  step  561 : train_time=0.132 s, total=76.931 s, mean=0.137 s
+2024-03-15 23:52:52,058 [INFO ]  step  562 : train_time=0.130 s, total=77.061 s, mean=0.137 s
+2024-03-15 23:52:52,199 [INFO ]  step  563 : train_time=0.131 s, total=77.192 s, mean=0.137 s
+2024-03-15 23:52:52,345 [INFO ]  step  564 : train_time=0.137 s, total=77.329 s, mean=0.137 s
+2024-03-15 23:52:52,491 [INFO ]  step  565 : train_time=0.136 s, total=77.465 s, mean=0.137 s
+2024-03-15 23:52:52,491 [INFO ]  Train Interval Report : train_rmse_mean=0.000885
+2024-03-15 23:52:52,561 [INFO ]  		Validate : val_time=0.070 s, total=8.174 s, mean=0.072 s
+2024-03-15 23:52:52,561 [INFO ]  			val_rmse=0.003155, smooth_rmse=0.003162
+2024-03-15 23:52:54,306 [INFO ]  step  566 : train_time=0.132 s, total=77.598 s, mean=0.137 s
+2024-03-15 23:52:54,449 [INFO ]  step  567 : train_time=0.133 s, total=77.731 s, mean=0.137 s
+2024-03-15 23:52:54,592 [INFO ]  step  568 : train_time=0.134 s, total=77.866 s, mean=0.137 s
+2024-03-15 23:52:54,737 [INFO ]  step  569 : train_time=0.135 s, total=78.001 s, mean=0.137 s
+2024-03-15 23:52:54,880 [INFO ]  step  570 : train_time=0.135 s, total=78.136 s, mean=0.137 s
+2024-03-15 23:52:54,880 [INFO ]  Train Interval Report : train_rmse_mean=0.000881
+2024-03-15 23:52:54,950 [INFO ]  		Validate : val_time=0.070 s, total=8.244 s, mean=0.072 s
+2024-03-15 23:52:54,950 [INFO ]  			val_rmse=0.003222, smooth_rmse=0.003216
+2024-03-15 23:52:55,888 [INFO ]  step  571 : train_time=0.132 s, total=78.268 s, mean=0.137 s
+2024-03-15 23:52:56,032 [INFO ]  step  572 : train_time=0.134 s, total=78.402 s, mean=0.137 s
+2024-03-15 23:52:56,174 [INFO ]  step  573 : train_time=0.134 s, total=78.536 s, mean=0.137 s
+2024-03-15 23:52:56,322 [INFO ]  step  574 : train_time=0.136 s, total=78.671 s, mean=0.137 s
+2024-03-15 23:52:56,472 [INFO ]  step  575 : train_time=0.139 s, total=78.810 s, mean=0.137 s
+2024-03-15 23:52:56,472 [INFO ]  Train Interval Report : train_rmse_mean=0.000824
+2024-03-15 23:52:56,542 [INFO ]  		Validate : val_time=0.070 s, total=8.314 s, mean=0.072 s
+2024-03-15 23:52:56,542 [INFO ]  			val_rmse=0.003187, smooth_rmse=0.003190
+2024-03-15 23:52:57,483 [INFO ]  step  576 : train_time=0.133 s, total=78.943 s, mean=0.137 s
+2024-03-15 23:52:57,625 [INFO ]  step  577 : train_time=0.131 s, total=79.075 s, mean=0.137 s
+2024-03-15 23:52:57,769 [INFO ]  step  578 : train_time=0.134 s, total=79.208 s, mean=0.137 s
+2024-03-15 23:52:57,913 [INFO ]  step  579 : train_time=0.133 s, total=79.341 s, mean=0.137 s
+2024-03-15 23:52:58,057 [INFO ]  step  580 : train_time=0.135 s, total=79.476 s, mean=0.137 s
+2024-03-15 23:52:58,057 [INFO ]  Train Interval Report : train_rmse_mean=0.000816
+2024-03-15 23:52:58,124 [INFO ]  		Validate : val_time=0.067 s, total=8.381 s, mean=0.072 s
+2024-03-15 23:52:58,125 [INFO ]  			val_rmse=0.003158, smooth_rmse=0.003161
+2024-03-15 23:52:59,878 [INFO ]  step  581 : train_time=0.134 s, total=79.610 s, mean=0.137 s
+2024-03-15 23:53:00,018 [INFO ]  step  582 : train_time=0.131 s, total=79.740 s, mean=0.137 s
+2024-03-15 23:53:00,157 [INFO ]  step  583 : train_time=0.129 s, total=79.870 s, mean=0.137 s
+2024-03-15 23:53:00,296 [INFO ]  step  584 : train_time=0.130 s, total=79.999 s, mean=0.137 s
+2024-03-15 23:53:00,437 [INFO ]  step  585 : train_time=0.132 s, total=80.131 s, mean=0.137 s
+2024-03-15 23:53:00,437 [INFO ]  Train Interval Report : train_rmse_mean=0.000774
+2024-03-15 23:53:00,505 [INFO ]  		Validate : val_time=0.068 s, total=8.449 s, mean=0.072 s
+2024-03-15 23:53:00,505 [INFO ]  			val_rmse=0.003121, smooth_rmse=0.003125
+2024-03-15 23:53:02,284 [INFO ]  step  586 : train_time=0.127 s, total=80.258 s, mean=0.137 s
+2024-03-15 23:53:02,432 [INFO ]  step  587 : train_time=0.138 s, total=80.396 s, mean=0.137 s
+2024-03-15 23:53:02,576 [INFO ]  step  588 : train_time=0.135 s, total=80.531 s, mean=0.137 s
+2024-03-15 23:53:02,725 [INFO ]  step  589 : train_time=0.140 s, total=80.671 s, mean=0.137 s
+2024-03-15 23:53:02,870 [INFO ]  step  590 : train_time=0.135 s, total=80.806 s, mean=0.137 s
+2024-03-15 23:53:02,870 [INFO ]  Train Interval Report : train_rmse_mean=0.000803
+2024-03-15 23:53:02,941 [INFO ]  		Validate : val_time=0.070 s, total=8.519 s, mean=0.072 s
+2024-03-15 23:53:02,941 [INFO ]  			val_rmse=0.003155, smooth_rmse=0.003152
+2024-03-15 23:53:03,887 [INFO ]  step  591 : train_time=0.132 s, total=80.938 s, mean=0.137 s
+2024-03-15 23:53:04,033 [INFO ]  step  592 : train_time=0.137 s, total=81.075 s, mean=0.137 s
+2024-03-15 23:53:04,178 [INFO ]  step  593 : train_time=0.136 s, total=81.211 s, mean=0.137 s
+2024-03-15 23:53:04,321 [INFO ]  step  594 : train_time=0.133 s, total=81.344 s, mean=0.137 s
+2024-03-15 23:53:04,466 [INFO ]  step  595 : train_time=0.137 s, total=81.481 s, mean=0.137 s
+2024-03-15 23:53:04,466 [INFO ]  Train Interval Report : train_rmse_mean=0.000753
+2024-03-15 23:53:04,536 [INFO ]  		Validate : val_time=0.070 s, total=8.589 s, mean=0.072 s
+2024-03-15 23:53:04,536 [INFO ]  			val_rmse=0.003168, smooth_rmse=0.003166
+2024-03-15 23:53:05,474 [INFO ]  step  596 : train_time=0.130 s, total=81.611 s, mean=0.137 s
+2024-03-15 23:53:05,619 [INFO ]  step  597 : train_time=0.136 s, total=81.746 s, mean=0.137 s
+2024-03-15 23:53:05,762 [INFO ]  step  598 : train_time=0.134 s, total=81.880 s, mean=0.137 s
+2024-03-15 23:53:05,901 [INFO ]  step  599 : train_time=0.131 s, total=82.011 s, mean=0.137 s
+2024-03-15 23:53:06,040 [INFO ]  step  600 : train_time=0.130 s, total=82.141 s, mean=0.137 s
+2024-03-15 23:53:06,041 [INFO ]  Train Interval Report : train_rmse_mean=0.000777
+2024-03-15 23:53:06,107 [INFO ]  		Validate : val_time=0.067 s, total=8.656 s, mean=0.072 s
+2024-03-15 23:53:06,107 [INFO ]  			val_rmse=0.003191, smooth_rmse=0.003189
+2024-03-15 23:53:07,054 [INFO ]  step  601 : train_time=0.136 s, total=82.277 s, mean=0.137 s
+2024-03-15 23:53:07,198 [INFO ]  step  602 : train_time=0.135 s, total=82.412 s, mean=0.137 s
+2024-03-15 23:53:07,339 [INFO ]  step  603 : train_time=0.132 s, total=82.544 s, mean=0.137 s
+2024-03-15 23:53:07,478 [INFO ]  step  604 : train_time=0.129 s, total=82.674 s, mean=0.137 s
+2024-03-15 23:53:07,616 [INFO ]  step  605 : train_time=0.130 s, total=82.803 s, mean=0.137 s
+2024-03-15 23:53:07,616 [INFO ]  Train Interval Report : train_rmse_mean=0.000730
+2024-03-15 23:53:07,685 [INFO ]  		Validate : val_time=0.069 s, total=8.725 s, mean=0.072 s
+2024-03-15 23:53:07,686 [INFO ]  			val_rmse=0.003120, smooth_rmse=0.003127
+2024-03-15 23:53:08,639 [INFO ]  step  606 : train_time=0.132 s, total=82.936 s, mean=0.137 s
+2024-03-15 23:53:08,782 [INFO ]  step  607 : train_time=0.133 s, total=83.069 s, mean=0.137 s
+2024-03-15 23:53:08,925 [INFO ]  step  608 : train_time=0.134 s, total=83.202 s, mean=0.137 s
+2024-03-15 23:53:09,068 [INFO ]  step  609 : train_time=0.134 s, total=83.337 s, mean=0.137 s
+2024-03-15 23:53:09,210 [INFO ]  step  610 : train_time=0.133 s, total=83.470 s, mean=0.137 s
+2024-03-15 23:53:09,210 [INFO ]  Train Interval Report : train_rmse_mean=0.000749
+2024-03-15 23:53:09,280 [INFO ]  		Validate : val_time=0.070 s, total=8.794 s, mean=0.072 s
+2024-03-15 23:53:09,280 [INFO ]  			val_rmse=0.003182, smooth_rmse=0.003177
+2024-03-15 23:53:10,212 [INFO ]  step  611 : train_time=0.132 s, total=83.602 s, mean=0.137 s
+2024-03-15 23:53:10,354 [INFO ]  step  612 : train_time=0.132 s, total=83.734 s, mean=0.137 s
+2024-03-15 23:53:10,493 [INFO ]  step  613 : train_time=0.130 s, total=83.864 s, mean=0.137 s
+2024-03-15 23:53:10,636 [INFO ]  step  614 : train_time=0.134 s, total=83.998 s, mean=0.137 s
+2024-03-15 23:53:10,781 [INFO ]  step  615 : train_time=0.136 s, total=84.134 s, mean=0.137 s
+2024-03-15 23:53:10,781 [INFO ]  Train Interval Report : train_rmse_mean=0.000748
+2024-03-15 23:53:10,851 [INFO ]  		Validate : val_time=0.070 s, total=8.864 s, mean=0.072 s
+2024-03-15 23:53:10,851 [INFO ]  			val_rmse=0.003093, smooth_rmse=0.003101
+2024-03-15 23:53:12,644 [INFO ]  step  616 : train_time=0.132 s, total=84.266 s, mean=0.137 s
+2024-03-15 23:53:12,785 [INFO ]  step  617 : train_time=0.132 s, total=84.398 s, mean=0.137 s
+2024-03-15 23:53:12,926 [INFO ]  step  618 : train_time=0.132 s, total=84.530 s, mean=0.137 s
+2024-03-15 23:53:13,069 [INFO ]  step  619 : train_time=0.134 s, total=84.664 s, mean=0.137 s
+2024-03-15 23:53:13,212 [INFO ]  step  620 : train_time=0.134 s, total=84.798 s, mean=0.137 s
+2024-03-15 23:53:13,212 [INFO ]  Train Interval Report : train_rmse_mean=0.000726
+2024-03-15 23:53:13,279 [INFO ]  		Validate : val_time=0.067 s, total=8.931 s, mean=0.072 s
+2024-03-15 23:53:13,279 [INFO ]  			val_rmse=0.003137, smooth_rmse=0.003134
+2024-03-15 23:53:14,246 [INFO ]  step  621 : train_time=0.135 s, total=84.933 s, mean=0.137 s
+2024-03-15 23:53:14,388 [INFO ]  step  622 : train_time=0.133 s, total=85.066 s, mean=0.137 s
+2024-03-15 23:53:14,531 [INFO ]  step  623 : train_time=0.134 s, total=85.200 s, mean=0.137 s
+2024-03-15 23:53:14,675 [INFO ]  step  624 : train_time=0.135 s, total=85.334 s, mean=0.137 s
+2024-03-15 23:53:14,821 [INFO ]  step  625 : train_time=0.136 s, total=85.471 s, mean=0.137 s
+2024-03-15 23:53:14,821 [INFO ]  Train Interval Report : train_rmse_mean=0.000729
+2024-03-15 23:53:14,892 [INFO ]  		Validate : val_time=0.071 s, total=9.002 s, mean=0.072 s
+2024-03-15 23:53:14,893 [INFO ]  			val_rmse=0.003112, smooth_rmse=0.003114
+2024-03-15 23:53:15,824 [INFO ]  step  626 : train_time=0.134 s, total=85.605 s, mean=0.137 s
+2024-03-15 23:53:15,971 [INFO ]  step  627 : train_time=0.138 s, total=85.743 s, mean=0.137 s
+2024-03-15 23:53:16,114 [INFO ]  step  628 : train_time=0.134 s, total=85.877 s, mean=0.137 s
+2024-03-15 23:53:16,259 [INFO ]  step  629 : train_time=0.136 s, total=86.013 s, mean=0.137 s
+2024-03-15 23:53:16,407 [INFO ]  step  630 : train_time=0.138 s, total=86.152 s, mean=0.137 s
+2024-03-15 23:53:16,407 [INFO ]  Train Interval Report : train_rmse_mean=0.000719
+2024-03-15 23:53:16,476 [INFO ]  		Validate : val_time=0.069 s, total=9.071 s, mean=0.072 s
+2024-03-15 23:53:16,477 [INFO ]  			val_rmse=0.003151, smooth_rmse=0.003148
+2024-03-15 23:53:17,443 [INFO ]  step  631 : train_time=0.132 s, total=86.284 s, mean=0.137 s
+2024-03-15 23:53:17,587 [INFO ]  step  632 : train_time=0.135 s, total=86.419 s, mean=0.137 s
+2024-03-15 23:53:17,731 [INFO ]  step  633 : train_time=0.136 s, total=86.554 s, mean=0.137 s
+2024-03-15 23:53:17,878 [INFO ]  step  634 : train_time=0.137 s, total=86.692 s, mean=0.137 s
+2024-03-15 23:53:18,024 [INFO ]  step  635 : train_time=0.138 s, total=86.829 s, mean=0.137 s
+2024-03-15 23:53:18,024 [INFO ]  Train Interval Report : train_rmse_mean=0.000691
+2024-03-15 23:53:18,094 [INFO ]  		Validate : val_time=0.070 s, total=9.141 s, mean=0.072 s
+2024-03-15 23:53:18,094 [INFO ]  			val_rmse=0.003143, smooth_rmse=0.003144
+2024-03-15 23:53:19,031 [INFO ]  step  636 : train_time=0.130 s, total=86.959 s, mean=0.137 s
+2024-03-15 23:53:19,175 [INFO ]  step  637 : train_time=0.135 s, total=87.094 s, mean=0.137 s
+2024-03-15 23:53:19,322 [INFO ]  step  638 : train_time=0.137 s, total=87.231 s, mean=0.137 s
+2024-03-15 23:53:19,468 [INFO ]  step  639 : train_time=0.137 s, total=87.368 s, mean=0.137 s
+2024-03-15 23:53:19,612 [INFO ]  step  640 : train_time=0.135 s, total=87.503 s, mean=0.137 s
+2024-03-15 23:53:19,612 [INFO ]  Train Interval Report : train_rmse_mean=0.000719
+2024-03-15 23:53:19,682 [INFO ]  		Validate : val_time=0.070 s, total=9.211 s, mean=0.072 s
+2024-03-15 23:53:19,682 [INFO ]  			val_rmse=0.003119, smooth_rmse=0.003122
+2024-03-15 23:53:20,621 [INFO ]  step  641 : train_time=0.131 s, total=87.634 s, mean=0.137 s
+2024-03-15 23:53:20,764 [INFO ]  step  642 : train_time=0.134 s, total=87.768 s, mean=0.137 s
+2024-03-15 23:53:20,903 [INFO ]  step  643 : train_time=0.130 s, total=87.898 s, mean=0.137 s
+2024-03-15 23:53:21,046 [INFO ]  step  644 : train_time=0.133 s, total=88.031 s, mean=0.137 s
+2024-03-15 23:53:21,190 [INFO ]  step  645 : train_time=0.135 s, total=88.166 s, mean=0.137 s
+2024-03-15 23:53:21,190 [INFO ]  Train Interval Report : train_rmse_mean=0.000687
+2024-03-15 23:53:21,258 [INFO ]  		Validate : val_time=0.069 s, total=9.280 s, mean=0.072 s
+2024-03-15 23:53:21,259 [INFO ]  			val_rmse=0.003130, smooth_rmse=0.003129
+2024-03-15 23:53:22,212 [INFO ]  step  646 : train_time=0.137 s, total=88.304 s, mean=0.137 s
+2024-03-15 23:53:22,350 [INFO ]  step  647 : train_time=0.129 s, total=88.432 s, mean=0.137 s
+2024-03-15 23:53:22,489 [INFO ]  step  648 : train_time=0.130 s, total=88.562 s, mean=0.137 s
+2024-03-15 23:53:22,630 [INFO ]  step  649 : train_time=0.131 s, total=88.694 s, mean=0.137 s
+2024-03-15 23:53:22,767 [INFO ]  step  650 : train_time=0.129 s, total=88.822 s, mean=0.137 s
+2024-03-15 23:53:22,767 [INFO ]  Train Interval Report : train_rmse_mean=0.000682
+2024-03-15 23:53:22,835 [INFO ]  		Validate : val_time=0.068 s, total=9.348 s, mean=0.072 s
+2024-03-15 23:53:22,835 [INFO ]  			val_rmse=0.003119, smooth_rmse=0.003120
+2024-03-15 23:53:23,800 [INFO ]  step  651 : train_time=0.131 s, total=88.953 s, mean=0.137 s
+2024-03-15 23:53:23,945 [INFO ]  step  652 : train_time=0.136 s, total=89.089 s, mean=0.137 s
+2024-03-15 23:53:24,089 [INFO ]  step  653 : train_time=0.135 s, total=89.224 s, mean=0.137 s
+2024-03-15 23:53:24,233 [INFO ]  step  654 : train_time=0.136 s, total=89.359 s, mean=0.137 s
+2024-03-15 23:53:24,378 [INFO ]  step  655 : train_time=0.135 s, total=89.495 s, mean=0.137 s
+2024-03-15 23:53:24,378 [INFO ]  Train Interval Report : train_rmse_mean=0.000654
+2024-03-15 23:53:24,448 [INFO ]  		Validate : val_time=0.070 s, total=9.418 s, mean=0.072 s
+2024-03-15 23:53:24,448 [INFO ]  			val_rmse=0.003116, smooth_rmse=0.003116
+2024-03-15 23:53:25,392 [INFO ]  step  656 : train_time=0.131 s, total=89.626 s, mean=0.137 s
+2024-03-15 23:53:25,538 [INFO ]  step  657 : train_time=0.136 s, total=89.762 s, mean=0.137 s
+2024-03-15 23:53:25,683 [INFO ]  step  658 : train_time=0.137 s, total=89.899 s, mean=0.137 s
+2024-03-15 23:53:25,828 [INFO ]  step  659 : train_time=0.135 s, total=90.035 s, mean=0.137 s
+2024-03-15 23:53:25,976 [INFO ]  step  660 : train_time=0.139 s, total=90.174 s, mean=0.137 s
+2024-03-15 23:53:25,976 [INFO ]  Train Interval Report : train_rmse_mean=0.000645
+2024-03-15 23:53:26,046 [INFO ]  		Validate : val_time=0.070 s, total=9.488 s, mean=0.072 s
+2024-03-15 23:53:26,046 [INFO ]  			val_rmse=0.003075, smooth_rmse=0.003079
+2024-03-15 23:53:27,833 [INFO ]  step  661 : train_time=0.129 s, total=90.303 s, mean=0.137 s
+2024-03-15 23:53:27,975 [INFO ]  step  662 : train_time=0.133 s, total=90.436 s, mean=0.137 s
+2024-03-15 23:53:28,118 [INFO ]  step  663 : train_time=0.134 s, total=90.570 s, mean=0.137 s
+2024-03-15 23:53:28,261 [INFO ]  step  664 : train_time=0.133 s, total=90.703 s, mean=0.137 s
+2024-03-15 23:53:28,406 [INFO ]  step  665 : train_time=0.136 s, total=90.839 s, mean=0.137 s
+2024-03-15 23:53:28,406 [INFO ]  Train Interval Report : train_rmse_mean=0.000627
+2024-03-15 23:53:28,476 [INFO ]  		Validate : val_time=0.070 s, total=9.558 s, mean=0.072 s
+2024-03-15 23:53:28,476 [INFO ]  			val_rmse=0.003101, smooth_rmse=0.003099
+2024-03-15 23:53:29,427 [INFO ]  step  666 : train_time=0.134 s, total=90.973 s, mean=0.137 s
+2024-03-15 23:53:29,569 [INFO ]  step  667 : train_time=0.132 s, total=91.105 s, mean=0.137 s
+2024-03-15 23:53:29,714 [INFO ]  step  668 : train_time=0.136 s, total=91.241 s, mean=0.137 s
+2024-03-15 23:53:29,858 [INFO ]  step  669 : train_time=0.135 s, total=91.376 s, mean=0.137 s
+2024-03-15 23:53:30,003 [INFO ]  step  670 : train_time=0.136 s, total=91.512 s, mean=0.137 s
+2024-03-15 23:53:30,003 [INFO ]  Train Interval Report : train_rmse_mean=0.000616
+2024-03-15 23:53:30,072 [INFO ]  		Validate : val_time=0.069 s, total=9.626 s, mean=0.072 s
+2024-03-15 23:53:30,072 [INFO ]  			val_rmse=0.003111, smooth_rmse=0.003110
+2024-03-15 23:53:31,013 [INFO ]  step  671 : train_time=0.133 s, total=91.645 s, mean=0.137 s
+2024-03-15 23:53:31,156 [INFO ]  step  672 : train_time=0.133 s, total=91.778 s, mean=0.137 s
+2024-03-15 23:53:31,295 [INFO ]  step  673 : train_time=0.131 s, total=91.908 s, mean=0.137 s
+2024-03-15 23:53:31,434 [INFO ]  step  674 : train_time=0.130 s, total=92.038 s, mean=0.137 s
+2024-03-15 23:53:31,571 [INFO ]  step  675 : train_time=0.128 s, total=92.167 s, mean=0.137 s
+2024-03-15 23:53:31,571 [INFO ]  Train Interval Report : train_rmse_mean=0.000586
+2024-03-15 23:53:31,638 [INFO ]  		Validate : val_time=0.067 s, total=9.693 s, mean=0.072 s
+2024-03-15 23:53:31,638 [INFO ]  			val_rmse=0.003079, smooth_rmse=0.003082
+2024-03-15 23:53:32,580 [INFO ]  step  676 : train_time=0.133 s, total=92.299 s, mean=0.137 s
+2024-03-15 23:53:32,729 [INFO ]  step  677 : train_time=0.140 s, total=92.439 s, mean=0.137 s
+2024-03-15 23:53:32,871 [INFO ]  step  678 : train_time=0.133 s, total=92.571 s, mean=0.137 s
+2024-03-15 23:53:33,011 [INFO ]  step  679 : train_time=0.132 s, total=92.703 s, mean=0.137 s
+2024-03-15 23:53:33,152 [INFO ]  step  680 : train_time=0.132 s, total=92.835 s, mean=0.137 s
+2024-03-15 23:53:33,152 [INFO ]  Train Interval Report : train_rmse_mean=0.000612
+2024-03-15 23:53:33,219 [INFO ]  		Validate : val_time=0.067 s, total=9.760 s, mean=0.072 s
+2024-03-15 23:53:33,220 [INFO ]  			val_rmse=0.003071, smooth_rmse=0.003072
+2024-03-15 23:53:34,981 [INFO ]  step  681 : train_time=0.132 s, total=92.967 s, mean=0.137 s
+2024-03-15 23:53:35,121 [INFO ]  step  682 : train_time=0.131 s, total=93.098 s, mean=0.137 s
+2024-03-15 23:53:35,261 [INFO ]  step  683 : train_time=0.131 s, total=93.228 s, mean=0.136 s
+2024-03-15 23:53:35,406 [INFO ]  step  684 : train_time=0.136 s, total=93.364 s, mean=0.136 s
+2024-03-15 23:53:35,546 [INFO ]  step  685 : train_time=0.130 s, total=93.494 s, mean=0.136 s
+2024-03-15 23:53:35,546 [INFO ]  Train Interval Report : train_rmse_mean=0.000578
+2024-03-15 23:53:35,612 [INFO ]  		Validate : val_time=0.066 s, total=9.827 s, mean=0.072 s
+2024-03-15 23:53:35,612 [INFO ]  			val_rmse=0.003086, smooth_rmse=0.003085
+2024-03-15 23:53:36,565 [INFO ]  step  686 : train_time=0.134 s, total=93.628 s, mean=0.136 s
+2024-03-15 23:53:36,705 [INFO ]  step  687 : train_time=0.131 s, total=93.759 s, mean=0.136 s
+2024-03-15 23:53:36,850 [INFO ]  step  688 : train_time=0.136 s, total=93.895 s, mean=0.136 s
+2024-03-15 23:53:36,996 [INFO ]  step  689 : train_time=0.136 s, total=94.031 s, mean=0.136 s
+2024-03-15 23:53:37,139 [INFO ]  step  690 : train_time=0.134 s, total=94.165 s, mean=0.136 s
+2024-03-15 23:53:37,139 [INFO ]  Train Interval Report : train_rmse_mean=0.000598
+2024-03-15 23:53:37,209 [INFO ]  		Validate : val_time=0.070 s, total=9.896 s, mean=0.072 s
+2024-03-15 23:53:37,209 [INFO ]  			val_rmse=0.003064, smooth_rmse=0.003066
+2024-03-15 23:53:39,009 [INFO ]  step  691 : train_time=0.137 s, total=94.302 s, mean=0.136 s
+2024-03-15 23:53:39,156 [INFO ]  step  692 : train_time=0.137 s, total=94.439 s, mean=0.136 s
+2024-03-15 23:53:39,303 [INFO ]  step  693 : train_time=0.138 s, total=94.577 s, mean=0.136 s
+2024-03-15 23:53:39,450 [INFO ]  step  694 : train_time=0.137 s, total=94.715 s, mean=0.136 s
+2024-03-15 23:53:39,593 [INFO ]  step  695 : train_time=0.134 s, total=94.849 s, mean=0.136 s
+2024-03-15 23:53:39,593 [INFO ]  Train Interval Report : train_rmse_mean=0.000581
+2024-03-15 23:53:39,663 [INFO ]  		Validate : val_time=0.070 s, total=9.966 s, mean=0.072 s
+2024-03-15 23:53:39,663 [INFO ]  			val_rmse=0.003082, smooth_rmse=0.003080
+2024-03-15 23:53:40,620 [INFO ]  step  696 : train_time=0.131 s, total=94.979 s, mean=0.136 s
+2024-03-15 23:53:40,765 [INFO ]  step  697 : train_time=0.136 s, total=95.115 s, mean=0.136 s
+2024-03-15 23:53:40,911 [INFO ]  step  698 : train_time=0.136 s, total=95.252 s, mean=0.136 s
+2024-03-15 23:53:41,059 [INFO ]  step  699 : train_time=0.139 s, total=95.391 s, mean=0.136 s
+2024-03-15 23:53:41,204 [INFO ]  step  700 : train_time=0.136 s, total=95.527 s, mean=0.136 s
+2024-03-15 23:53:41,204 [INFO ]  Train Interval Report : train_rmse_mean=0.000582
+2024-03-15 23:53:41,274 [INFO ]  		Validate : val_time=0.070 s, total=10.036 s, mean=0.072 s
+2024-03-15 23:53:41,274 [INFO ]  			val_rmse=0.003070, smooth_rmse=0.003071
+2024-03-15 23:53:42,198 [INFO ]  step  701 : train_time=0.129 s, total=95.656 s, mean=0.136 s
+2024-03-15 23:53:42,344 [INFO ]  step  702 : train_time=0.136 s, total=95.792 s, mean=0.136 s
+2024-03-15 23:53:42,491 [INFO ]  step  703 : train_time=0.138 s, total=95.930 s, mean=0.136 s
+2024-03-15 23:53:42,637 [INFO ]  step  704 : train_time=0.137 s, total=96.068 s, mean=0.136 s
+2024-03-15 23:53:42,780 [INFO ]  step  705 : train_time=0.133 s, total=96.201 s, mean=0.136 s
+2024-03-15 23:53:42,780 [INFO ]  Train Interval Report : train_rmse_mean=0.000556
+2024-03-15 23:53:42,851 [INFO ]  		Validate : val_time=0.070 s, total=10.107 s, mean=0.072 s
+2024-03-15 23:53:42,851 [INFO ]  			val_rmse=0.003081, smooth_rmse=0.003080
+2024-03-15 23:53:43,813 [INFO ]  step  706 : train_time=0.132 s, total=96.333 s, mean=0.136 s
+2024-03-15 23:53:43,957 [INFO ]  step  707 : train_time=0.135 s, total=96.467 s, mean=0.136 s
+2024-03-15 23:53:44,105 [INFO ]  step  708 : train_time=0.139 s, total=96.606 s, mean=0.136 s
+2024-03-15 23:53:44,248 [INFO ]  step  709 : train_time=0.134 s, total=96.740 s, mean=0.136 s
+2024-03-15 23:53:44,394 [INFO ]  step  710 : train_time=0.137 s, total=96.877 s, mean=0.136 s
+2024-03-15 23:53:44,394 [INFO ]  Train Interval Report : train_rmse_mean=0.000582
+2024-03-15 23:53:44,464 [INFO ]  		Validate : val_time=0.070 s, total=10.177 s, mean=0.072 s
+2024-03-15 23:53:44,465 [INFO ]  			val_rmse=0.003071, smooth_rmse=0.003072
+2024-03-15 23:53:45,405 [INFO ]  step  711 : train_time=0.131 s, total=97.009 s, mean=0.136 s
+2024-03-15 23:53:45,548 [INFO ]  step  712 : train_time=0.134 s, total=97.142 s, mean=0.136 s
+2024-03-15 23:53:45,694 [INFO ]  step  713 : train_time=0.137 s, total=97.280 s, mean=0.136 s
+2024-03-15 23:53:45,842 [INFO ]  step  714 : train_time=0.139 s, total=97.418 s, mean=0.136 s
+2024-03-15 23:53:45,985 [INFO ]  step  715 : train_time=0.134 s, total=97.552 s, mean=0.136 s
+2024-03-15 23:53:45,985 [INFO ]  Train Interval Report : train_rmse_mean=0.000557
+2024-03-15 23:53:46,055 [INFO ]  		Validate : val_time=0.070 s, total=10.247 s, mean=0.072 s
+2024-03-15 23:53:46,055 [INFO ]  			val_rmse=0.003059, smooth_rmse=0.003060
+2024-03-15 23:53:47,799 [INFO ]  step  716 : train_time=0.131 s, total=97.683 s, mean=0.136 s
+2024-03-15 23:53:47,945 [INFO ]  step  717 : train_time=0.137 s, total=97.820 s, mean=0.136 s
+2024-03-15 23:53:48,091 [INFO ]  step  718 : train_time=0.136 s, total=97.956 s, mean=0.136 s
+2024-03-15 23:53:48,237 [INFO ]  step  719 : train_time=0.137 s, total=98.093 s, mean=0.136 s
+2024-03-15 23:53:48,383 [INFO ]  step  720 : train_time=0.137 s, total=98.230 s, mean=0.136 s
+2024-03-15 23:53:48,383 [INFO ]  Train Interval Report : train_rmse_mean=0.000566
+2024-03-15 23:53:48,453 [INFO ]  		Validate : val_time=0.070 s, total=10.317 s, mean=0.072 s
+2024-03-15 23:53:48,454 [INFO ]  			val_rmse=0.003067, smooth_rmse=0.003066
+2024-03-15 23:53:49,421 [INFO ]  step  721 : train_time=0.131 s, total=98.361 s, mean=0.136 s
+2024-03-15 23:53:49,567 [INFO ]  step  722 : train_time=0.137 s, total=98.498 s, mean=0.136 s
+2024-03-15 23:53:49,712 [INFO ]  step  723 : train_time=0.136 s, total=98.634 s, mean=0.136 s
+2024-03-15 23:53:49,860 [INFO ]  step  724 : train_time=0.139 s, total=98.772 s, mean=0.136 s
+2024-03-15 23:53:50,003 [INFO ]  step  725 : train_time=0.134 s, total=98.906 s, mean=0.136 s
+2024-03-15 23:53:50,003 [INFO ]  Train Interval Report : train_rmse_mean=0.000558
+2024-03-15 23:53:50,073 [INFO ]  		Validate : val_time=0.070 s, total=10.387 s, mean=0.072 s
+2024-03-15 23:53:50,073 [INFO ]  			val_rmse=0.003074, smooth_rmse=0.003073
+2024-03-15 23:53:51,039 [INFO ]  step  726 : train_time=0.132 s, total=99.038 s, mean=0.136 s
+2024-03-15 23:53:51,187 [INFO ]  step  727 : train_time=0.139 s, total=99.177 s, mean=0.136 s
+2024-03-15 23:53:51,331 [INFO ]  step  728 : train_time=0.135 s, total=99.312 s, mean=0.136 s
+2024-03-15 23:53:51,477 [INFO ]  step  729 : train_time=0.137 s, total=99.449 s, mean=0.136 s
+2024-03-15 23:53:51,624 [INFO ]  step  730 : train_time=0.138 s, total=99.587 s, mean=0.136 s
+2024-03-15 23:53:51,624 [INFO ]  Train Interval Report : train_rmse_mean=0.000547
+2024-03-15 23:53:51,694 [INFO ]  		Validate : val_time=0.070 s, total=10.456 s, mean=0.072 s
+2024-03-15 23:53:51,695 [INFO ]  			val_rmse=0.003080, smooth_rmse=0.003080
+2024-03-15 23:53:52,666 [INFO ]  step  731 : train_time=0.131 s, total=99.717 s, mean=0.136 s
+2024-03-15 23:53:52,812 [INFO ]  step  732 : train_time=0.137 s, total=99.854 s, mean=0.136 s
+2024-03-15 23:53:52,960 [INFO ]  step  733 : train_time=0.138 s, total=99.993 s, mean=0.136 s
+2024-03-15 23:53:53,105 [INFO ]  step  734 : train_time=0.135 s, total=100.128 s, mean=0.136 s
+2024-03-15 23:53:53,250 [INFO ]  step  735 : train_time=0.136 s, total=100.265 s, mean=0.136 s
+2024-03-15 23:53:53,250 [INFO ]  Train Interval Report : train_rmse_mean=0.000556
+2024-03-15 23:53:53,320 [INFO ]  		Validate : val_time=0.070 s, total=10.526 s, mean=0.072 s
+2024-03-15 23:53:53,320 [INFO ]  			val_rmse=0.003062, smooth_rmse=0.003064
+2024-03-15 23:53:54,248 [INFO ]  step  736 : train_time=0.131 s, total=100.395 s, mean=0.136 s
+2024-03-15 23:53:54,391 [INFO ]  step  737 : train_time=0.134 s, total=100.529 s, mean=0.136 s
+2024-03-15 23:53:54,536 [INFO ]  step  738 : train_time=0.136 s, total=100.665 s, mean=0.136 s
+2024-03-15 23:53:54,679 [INFO ]  step  739 : train_time=0.135 s, total=100.799 s, mean=0.136 s
+2024-03-15 23:53:54,827 [INFO ]  step  740 : train_time=0.139 s, total=100.938 s, mean=0.136 s
+2024-03-15 23:53:54,827 [INFO ]  Train Interval Report : train_rmse_mean=0.000522
+2024-03-15 23:53:54,897 [INFO ]  		Validate : val_time=0.070 s, total=10.596 s, mean=0.072 s
+2024-03-15 23:53:54,897 [INFO ]  			val_rmse=0.003068, smooth_rmse=0.003067
+2024-03-15 23:53:55,831 [INFO ]  step  741 : train_time=0.132 s, total=101.070 s, mean=0.136 s
+2024-03-15 23:53:55,975 [INFO ]  step  742 : train_time=0.135 s, total=101.204 s, mean=0.136 s
+2024-03-15 23:53:56,119 [INFO ]  step  743 : train_time=0.134 s, total=101.338 s, mean=0.136 s
+2024-03-15 23:53:56,266 [INFO ]  step  744 : train_time=0.138 s, total=101.476 s, mean=0.136 s
+2024-03-15 23:53:56,411 [INFO ]  step  745 : train_time=0.136 s, total=101.612 s, mean=0.136 s
+2024-03-15 23:53:56,411 [INFO ]  Train Interval Report : train_rmse_mean=0.000534
+2024-03-15 23:53:56,480 [INFO ]  		Validate : val_time=0.069 s, total=10.666 s, mean=0.072 s
+2024-03-15 23:53:56,481 [INFO ]  			val_rmse=0.003046, smooth_rmse=0.003048
+2024-03-15 23:53:58,235 [INFO ]  step  746 : train_time=0.134 s, total=101.746 s, mean=0.136 s
+2024-03-15 23:53:58,378 [INFO ]  step  747 : train_time=0.134 s, total=101.880 s, mean=0.136 s
+2024-03-15 23:53:58,523 [INFO ]  step  748 : train_time=0.136 s, total=102.016 s, mean=0.136 s
+2024-03-15 23:53:58,667 [INFO ]  step  749 : train_time=0.135 s, total=102.151 s, mean=0.136 s
+2024-03-15 23:53:58,812 [INFO ]  step  750 : train_time=0.137 s, total=102.287 s, mean=0.136 s
+2024-03-15 23:53:58,812 [INFO ]  Train Interval Report : train_rmse_mean=0.000536
+2024-03-15 23:53:58,882 [INFO ]  		Validate : val_time=0.070 s, total=10.735 s, mean=0.072 s
+2024-03-15 23:53:58,883 [INFO ]  			val_rmse=0.003059, smooth_rmse=0.003058
+2024-03-15 23:53:59,835 [INFO ]  step  751 : train_time=0.130 s, total=102.418 s, mean=0.136 s
+2024-03-15 23:53:59,982 [INFO ]  step  752 : train_time=0.137 s, total=102.555 s, mean=0.136 s
+2024-03-15 23:54:00,128 [INFO ]  step  753 : train_time=0.137 s, total=102.691 s, mean=0.136 s
+2024-03-15 23:54:00,273 [INFO ]  step  754 : train_time=0.137 s, total=102.828 s, mean=0.136 s
+2024-03-15 23:54:00,419 [INFO ]  step  755 : train_time=0.136 s, total=102.964 s, mean=0.136 s
+2024-03-15 23:54:00,419 [INFO ]  Train Interval Report : train_rmse_mean=0.000530
+2024-03-15 23:54:00,489 [INFO ]  		Validate : val_time=0.070 s, total=10.806 s, mean=0.072 s
+2024-03-15 23:54:00,490 [INFO ]  			val_rmse=0.003042, smooth_rmse=0.003043
+2024-03-15 23:54:02,252 [INFO ]  step  756 : train_time=0.133 s, total=103.097 s, mean=0.136 s
+2024-03-15 23:54:02,398 [INFO ]  step  757 : train_time=0.137 s, total=103.234 s, mean=0.136 s
+2024-03-15 23:54:02,542 [INFO ]  step  758 : train_time=0.135 s, total=103.369 s, mean=0.136 s
+2024-03-15 23:54:02,690 [INFO ]  step  759 : train_time=0.139 s, total=103.507 s, mean=0.136 s
+2024-03-15 23:54:02,832 [INFO ]  step  760 : train_time=0.134 s, total=103.641 s, mean=0.136 s
+2024-03-15 23:54:02,832 [INFO ]  Train Interval Report : train_rmse_mean=0.000533
+2024-03-15 23:54:02,902 [INFO ]  		Validate : val_time=0.070 s, total=10.876 s, mean=0.072 s
+2024-03-15 23:54:02,902 [INFO ]  			val_rmse=0.003039, smooth_rmse=0.003039
+2024-03-15 23:54:04,731 [INFO ]  step  761 : train_time=0.131 s, total=103.772 s, mean=0.136 s
+2024-03-15 23:54:04,876 [INFO ]  step  762 : train_time=0.136 s, total=103.907 s, mean=0.136 s
+2024-03-15 23:54:05,018 [INFO ]  step  763 : train_time=0.133 s, total=104.040 s, mean=0.136 s
+2024-03-15 23:54:05,157 [INFO ]  step  764 : train_time=0.130 s, total=104.170 s, mean=0.136 s
+2024-03-15 23:54:05,301 [INFO ]  step  765 : train_time=0.135 s, total=104.305 s, mean=0.136 s
+2024-03-15 23:54:05,301 [INFO ]  Train Interval Report : train_rmse_mean=0.000517
+2024-03-15 23:54:05,369 [INFO ]  		Validate : val_time=0.068 s, total=10.943 s, mean=0.072 s
+2024-03-15 23:54:05,369 [INFO ]  			val_rmse=0.003051, smooth_rmse=0.003049
+2024-03-15 23:54:06,319 [INFO ]  step  766 : train_time=0.132 s, total=104.437 s, mean=0.136 s
+2024-03-15 23:54:06,465 [INFO ]  step  767 : train_time=0.135 s, total=104.572 s, mean=0.136 s
+2024-03-15 23:54:06,606 [INFO ]  step  768 : train_time=0.130 s, total=104.701 s, mean=0.136 s
+2024-03-15 23:54:06,755 [INFO ]  step  769 : train_time=0.139 s, total=104.840 s, mean=0.136 s
+2024-03-15 23:54:06,901 [INFO ]  step  770 : train_time=0.135 s, total=104.975 s, mean=0.136 s
+2024-03-15 23:54:06,901 [INFO ]  Train Interval Report : train_rmse_mean=0.000530
+2024-03-15 23:54:06,971 [INFO ]  		Validate : val_time=0.070 s, total=11.013 s, mean=0.072 s
+2024-03-15 23:54:06,971 [INFO ]  			val_rmse=0.003038, smooth_rmse=0.003039
+2024-03-15 23:54:07,921 [INFO ]  step  771 : train_time=0.131 s, total=105.106 s, mean=0.136 s
+2024-03-15 23:54:08,063 [INFO ]  step  772 : train_time=0.131 s, total=105.238 s, mean=0.136 s
+2024-03-15 23:54:08,203 [INFO ]  step  773 : train_time=0.131 s, total=105.369 s, mean=0.136 s
+2024-03-15 23:54:08,347 [INFO ]  step  774 : train_time=0.134 s, total=105.503 s, mean=0.136 s
+2024-03-15 23:54:08,491 [INFO ]  step  775 : train_time=0.134 s, total=105.637 s, mean=0.136 s
+2024-03-15 23:54:08,491 [INFO ]  Train Interval Report : train_rmse_mean=0.000524
+2024-03-15 23:54:08,560 [INFO ]  		Validate : val_time=0.069 s, total=11.083 s, mean=0.072 s
+2024-03-15 23:54:08,560 [INFO ]  			val_rmse=0.003040, smooth_rmse=0.003040
+2024-03-15 23:54:09,503 [INFO ]  step  776 : train_time=0.132 s, total=105.769 s, mean=0.136 s
+2024-03-15 23:54:09,648 [INFO ]  step  777 : train_time=0.135 s, total=105.904 s, mean=0.136 s
+2024-03-15 23:54:09,792 [INFO ]  step  778 : train_time=0.134 s, total=106.038 s, mean=0.136 s
+2024-03-15 23:54:09,934 [INFO ]  step  779 : train_time=0.134 s, total=106.172 s, mean=0.136 s
+2024-03-15 23:54:10,075 [INFO ]  step  780 : train_time=0.131 s, total=106.303 s, mean=0.136 s
+2024-03-15 23:54:10,075 [INFO ]  Train Interval Report : train_rmse_mean=0.000516
+2024-03-15 23:54:10,142 [INFO ]  		Validate : val_time=0.067 s, total=11.150 s, mean=0.071 s
+2024-03-15 23:54:10,143 [INFO ]  			val_rmse=0.003026, smooth_rmse=0.003027
+2024-03-15 23:54:11,917 [INFO ]  step  781 : train_time=0.133 s, total=106.436 s, mean=0.136 s
+2024-03-15 23:54:12,060 [INFO ]  step  782 : train_time=0.134 s, total=106.570 s, mean=0.136 s
+2024-03-15 23:54:12,201 [INFO ]  step  783 : train_time=0.132 s, total=106.702 s, mean=0.136 s
+2024-03-15 23:54:12,345 [INFO ]  step  784 : train_time=0.135 s, total=106.837 s, mean=0.136 s
+2024-03-15 23:54:12,490 [INFO ]  step  785 : train_time=0.136 s, total=106.973 s, mean=0.136 s
+2024-03-15 23:54:12,490 [INFO ]  Train Interval Report : train_rmse_mean=0.000502
+2024-03-15 23:54:12,559 [INFO ]  		Validate : val_time=0.069 s, total=11.219 s, mean=0.071 s
+2024-03-15 23:54:12,560 [INFO ]  			val_rmse=0.003035, smooth_rmse=0.003034
+2024-03-15 23:54:13,528 [INFO ]  step  786 : train_time=0.129 s, total=107.102 s, mean=0.136 s
+2024-03-15 23:54:13,676 [INFO ]  step  787 : train_time=0.138 s, total=107.240 s, mean=0.136 s
+2024-03-15 23:54:13,818 [INFO ]  step  788 : train_time=0.133 s, total=107.373 s, mean=0.136 s
+2024-03-15 23:54:13,959 [INFO ]  step  789 : train_time=0.132 s, total=107.504 s, mean=0.136 s
+2024-03-15 23:54:14,098 [INFO ]  step  790 : train_time=0.131 s, total=107.635 s, mean=0.136 s
+2024-03-15 23:54:14,099 [INFO ]  Train Interval Report : train_rmse_mean=0.000524
+2024-03-15 23:54:14,167 [INFO ]  		Validate : val_time=0.068 s, total=11.287 s, mean=0.071 s
+2024-03-15 23:54:14,167 [INFO ]  			val_rmse=0.003011, smooth_rmse=0.003013
+2024-03-15 23:54:15,926 [INFO ]  step  791 : train_time=0.132 s, total=107.767 s, mean=0.136 s
+2024-03-15 23:54:16,070 [INFO ]  step  792 : train_time=0.135 s, total=107.902 s, mean=0.136 s
+2024-03-15 23:54:16,212 [INFO ]  step  793 : train_time=0.132 s, total=108.035 s, mean=0.136 s
+2024-03-15 23:54:16,358 [INFO ]  step  794 : train_time=0.136 s, total=108.171 s, mean=0.136 s
+2024-03-15 23:54:16,501 [INFO ]  step  795 : train_time=0.134 s, total=108.305 s, mean=0.136 s
+2024-03-15 23:54:16,501 [INFO ]  Train Interval Report : train_rmse_mean=0.000484
+2024-03-15 23:54:16,568 [INFO ]  		Validate : val_time=0.067 s, total=11.355 s, mean=0.071 s
+2024-03-15 23:54:16,568 [INFO ]  			val_rmse=0.003033, smooth_rmse=0.003031
+2024-03-15 23:54:17,515 [INFO ]  step  796 : train_time=0.132 s, total=108.438 s, mean=0.136 s
+2024-03-15 23:54:17,654 [INFO ]  step  797 : train_time=0.129 s, total=108.566 s, mean=0.136 s
+2024-03-15 23:54:17,793 [INFO ]  step  798 : train_time=0.130 s, total=108.696 s, mean=0.136 s
+2024-03-15 23:54:17,931 [INFO ]  step  799 : train_time=0.130 s, total=108.826 s, mean=0.136 s
+2024-03-15 23:54:18,071 [INFO ]  step  800 : train_time=0.130 s, total=108.956 s, mean=0.136 s
+2024-03-15 23:54:18,071 [INFO ]  Train Interval Report : train_rmse_mean=0.000547
+2024-03-15 23:54:18,140 [INFO ]  		Validate : val_time=0.069 s, total=11.424 s, mean=0.071 s
+2024-03-15 23:54:18,140 [INFO ]  			val_rmse=0.003037, smooth_rmse=0.003037
+2024-03-15 23:54:19,064 [INFO ]  step  801 : train_time=0.132 s, total=109.088 s, mean=0.136 s
+2024-03-15 23:54:19,209 [INFO ]  step  802 : train_time=0.135 s, total=109.223 s, mean=0.136 s
+2024-03-15 23:54:19,353 [INFO ]  step  803 : train_time=0.135 s, total=109.358 s, mean=0.136 s
+2024-03-15 23:54:19,493 [INFO ]  step  804 : train_time=0.131 s, total=109.489 s, mean=0.136 s
+2024-03-15 23:54:19,637 [INFO ]  step  805 : train_time=0.135 s, total=109.624 s, mean=0.136 s
+2024-03-15 23:54:19,637 [INFO ]  Train Interval Report : train_rmse_mean=0.000476
+2024-03-15 23:54:19,705 [INFO ]  		Validate : val_time=0.068 s, total=11.492 s, mean=0.071 s
+2024-03-15 23:54:19,705 [INFO ]  			val_rmse=0.003047, smooth_rmse=0.003046
+2024-03-15 23:54:20,644 [INFO ]  step  806 : train_time=0.133 s, total=109.756 s, mean=0.136 s
+2024-03-15 23:54:20,785 [INFO ]  step  807 : train_time=0.131 s, total=109.887 s, mean=0.136 s
+2024-03-15 23:54:20,922 [INFO ]  step  808 : train_time=0.128 s, total=110.015 s, mean=0.136 s
+2024-03-15 23:54:21,060 [INFO ]  step  809 : train_time=0.129 s, total=110.145 s, mean=0.136 s
+2024-03-15 23:54:21,200 [INFO ]  step  810 : train_time=0.131 s, total=110.275 s, mean=0.136 s
+2024-03-15 23:54:21,200 [INFO ]  Train Interval Report : train_rmse_mean=0.000516
+2024-03-15 23:54:21,266 [INFO ]  		Validate : val_time=0.066 s, total=11.558 s, mean=0.071 s
+2024-03-15 23:54:21,266 [INFO ]  			val_rmse=0.003014, smooth_rmse=0.003017
+2024-03-15 23:54:22,210 [INFO ]  step  811 : train_time=0.137 s, total=110.412 s, mean=0.136 s
+2024-03-15 23:54:22,348 [INFO ]  step  812 : train_time=0.128 s, total=110.540 s, mean=0.136 s
+2024-03-15 23:54:22,491 [INFO ]  step  813 : train_time=0.134 s, total=110.673 s, mean=0.136 s
+2024-03-15 23:54:22,630 [INFO ]  step  814 : train_time=0.130 s, total=110.804 s, mean=0.136 s
+2024-03-15 23:54:22,766 [INFO ]  step  815 : train_time=0.127 s, total=110.931 s, mean=0.136 s
+2024-03-15 23:54:22,766 [INFO ]  Train Interval Report : train_rmse_mean=0.000478
+2024-03-15 23:54:22,834 [INFO ]  		Validate : val_time=0.068 s, total=11.625 s, mean=0.071 s
+2024-03-15 23:54:22,834 [INFO ]  			val_rmse=0.003003, smooth_rmse=0.003004
+2024-03-15 23:54:24,639 [INFO ]  step  816 : train_time=0.134 s, total=111.065 s, mean=0.136 s
+2024-03-15 23:54:24,787 [INFO ]  step  817 : train_time=0.136 s, total=111.201 s, mean=0.136 s
+2024-03-15 23:54:24,933 [INFO ]  step  818 : train_time=0.136 s, total=111.337 s, mean=0.136 s
+2024-03-15 23:54:25,078 [INFO ]  step  819 : train_time=0.136 s, total=111.472 s, mean=0.136 s
+2024-03-15 23:54:25,221 [INFO ]  step  820 : train_time=0.133 s, total=111.605 s, mean=0.136 s
+2024-03-15 23:54:25,222 [INFO ]  Train Interval Report : train_rmse_mean=0.000497
+2024-03-15 23:54:25,293 [INFO ]  		Validate : val_time=0.071 s, total=11.696 s, mean=0.071 s
+2024-03-15 23:54:25,293 [INFO ]  			val_rmse=0.003011, smooth_rmse=0.003010
+2024-03-15 23:54:26,262 [INFO ]  step  821 : train_time=0.131 s, total=111.737 s, mean=0.136 s
+2024-03-15 23:54:26,410 [INFO ]  step  822 : train_time=0.137 s, total=111.874 s, mean=0.136 s
+2024-03-15 23:54:26,554 [INFO ]  step  823 : train_time=0.134 s, total=112.008 s, mean=0.136 s
+2024-03-15 23:54:26,700 [INFO ]  step  824 : train_time=0.137 s, total=112.145 s, mean=0.136 s
+2024-03-15 23:54:26,850 [INFO ]  step  825 : train_time=0.140 s, total=112.285 s, mean=0.136 s
+2024-03-15 23:54:26,850 [INFO ]  Train Interval Report : train_rmse_mean=0.000486
+2024-03-15 23:54:26,921 [INFO ]  		Validate : val_time=0.071 s, total=11.767 s, mean=0.071 s
+2024-03-15 23:54:26,922 [INFO ]  			val_rmse=0.003013, smooth_rmse=0.003012
+2024-03-15 23:54:27,869 [INFO ]  step  826 : train_time=0.131 s, total=112.416 s, mean=0.136 s
+2024-03-15 23:54:28,015 [INFO ]  step  827 : train_time=0.136 s, total=112.552 s, mean=0.136 s
+2024-03-15 23:54:28,161 [INFO ]  step  828 : train_time=0.137 s, total=112.688 s, mean=0.136 s
+2024-03-15 23:54:28,306 [INFO ]  step  829 : train_time=0.135 s, total=112.823 s, mean=0.136 s
+2024-03-15 23:54:28,449 [INFO ]  step  830 : train_time=0.133 s, total=112.956 s, mean=0.136 s
+2024-03-15 23:54:28,449 [INFO ]  Train Interval Report : train_rmse_mean=0.000478
+2024-03-15 23:54:28,520 [INFO ]  		Validate : val_time=0.071 s, total=11.838 s, mean=0.071 s
+2024-03-15 23:54:28,520 [INFO ]  			val_rmse=0.002997, smooth_rmse=0.002998
+2024-03-15 23:54:30,320 [INFO ]  step  831 : train_time=0.131 s, total=113.087 s, mean=0.136 s
+2024-03-15 23:54:30,466 [INFO ]  step  832 : train_time=0.135 s, total=113.222 s, mean=0.136 s
+2024-03-15 23:54:30,610 [INFO ]  step  833 : train_time=0.134 s, total=113.356 s, mean=0.136 s
+2024-03-15 23:54:30,754 [INFO ]  step  834 : train_time=0.135 s, total=113.491 s, mean=0.136 s
+2024-03-15 23:54:30,898 [INFO ]  step  835 : train_time=0.134 s, total=113.624 s, mean=0.136 s
+2024-03-15 23:54:30,898 [INFO ]  Train Interval Report : train_rmse_mean=0.000498
+2024-03-15 23:54:30,969 [INFO ]  		Validate : val_time=0.070 s, total=11.909 s, mean=0.071 s
+2024-03-15 23:54:30,969 [INFO ]  			val_rmse=0.003022, smooth_rmse=0.003020
+2024-03-15 23:54:31,908 [INFO ]  step  836 : train_time=0.131 s, total=113.756 s, mean=0.136 s
+2024-03-15 23:54:32,051 [INFO ]  step  837 : train_time=0.133 s, total=113.889 s, mean=0.136 s
+2024-03-15 23:54:32,192 [INFO ]  step  838 : train_time=0.131 s, total=114.019 s, mean=0.136 s
+2024-03-15 23:54:32,335 [INFO ]  step  839 : train_time=0.133 s, total=114.153 s, mean=0.136 s
+2024-03-15 23:54:32,479 [INFO ]  step  840 : train_time=0.133 s, total=114.286 s, mean=0.136 s
+2024-03-15 23:54:32,479 [INFO ]  Train Interval Report : train_rmse_mean=0.000479
+2024-03-15 23:54:32,550 [INFO ]  		Validate : val_time=0.071 s, total=11.980 s, mean=0.071 s
+2024-03-15 23:54:32,550 [INFO ]  			val_rmse=0.003017, smooth_rmse=0.003017
+2024-03-15 23:54:33,507 [INFO ]  step  841 : train_time=0.131 s, total=114.417 s, mean=0.136 s
+2024-03-15 23:54:33,650 [INFO ]  step  842 : train_time=0.133 s, total=114.550 s, mean=0.136 s
+2024-03-15 23:54:33,798 [INFO ]  step  843 : train_time=0.137 s, total=114.687 s, mean=0.136 s
+2024-03-15 23:54:33,943 [INFO ]  step  844 : train_time=0.135 s, total=114.822 s, mean=0.136 s
+2024-03-15 23:54:34,093 [INFO ]  step  845 : train_time=0.140 s, total=114.963 s, mean=0.136 s
+2024-03-15 23:54:34,093 [INFO ]  Train Interval Report : train_rmse_mean=0.000459
+2024-03-15 23:54:34,163 [INFO ]  		Validate : val_time=0.070 s, total=12.050 s, mean=0.071 s
+2024-03-15 23:54:34,163 [INFO ]  			val_rmse=0.003001, smooth_rmse=0.003003
+2024-03-15 23:54:35,139 [INFO ]  step  846 : train_time=0.129 s, total=115.092 s, mean=0.136 s
+2024-03-15 23:54:35,282 [INFO ]  step  847 : train_time=0.132 s, total=115.224 s, mean=0.136 s
+2024-03-15 23:54:35,424 [INFO ]  step  848 : train_time=0.132 s, total=115.356 s, mean=0.136 s
+2024-03-15 23:54:35,566 [INFO ]  step  849 : train_time=0.132 s, total=115.488 s, mean=0.136 s
+2024-03-15 23:54:35,715 [INFO ]  step  850 : train_time=0.140 s, total=115.628 s, mean=0.136 s
+2024-03-15 23:54:35,716 [INFO ]  Train Interval Report : train_rmse_mean=0.000511
+2024-03-15 23:54:35,787 [INFO ]  		Validate : val_time=0.071 s, total=12.121 s, mean=0.071 s
+2024-03-15 23:54:35,787 [INFO ]  			val_rmse=0.003013, smooth_rmse=0.003012
+2024-03-15 23:54:36,749 [INFO ]  step  851 : train_time=0.136 s, total=115.764 s, mean=0.136 s
+2024-03-15 23:54:36,887 [INFO ]  step  852 : train_time=0.128 s, total=115.892 s, mean=0.136 s
+2024-03-15 23:54:37,034 [INFO ]  step  853 : train_time=0.137 s, total=116.029 s, mean=0.136 s
+2024-03-15 23:54:37,177 [INFO ]  step  854 : train_time=0.133 s, total=116.162 s, mean=0.136 s
+2024-03-15 23:54:37,318 [INFO ]  step  855 : train_time=0.131 s, total=116.293 s, mean=0.136 s
+2024-03-15 23:54:37,318 [INFO ]  Train Interval Report : train_rmse_mean=0.000483
+2024-03-15 23:54:37,388 [INFO ]  		Validate : val_time=0.070 s, total=12.191 s, mean=0.071 s
+2024-03-15 23:54:37,388 [INFO ]  			val_rmse=0.002988, smooth_rmse=0.002991
+2024-03-15 23:54:39,173 [INFO ]  step  856 : train_time=0.130 s, total=116.423 s, mean=0.136 s
+2024-03-15 23:54:39,320 [INFO ]  step  857 : train_time=0.137 s, total=116.560 s, mean=0.136 s
+2024-03-15 23:54:39,463 [INFO ]  step  858 : train_time=0.133 s, total=116.693 s, mean=0.136 s
+2024-03-15 23:54:39,608 [INFO ]  step  859 : train_time=0.135 s, total=116.828 s, mean=0.136 s
+2024-03-15 23:54:39,757 [INFO ]  step  860 : train_time=0.138 s, total=116.967 s, mean=0.136 s
+2024-03-15 23:54:39,757 [INFO ]  Train Interval Report : train_rmse_mean=0.000495
+2024-03-15 23:54:39,828 [INFO ]  		Validate : val_time=0.071 s, total=12.262 s, mean=0.071 s
+2024-03-15 23:54:39,828 [INFO ]  			val_rmse=0.002995, smooth_rmse=0.002994
+2024-03-15 23:54:40,779 [INFO ]  step  861 : train_time=0.133 s, total=117.099 s, mean=0.136 s
+2024-03-15 23:54:40,928 [INFO ]  step  862 : train_time=0.139 s, total=117.238 s, mean=0.136 s
+2024-03-15 23:54:41,074 [INFO ]  step  863 : train_time=0.136 s, total=117.374 s, mean=0.136 s
+2024-03-15 23:54:41,220 [INFO ]  step  864 : train_time=0.136 s, total=117.510 s, mean=0.136 s
+2024-03-15 23:54:41,366 [INFO ]  step  865 : train_time=0.137 s, total=117.647 s, mean=0.136 s
+2024-03-15 23:54:41,367 [INFO ]  Train Interval Report : train_rmse_mean=0.000475
+2024-03-15 23:54:41,438 [INFO ]  		Validate : val_time=0.071 s, total=12.333 s, mean=0.071 s
+2024-03-15 23:54:41,438 [INFO ]  			val_rmse=0.003003, smooth_rmse=0.003002
+2024-03-15 23:54:42,360 [INFO ]  step  866 : train_time=0.131 s, total=117.777 s, mean=0.136 s
+2024-03-15 23:54:42,500 [INFO ]  step  867 : train_time=0.130 s, total=117.907 s, mean=0.136 s
+2024-03-15 23:54:42,640 [INFO ]  step  868 : train_time=0.130 s, total=118.038 s, mean=0.136 s
+2024-03-15 23:54:42,785 [INFO ]  step  869 : train_time=0.135 s, total=118.172 s, mean=0.136 s
+2024-03-15 23:54:42,929 [INFO ]  step  870 : train_time=0.134 s, total=118.307 s, mean=0.136 s
+2024-03-15 23:54:42,929 [INFO ]  Train Interval Report : train_rmse_mean=0.000475
+2024-03-15 23:54:42,998 [INFO ]  		Validate : val_time=0.069 s, total=12.401 s, mean=0.071 s
+2024-03-15 23:54:42,998 [INFO ]  			val_rmse=0.003000, smooth_rmse=0.003000
+2024-03-15 23:54:43,935 [INFO ]  step  871 : train_time=0.136 s, total=118.443 s, mean=0.136 s
+2024-03-15 23:54:44,073 [INFO ]  step  872 : train_time=0.129 s, total=118.572 s, mean=0.136 s
+2024-03-15 23:54:44,212 [INFO ]  step  873 : train_time=0.130 s, total=118.702 s, mean=0.136 s
+2024-03-15 23:54:44,356 [INFO ]  step  874 : train_time=0.135 s, total=118.837 s, mean=0.136 s
+2024-03-15 23:54:44,498 [INFO ]  step  875 : train_time=0.133 s, total=118.970 s, mean=0.136 s
+2024-03-15 23:54:44,498 [INFO ]  Train Interval Report : train_rmse_mean=0.000468
+2024-03-15 23:54:44,568 [INFO ]  		Validate : val_time=0.070 s, total=12.471 s, mean=0.071 s
+2024-03-15 23:54:44,568 [INFO ]  			val_rmse=0.002993, smooth_rmse=0.002994
+2024-03-15 23:54:45,537 [INFO ]  step  876 : train_time=0.135 s, total=119.105 s, mean=0.136 s
+2024-03-15 23:54:45,682 [INFO ]  step  877 : train_time=0.136 s, total=119.241 s, mean=0.136 s
+2024-03-15 23:54:45,827 [INFO ]  step  878 : train_time=0.136 s, total=119.376 s, mean=0.136 s
+2024-03-15 23:54:45,971 [INFO ]  step  879 : train_time=0.135 s, total=119.512 s, mean=0.136 s
+2024-03-15 23:54:46,115 [INFO ]  step  880 : train_time=0.135 s, total=119.646 s, mean=0.136 s
+2024-03-15 23:54:46,115 [INFO ]  Train Interval Report : train_rmse_mean=0.000472
+2024-03-15 23:54:46,185 [INFO ]  		Validate : val_time=0.070 s, total=12.541 s, mean=0.071 s
+2024-03-15 23:54:46,185 [INFO ]  			val_rmse=0.003003, smooth_rmse=0.003002
+2024-03-15 23:54:47,117 [INFO ]  step  881 : train_time=0.131 s, total=119.778 s, mean=0.136 s
+2024-03-15 23:54:47,262 [INFO ]  step  882 : train_time=0.136 s, total=119.913 s, mean=0.136 s
+2024-03-15 23:54:47,406 [INFO ]  step  883 : train_time=0.135 s, total=120.048 s, mean=0.136 s
+2024-03-15 23:54:47,552 [INFO ]  step  884 : train_time=0.136 s, total=120.185 s, mean=0.136 s
+2024-03-15 23:54:47,694 [INFO ]  step  885 : train_time=0.134 s, total=120.318 s, mean=0.136 s
+2024-03-15 23:54:47,694 [INFO ]  Train Interval Report : train_rmse_mean=0.000454
+2024-03-15 23:54:47,764 [INFO ]  		Validate : val_time=0.069 s, total=12.610 s, mean=0.071 s
+2024-03-15 23:54:47,764 [INFO ]  			val_rmse=0.002992, smooth_rmse=0.002993
+2024-03-15 23:54:48,720 [INFO ]  step  886 : train_time=0.133 s, total=120.452 s, mean=0.136 s
+2024-03-15 23:54:48,860 [INFO ]  step  887 : train_time=0.130 s, total=120.582 s, mean=0.136 s
+2024-03-15 23:54:49,000 [INFO ]  step  888 : train_time=0.131 s, total=120.713 s, mean=0.136 s
+2024-03-15 23:54:49,144 [INFO ]  step  889 : train_time=0.135 s, total=120.848 s, mean=0.136 s
+2024-03-15 23:54:49,288 [INFO ]  step  890 : train_time=0.135 s, total=120.983 s, mean=0.136 s
+2024-03-15 23:54:49,288 [INFO ]  Train Interval Report : train_rmse_mean=0.000456
+2024-03-15 23:54:49,358 [INFO ]  		Validate : val_time=0.070 s, total=12.680 s, mean=0.071 s
+2024-03-15 23:54:49,358 [INFO ]  			val_rmse=0.002985, smooth_rmse=0.002986
+2024-03-15 23:54:51,180 [INFO ]  step  891 : train_time=0.133 s, total=121.116 s, mean=0.136 s
+2024-03-15 23:54:51,321 [INFO ]  step  892 : train_time=0.132 s, total=121.248 s, mean=0.136 s
+2024-03-15 23:54:51,462 [INFO ]  step  893 : train_time=0.132 s, total=121.379 s, mean=0.136 s
+2024-03-15 23:54:51,609 [INFO ]  step  894 : train_time=0.138 s, total=121.517 s, mean=0.136 s
+2024-03-15 23:54:51,756 [INFO ]  step  895 : train_time=0.138 s, total=121.655 s, mean=0.136 s
+2024-03-15 23:54:51,756 [INFO ]  Train Interval Report : train_rmse_mean=0.000434
+2024-03-15 23:54:51,826 [INFO ]  		Validate : val_time=0.070 s, total=12.750 s, mean=0.071 s
+2024-03-15 23:54:51,826 [INFO ]  			val_rmse=0.002989, smooth_rmse=0.002989
+2024-03-15 23:54:52,778 [INFO ]  step  896 : train_time=0.132 s, total=121.788 s, mean=0.136 s
+2024-03-15 23:54:52,917 [INFO ]  step  897 : train_time=0.130 s, total=121.917 s, mean=0.136 s
+2024-03-15 23:54:53,064 [INFO ]  step  898 : train_time=0.136 s, total=122.054 s, mean=0.136 s
+2024-03-15 23:54:53,208 [INFO ]  step  899 : train_time=0.135 s, total=122.188 s, mean=0.136 s
+2024-03-15 23:54:53,353 [INFO ]  step  900 : train_time=0.136 s, total=122.325 s, mean=0.136 s
+2024-03-15 23:54:53,353 [INFO ]  Train Interval Report : train_rmse_mean=0.000445
+2024-03-15 23:54:53,422 [INFO ]  		Validate : val_time=0.069 s, total=12.819 s, mean=0.071 s
+2024-03-15 23:54:53,422 [INFO ]  			val_rmse=0.002981, smooth_rmse=0.002982
+2024-03-15 23:54:55,196 [INFO ]  step  901 : train_time=0.133 s, total=122.457 s, mean=0.136 s
+2024-03-15 23:54:55,334 [INFO ]  step  902 : train_time=0.129 s, total=122.586 s, mean=0.136 s
+2024-03-15 23:54:55,480 [INFO ]  step  903 : train_time=0.137 s, total=122.723 s, mean=0.136 s
+2024-03-15 23:54:55,622 [INFO ]  step  904 : train_time=0.133 s, total=122.856 s, mean=0.136 s
+2024-03-15 23:54:55,761 [INFO ]  step  905 : train_time=0.130 s, total=122.985 s, mean=0.136 s
+2024-03-15 23:54:55,761 [INFO ]  Train Interval Report : train_rmse_mean=0.000438
+2024-03-15 23:54:55,830 [INFO ]  		Validate : val_time=0.069 s, total=12.888 s, mean=0.071 s
+2024-03-15 23:54:55,831 [INFO ]  			val_rmse=0.002981, smooth_rmse=0.002981
+2024-03-15 23:54:57,592 [INFO ]  step  906 : train_time=0.132 s, total=123.117 s, mean=0.136 s
+2024-03-15 23:54:57,739 [INFO ]  step  907 : train_time=0.136 s, total=123.253 s, mean=0.136 s
+2024-03-15 23:54:57,884 [INFO ]  step  908 : train_time=0.136 s, total=123.389 s, mean=0.136 s
+2024-03-15 23:54:58,028 [INFO ]  step  909 : train_time=0.135 s, total=123.524 s, mean=0.136 s
+2024-03-15 23:54:58,173 [INFO ]  step  910 : train_time=0.136 s, total=123.661 s, mean=0.136 s
+2024-03-15 23:54:58,174 [INFO ]  Train Interval Report : train_rmse_mean=0.000418
+2024-03-15 23:54:58,243 [INFO ]  		Validate : val_time=0.070 s, total=12.958 s, mean=0.071 s
+2024-03-15 23:54:58,243 [INFO ]  			val_rmse=0.002993, smooth_rmse=0.002991
+2024-03-15 23:54:59,240 [INFO ]  step  911 : train_time=0.132 s, total=123.792 s, mean=0.136 s
+2024-03-15 23:54:59,384 [INFO ]  step  912 : train_time=0.134 s, total=123.927 s, mean=0.136 s
+2024-03-15 23:54:59,529 [INFO ]  step  913 : train_time=0.136 s, total=124.063 s, mean=0.136 s
+2024-03-15 23:54:59,675 [INFO ]  step  914 : train_time=0.136 s, total=124.199 s, mean=0.136 s
+2024-03-15 23:54:59,819 [INFO ]  step  915 : train_time=0.136 s, total=124.335 s, mean=0.136 s
+2024-03-15 23:54:59,820 [INFO ]  Train Interval Report : train_rmse_mean=0.000408
+2024-03-15 23:54:59,890 [INFO ]  		Validate : val_time=0.070 s, total=13.028 s, mean=0.071 s
+2024-03-15 23:54:59,890 [INFO ]  			val_rmse=0.002982, smooth_rmse=0.002983
+2024-03-15 23:55:00,845 [INFO ]  step  916 : train_time=0.129 s, total=124.464 s, mean=0.136 s
+2024-03-15 23:55:00,990 [INFO ]  step  917 : train_time=0.136 s, total=124.600 s, mean=0.136 s
+2024-03-15 23:55:01,134 [INFO ]  step  918 : train_time=0.135 s, total=124.735 s, mean=0.136 s
+2024-03-15 23:55:01,275 [INFO ]  step  919 : train_time=0.131 s, total=124.867 s, mean=0.136 s
+2024-03-15 23:55:01,421 [INFO ]  step  920 : train_time=0.137 s, total=125.004 s, mean=0.136 s
+2024-03-15 23:55:01,422 [INFO ]  Train Interval Report : train_rmse_mean=0.000435
+2024-03-15 23:55:01,490 [INFO ]  		Validate : val_time=0.069 s, total=13.097 s, mean=0.071 s
+2024-03-15 23:55:01,490 [INFO ]  			val_rmse=0.002974, smooth_rmse=0.002975
+2024-03-15 23:55:03,261 [INFO ]  step  921 : train_time=0.131 s, total=125.135 s, mean=0.136 s
+2024-03-15 23:55:03,404 [INFO ]  step  922 : train_time=0.134 s, total=125.268 s, mean=0.136 s
+2024-03-15 23:55:03,551 [INFO ]  step  923 : train_time=0.137 s, total=125.405 s, mean=0.136 s
+2024-03-15 23:55:03,696 [INFO ]  step  924 : train_time=0.137 s, total=125.542 s, mean=0.136 s
+2024-03-15 23:55:03,841 [INFO ]  step  925 : train_time=0.136 s, total=125.678 s, mean=0.136 s
+2024-03-15 23:55:03,841 [INFO ]  Train Interval Report : train_rmse_mean=0.000410
+2024-03-15 23:55:03,911 [INFO ]  		Validate : val_time=0.070 s, total=13.167 s, mean=0.071 s
+2024-03-15 23:55:03,912 [INFO ]  			val_rmse=0.002982, smooth_rmse=0.002982
+2024-03-15 23:55:04,868 [INFO ]  step  926 : train_time=0.131 s, total=125.809 s, mean=0.136 s
+2024-03-15 23:55:05,011 [INFO ]  step  927 : train_time=0.133 s, total=125.942 s, mean=0.136 s
+2024-03-15 23:55:05,149 [INFO ]  step  928 : train_time=0.129 s, total=126.071 s, mean=0.136 s
+2024-03-15 23:55:05,293 [INFO ]  step  929 : train_time=0.135 s, total=126.206 s, mean=0.136 s
+2024-03-15 23:55:05,434 [INFO ]  step  930 : train_time=0.132 s, total=126.338 s, mean=0.136 s
+2024-03-15 23:55:05,434 [INFO ]  Train Interval Report : train_rmse_mean=0.000417
+2024-03-15 23:55:05,502 [INFO ]  		Validate : val_time=0.067 s, total=13.234 s, mean=0.071 s
+2024-03-15 23:55:05,502 [INFO ]  			val_rmse=0.002974, smooth_rmse=0.002975
+2024-03-15 23:55:07,277 [INFO ]  step  931 : train_time=0.136 s, total=126.474 s, mean=0.136 s
+2024-03-15 23:55:07,414 [INFO ]  step  932 : train_time=0.127 s, total=126.602 s, mean=0.136 s
+2024-03-15 23:55:07,555 [INFO ]  step  933 : train_time=0.132 s, total=126.733 s, mean=0.136 s
+2024-03-15 23:55:07,696 [INFO ]  step  934 : train_time=0.132 s, total=126.866 s, mean=0.136 s
+2024-03-15 23:55:07,833 [INFO ]  step  935 : train_time=0.128 s, total=126.994 s, mean=0.136 s
+2024-03-15 23:55:07,833 [INFO ]  Train Interval Report : train_rmse_mean=0.000409
+2024-03-15 23:55:07,903 [INFO ]  		Validate : val_time=0.069 s, total=13.303 s, mean=0.071 s
+2024-03-15 23:55:07,903 [INFO ]  			val_rmse=0.002975, smooth_rmse=0.002975
+2024-03-15 23:55:09,673 [INFO ]  step  936 : train_time=0.133 s, total=127.126 s, mean=0.136 s
+2024-03-15 23:55:09,820 [INFO ]  step  937 : train_time=0.138 s, total=127.264 s, mean=0.136 s
+2024-03-15 23:55:09,963 [INFO ]  step  938 : train_time=0.134 s, total=127.398 s, mean=0.136 s
+2024-03-15 23:55:10,111 [INFO ]  step  939 : train_time=0.138 s, total=127.536 s, mean=0.136 s
+2024-03-15 23:55:10,255 [INFO ]  step  940 : train_time=0.135 s, total=127.672 s, mean=0.136 s
+2024-03-15 23:55:10,255 [INFO ]  Train Interval Report : train_rmse_mean=0.000419
+2024-03-15 23:55:10,325 [INFO ]  		Validate : val_time=0.070 s, total=13.373 s, mean=0.071 s
+2024-03-15 23:55:10,325 [INFO ]  			val_rmse=0.002976, smooth_rmse=0.002976
+2024-03-15 23:55:11,287 [INFO ]  step  941 : train_time=0.133 s, total=127.804 s, mean=0.136 s
+2024-03-15 23:55:11,435 [INFO ]  step  942 : train_time=0.138 s, total=127.943 s, mean=0.136 s
+2024-03-15 23:55:11,575 [INFO ]  step  943 : train_time=0.130 s, total=128.073 s, mean=0.136 s
+2024-03-15 23:55:11,714 [INFO ]  step  944 : train_time=0.131 s, total=128.204 s, mean=0.136 s
+2024-03-15 23:55:11,856 [INFO ]  step  945 : train_time=0.133 s, total=128.337 s, mean=0.136 s
+2024-03-15 23:55:11,857 [INFO ]  Train Interval Report : train_rmse_mean=0.000405
+2024-03-15 23:55:11,924 [INFO ]  		Validate : val_time=0.068 s, total=13.441 s, mean=0.071 s
+2024-03-15 23:55:11,924 [INFO ]  			val_rmse=0.002965, smooth_rmse=0.002966
+2024-03-15 23:55:13,677 [INFO ]  step  946 : train_time=0.130 s, total=128.467 s, mean=0.136 s
+2024-03-15 23:55:13,816 [INFO ]  step  947 : train_time=0.130 s, total=128.597 s, mean=0.136 s
+2024-03-15 23:55:13,955 [INFO ]  step  948 : train_time=0.129 s, total=128.726 s, mean=0.136 s
+2024-03-15 23:55:14,099 [INFO ]  step  949 : train_time=0.135 s, total=128.861 s, mean=0.136 s
+2024-03-15 23:55:14,245 [INFO ]  step  950 : train_time=0.138 s, total=128.999 s, mean=0.136 s
+2024-03-15 23:55:14,246 [INFO ]  Train Interval Report : train_rmse_mean=0.000414
+2024-03-15 23:55:14,314 [INFO ]  		Validate : val_time=0.068 s, total=13.509 s, mean=0.071 s
+2024-03-15 23:55:14,314 [INFO ]  			val_rmse=0.002973, smooth_rmse=0.002972
+2024-03-15 23:55:15,236 [INFO ]  step  951 : train_time=0.132 s, total=129.131 s, mean=0.136 s
+2024-03-15 23:55:15,380 [INFO ]  step  952 : train_time=0.134 s, total=129.265 s, mean=0.136 s
+2024-03-15 23:55:15,525 [INFO ]  step  953 : train_time=0.136 s, total=129.401 s, mean=0.136 s
+2024-03-15 23:55:15,671 [INFO ]  step  954 : train_time=0.137 s, total=129.538 s, mean=0.136 s
+2024-03-15 23:55:15,814 [INFO ]  step  955 : train_time=0.135 s, total=129.673 s, mean=0.136 s
+2024-03-15 23:55:15,814 [INFO ]  Train Interval Report : train_rmse_mean=0.000416
+2024-03-15 23:55:15,883 [INFO ]  		Validate : val_time=0.069 s, total=13.577 s, mean=0.071 s
+2024-03-15 23:55:15,883 [INFO ]  			val_rmse=0.002965, smooth_rmse=0.002966
+2024-03-15 23:55:16,819 [INFO ]  step  956 : train_time=0.130 s, total=129.803 s, mean=0.136 s
+2024-03-15 23:55:16,965 [INFO ]  step  957 : train_time=0.135 s, total=129.937 s, mean=0.136 s
+2024-03-15 23:55:17,107 [INFO ]  step  958 : train_time=0.131 s, total=130.068 s, mean=0.136 s
+2024-03-15 23:55:17,246 [INFO ]  step  959 : train_time=0.128 s, total=130.196 s, mean=0.136 s
+2024-03-15 23:55:17,390 [INFO ]  step  960 : train_time=0.134 s, total=130.330 s, mean=0.136 s
+2024-03-15 23:55:17,390 [INFO ]  Train Interval Report : train_rmse_mean=0.000400
+2024-03-15 23:55:17,458 [INFO ]  		Validate : val_time=0.068 s, total=13.645 s, mean=0.071 s
+2024-03-15 23:55:17,458 [INFO ]  			val_rmse=0.002967, smooth_rmse=0.002967
+2024-03-15 23:55:18,397 [INFO ]  step  961 : train_time=0.130 s, total=130.460 s, mean=0.136 s
+2024-03-15 23:55:18,536 [INFO ]  step  962 : train_time=0.129 s, total=130.589 s, mean=0.136 s
+2024-03-15 23:55:18,676 [INFO ]  step  963 : train_time=0.130 s, total=130.720 s, mean=0.136 s
+2024-03-15 23:55:18,818 [INFO ]  step  964 : train_time=0.132 s, total=130.852 s, mean=0.136 s
+2024-03-15 23:55:18,963 [INFO ]  step  965 : train_time=0.136 s, total=130.987 s, mean=0.136 s
+2024-03-15 23:55:18,963 [INFO ]  Train Interval Report : train_rmse_mean=0.000412
+2024-03-15 23:55:19,032 [INFO ]  		Validate : val_time=0.070 s, total=13.715 s, mean=0.071 s
+2024-03-15 23:55:19,033 [INFO ]  			val_rmse=0.002963, smooth_rmse=0.002963
+2024-03-15 23:55:20,847 [INFO ]  step  966 : train_time=0.131 s, total=131.118 s, mean=0.136 s
+2024-03-15 23:55:20,991 [INFO ]  step  967 : train_time=0.134 s, total=131.253 s, mean=0.136 s
+2024-03-15 23:55:21,132 [INFO ]  step  968 : train_time=0.132 s, total=131.385 s, mean=0.136 s
+2024-03-15 23:55:21,277 [INFO ]  step  969 : train_time=0.133 s, total=131.518 s, mean=0.136 s
+2024-03-15 23:55:21,418 [INFO ]  step  970 : train_time=0.133 s, total=131.650 s, mean=0.136 s
+2024-03-15 23:55:21,418 [INFO ]  Train Interval Report : train_rmse_mean=0.000405
+2024-03-15 23:55:21,487 [INFO ]  		Validate : val_time=0.069 s, total=13.783 s, mean=0.071 s
+2024-03-15 23:55:21,487 [INFO ]  			val_rmse=0.002968, smooth_rmse=0.002968
+2024-03-15 23:55:22,448 [INFO ]  step  971 : train_time=0.131 s, total=131.782 s, mean=0.136 s
+2024-03-15 23:55:22,586 [INFO ]  step  972 : train_time=0.129 s, total=131.911 s, mean=0.136 s
+2024-03-15 23:55:22,730 [INFO ]  step  973 : train_time=0.135 s, total=132.045 s, mean=0.136 s
+2024-03-15 23:55:22,876 [INFO ]  step  974 : train_time=0.136 s, total=132.182 s, mean=0.136 s
+2024-03-15 23:55:23,023 [INFO ]  step  975 : train_time=0.138 s, total=132.320 s, mean=0.136 s
+2024-03-15 23:55:23,023 [INFO ]  Train Interval Report : train_rmse_mean=0.000395
+2024-03-15 23:55:23,092 [INFO ]  		Validate : val_time=0.069 s, total=13.853 s, mean=0.071 s
+2024-03-15 23:55:23,093 [INFO ]  			val_rmse=0.002970, smooth_rmse=0.002970
+2024-03-15 23:55:24,032 [INFO ]  step  976 : train_time=0.134 s, total=132.453 s, mean=0.136 s
+2024-03-15 23:55:24,180 [INFO ]  step  977 : train_time=0.138 s, total=132.592 s, mean=0.136 s
+2024-03-15 23:55:24,323 [INFO ]  step  978 : train_time=0.134 s, total=132.726 s, mean=0.136 s
+2024-03-15 23:55:24,464 [INFO ]  step  979 : train_time=0.132 s, total=132.858 s, mean=0.136 s
+2024-03-15 23:55:24,611 [INFO ]  step  980 : train_time=0.138 s, total=132.995 s, mean=0.136 s
+2024-03-15 23:55:24,611 [INFO ]  Train Interval Report : train_rmse_mean=0.000417
+2024-03-15 23:55:24,680 [INFO ]  		Validate : val_time=0.069 s, total=13.922 s, mean=0.071 s
+2024-03-15 23:55:24,680 [INFO ]  			val_rmse=0.002969, smooth_rmse=0.002969
+2024-03-15 23:55:25,630 [INFO ]  step  981 : train_time=0.131 s, total=133.126 s, mean=0.136 s
+2024-03-15 23:55:25,774 [INFO ]  step  982 : train_time=0.134 s, total=133.260 s, mean=0.136 s
+2024-03-15 23:55:25,913 [INFO ]  step  983 : train_time=0.130 s, total=133.390 s, mean=0.136 s
+2024-03-15 23:55:26,052 [INFO ]  step  984 : train_time=0.130 s, total=133.520 s, mean=0.136 s
+2024-03-15 23:55:26,192 [INFO ]  step  985 : train_time=0.131 s, total=133.651 s, mean=0.136 s
+2024-03-15 23:55:26,192 [INFO ]  Train Interval Report : train_rmse_mean=0.000381
+2024-03-15 23:55:26,259 [INFO ]  		Validate : val_time=0.067 s, total=13.989 s, mean=0.071 s
+2024-03-15 23:55:26,259 [INFO ]  			val_rmse=0.002958, smooth_rmse=0.002959
+2024-03-15 23:55:27,993 [INFO ]  step  986 : train_time=0.132 s, total=133.784 s, mean=0.136 s
+2024-03-15 23:55:28,135 [INFO ]  step  987 : train_time=0.133 s, total=133.916 s, mean=0.136 s
+2024-03-15 23:55:28,276 [INFO ]  step  988 : train_time=0.131 s, total=134.048 s, mean=0.136 s
+2024-03-15 23:55:28,418 [INFO ]  step  989 : train_time=0.134 s, total=134.181 s, mean=0.136 s
+2024-03-15 23:55:28,561 [INFO ]  step  990 : train_time=0.133 s, total=134.315 s, mean=0.136 s
+2024-03-15 23:55:28,561 [INFO ]  Train Interval Report : train_rmse_mean=0.000417
+2024-03-15 23:55:28,630 [INFO ]  		Validate : val_time=0.069 s, total=14.058 s, mean=0.071 s
+2024-03-15 23:55:28,630 [INFO ]  			val_rmse=0.002965, smooth_rmse=0.002964
+2024-03-15 23:55:29,568 [INFO ]  step  991 : train_time=0.134 s, total=134.448 s, mean=0.136 s
+2024-03-15 23:55:29,712 [INFO ]  step  992 : train_time=0.134 s, total=134.583 s, mean=0.136 s
+2024-03-15 23:55:29,856 [INFO ]  step  993 : train_time=0.135 s, total=134.718 s, mean=0.136 s
+2024-03-15 23:55:30,003 [INFO ]  step  994 : train_time=0.138 s, total=134.856 s, mean=0.136 s
+2024-03-15 23:55:30,146 [INFO ]  step  995 : train_time=0.134 s, total=134.990 s, mean=0.136 s
+2024-03-15 23:55:30,146 [INFO ]  Train Interval Report : train_rmse_mean=0.000402
+2024-03-15 23:55:30,215 [INFO ]  		Validate : val_time=0.069 s, total=14.127 s, mean=0.071 s
+2024-03-15 23:55:30,215 [INFO ]  			val_rmse=0.002960, smooth_rmse=0.002960
+2024-03-15 23:55:31,170 [INFO ]  step  996 : train_time=0.131 s, total=135.121 s, mean=0.136 s
+2024-03-15 23:55:31,317 [INFO ]  step  997 : train_time=0.138 s, total=135.258 s, mean=0.136 s
+2024-03-15 23:55:31,461 [INFO ]  step  998 : train_time=0.135 s, total=135.393 s, mean=0.136 s
+2024-03-15 23:55:31,604 [INFO ]  step  999 : train_time=0.134 s, total=135.527 s, mean=0.136 s
+2024-03-15 23:55:31,751 [INFO ]  step 1000 : train_time=0.138 s, total=135.665 s, mean=0.136 s
+2024-03-15 23:55:31,751 [INFO ]  Train Interval Report : train_rmse_mean=0.000396
+2024-03-15 23:55:31,821 [INFO ]  		Validate : val_time=0.070 s, total=14.197 s, mean=0.071 s
+2024-03-15 23:55:31,821 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002948
+2024-03-15 23:55:33,608 [INFO ]  step 1001 : train_time=0.132 s, total=135.797 s, mean=0.136 s
+2024-03-15 23:55:33,751 [INFO ]  step 1002 : train_time=0.134 s, total=135.931 s, mean=0.136 s
+2024-03-15 23:55:33,898 [INFO ]  step 1003 : train_time=0.137 s, total=136.068 s, mean=0.136 s
+2024-03-15 23:55:34,039 [INFO ]  step 1004 : train_time=0.132 s, total=136.200 s, mean=0.136 s
+2024-03-15 23:55:34,181 [INFO ]  step 1005 : train_time=0.133 s, total=136.333 s, mean=0.136 s
+2024-03-15 23:55:34,181 [INFO ]  Train Interval Report : train_rmse_mean=0.000379
+2024-03-15 23:55:34,250 [INFO ]  		Validate : val_time=0.069 s, total=14.266 s, mean=0.071 s
+2024-03-15 23:55:34,250 [INFO ]  			val_rmse=0.002960, smooth_rmse=0.002959
+2024-03-15 23:55:35,217 [INFO ]  step 1006 : train_time=0.131 s, total=136.464 s, mean=0.136 s
+2024-03-15 23:55:35,363 [INFO ]  step 1007 : train_time=0.136 s, total=136.600 s, mean=0.136 s
+2024-03-15 23:55:35,509 [INFO ]  step 1008 : train_time=0.137 s, total=136.736 s, mean=0.136 s
+2024-03-15 23:55:35,654 [INFO ]  step 1009 : train_time=0.136 s, total=136.873 s, mean=0.136 s
+2024-03-15 23:55:35,800 [INFO ]  step 1010 : train_time=0.137 s, total=137.010 s, mean=0.136 s
+2024-03-15 23:55:35,800 [INFO ]  Train Interval Report : train_rmse_mean=0.000415
+2024-03-15 23:55:35,871 [INFO ]  		Validate : val_time=0.070 s, total=14.337 s, mean=0.071 s
+2024-03-15 23:55:35,871 [INFO ]  			val_rmse=0.002953, smooth_rmse=0.002953
+2024-03-15 23:55:36,810 [INFO ]  step 1011 : train_time=0.130 s, total=137.140 s, mean=0.136 s
+2024-03-15 23:55:36,949 [INFO ]  step 1012 : train_time=0.130 s, total=137.270 s, mean=0.136 s
+2024-03-15 23:55:37,091 [INFO ]  step 1013 : train_time=0.133 s, total=137.403 s, mean=0.136 s
+2024-03-15 23:55:37,237 [INFO ]  step 1014 : train_time=0.137 s, total=137.540 s, mean=0.136 s
+2024-03-15 23:55:37,382 [INFO ]  step 1015 : train_time=0.136 s, total=137.676 s, mean=0.136 s
+2024-03-15 23:55:37,382 [INFO ]  Train Interval Report : train_rmse_mean=0.000386
+2024-03-15 23:55:37,450 [INFO ]  		Validate : val_time=0.068 s, total=14.405 s, mean=0.071 s
+2024-03-15 23:55:37,451 [INFO ]  			val_rmse=0.002951, smooth_rmse=0.002951
+2024-03-15 23:55:38,370 [INFO ]  step 1016 : train_time=0.130 s, total=137.807 s, mean=0.136 s
+2024-03-15 23:55:38,516 [INFO ]  step 1017 : train_time=0.136 s, total=137.943 s, mean=0.136 s
+2024-03-15 23:55:38,662 [INFO ]  step 1018 : train_time=0.137 s, total=138.080 s, mean=0.136 s
+2024-03-15 23:55:38,808 [INFO ]  step 1019 : train_time=0.136 s, total=138.217 s, mean=0.136 s
+2024-03-15 23:55:38,949 [INFO ]  step 1020 : train_time=0.132 s, total=138.349 s, mean=0.136 s
+2024-03-15 23:55:38,949 [INFO ]  Train Interval Report : train_rmse_mean=0.000403
+2024-03-15 23:55:39,019 [INFO ]  		Validate : val_time=0.070 s, total=14.475 s, mean=0.071 s
+2024-03-15 23:55:39,019 [INFO ]  			val_rmse=0.002960, smooth_rmse=0.002960
+2024-03-15 23:55:39,951 [INFO ]  step 1021 : train_time=0.131 s, total=138.479 s, mean=0.136 s
+2024-03-15 23:55:40,093 [INFO ]  step 1022 : train_time=0.133 s, total=138.612 s, mean=0.136 s
+2024-03-15 23:55:40,238 [INFO ]  step 1023 : train_time=0.136 s, total=138.748 s, mean=0.136 s
+2024-03-15 23:55:40,387 [INFO ]  step 1024 : train_time=0.140 s, total=138.888 s, mean=0.136 s
+2024-03-15 23:55:40,532 [INFO ]  step 1025 : train_time=0.137 s, total=139.025 s, mean=0.136 s
+2024-03-15 23:55:40,532 [INFO ]  Train Interval Report : train_rmse_mean=0.000386
+2024-03-15 23:55:40,601 [INFO ]  		Validate : val_time=0.069 s, total=14.543 s, mean=0.071 s
+2024-03-15 23:55:40,601 [INFO ]  			val_rmse=0.002949, smooth_rmse=0.002950
+2024-03-15 23:55:41,573 [INFO ]  step 1026 : train_time=0.131 s, total=139.155 s, mean=0.136 s
+2024-03-15 23:55:41,719 [INFO ]  step 1027 : train_time=0.137 s, total=139.292 s, mean=0.136 s
+2024-03-15 23:55:41,861 [INFO ]  step 1028 : train_time=0.133 s, total=139.425 s, mean=0.136 s
+2024-03-15 23:55:42,005 [INFO ]  step 1029 : train_time=0.135 s, total=139.560 s, mean=0.136 s
+2024-03-15 23:55:42,153 [INFO ]  step 1030 : train_time=0.139 s, total=139.699 s, mean=0.136 s
+2024-03-15 23:55:42,153 [INFO ]  Train Interval Report : train_rmse_mean=0.000412
+2024-03-15 23:55:42,223 [INFO ]  		Validate : val_time=0.070 s, total=14.613 s, mean=0.071 s
+2024-03-15 23:55:42,223 [INFO ]  			val_rmse=0.002958, smooth_rmse=0.002957
+2024-03-15 23:55:43,171 [INFO ]  step 1031 : train_time=0.131 s, total=139.830 s, mean=0.136 s
+2024-03-15 23:55:43,314 [INFO ]  step 1032 : train_time=0.134 s, total=139.964 s, mean=0.136 s
+2024-03-15 23:55:43,457 [INFO ]  step 1033 : train_time=0.133 s, total=140.097 s, mean=0.136 s
+2024-03-15 23:55:43,598 [INFO ]  step 1034 : train_time=0.132 s, total=140.229 s, mean=0.136 s
+2024-03-15 23:55:43,737 [INFO ]  step 1035 : train_time=0.130 s, total=140.359 s, mean=0.136 s
+2024-03-15 23:55:43,737 [INFO ]  Train Interval Report : train_rmse_mean=0.000388
+2024-03-15 23:55:43,804 [INFO ]  		Validate : val_time=0.067 s, total=14.680 s, mean=0.071 s
+2024-03-15 23:55:43,804 [INFO ]  			val_rmse=0.002948, smooth_rmse=0.002949
+2024-03-15 23:55:44,765 [INFO ]  step 1036 : train_time=0.133 s, total=140.492 s, mean=0.136 s
+2024-03-15 23:55:44,903 [INFO ]  step 1037 : train_time=0.128 s, total=140.620 s, mean=0.136 s
+2024-03-15 23:55:45,048 [INFO ]  step 1038 : train_time=0.136 s, total=140.756 s, mean=0.136 s
+2024-03-15 23:55:45,192 [INFO ]  step 1039 : train_time=0.135 s, total=140.892 s, mean=0.136 s
+2024-03-15 23:55:45,337 [INFO ]  step 1040 : train_time=0.135 s, total=141.027 s, mean=0.136 s
+2024-03-15 23:55:45,337 [INFO ]  Train Interval Report : train_rmse_mean=0.000392
+2024-03-15 23:55:45,407 [INFO ]  		Validate : val_time=0.070 s, total=14.750 s, mean=0.071 s
+2024-03-15 23:55:45,407 [INFO ]  			val_rmse=0.002942, smooth_rmse=0.002942
+2024-03-15 23:55:47,204 [INFO ]  step 1041 : train_time=0.134 s, total=141.161 s, mean=0.136 s
+2024-03-15 23:55:47,342 [INFO ]  step 1042 : train_time=0.128 s, total=141.289 s, mean=0.136 s
+2024-03-15 23:55:47,480 [INFO ]  step 1043 : train_time=0.129 s, total=141.418 s, mean=0.136 s
+2024-03-15 23:55:47,620 [INFO ]  step 1044 : train_time=0.131 s, total=141.549 s, mean=0.136 s
+2024-03-15 23:55:47,758 [INFO ]  step 1045 : train_time=0.129 s, total=141.678 s, mean=0.136 s
+2024-03-15 23:55:47,758 [INFO ]  Train Interval Report : train_rmse_mean=0.000386
+2024-03-15 23:55:47,824 [INFO ]  		Validate : val_time=0.066 s, total=14.816 s, mean=0.071 s
+2024-03-15 23:55:47,825 [INFO ]  			val_rmse=0.002960, smooth_rmse=0.002958
+2024-03-15 23:55:48,777 [INFO ]  step 1046 : train_time=0.131 s, total=141.809 s, mean=0.136 s
+2024-03-15 23:55:48,920 [INFO ]  step 1047 : train_time=0.134 s, total=141.943 s, mean=0.136 s
+2024-03-15 23:55:49,059 [INFO ]  step 1048 : train_time=0.130 s, total=142.073 s, mean=0.136 s
+2024-03-15 23:55:49,199 [INFO ]  step 1049 : train_time=0.131 s, total=142.204 s, mean=0.136 s
+2024-03-15 23:55:49,346 [INFO ]  step 1050 : train_time=0.138 s, total=142.342 s, mean=0.136 s
+2024-03-15 23:55:49,346 [INFO ]  Train Interval Report : train_rmse_mean=0.000381
+2024-03-15 23:55:49,415 [INFO ]  		Validate : val_time=0.069 s, total=14.885 s, mean=0.071 s
+2024-03-15 23:55:49,415 [INFO ]  			val_rmse=0.002957, smooth_rmse=0.002957
+2024-03-15 23:55:50,348 [INFO ]  step 1051 : train_time=0.131 s, total=142.473 s, mean=0.136 s
+2024-03-15 23:55:50,490 [INFO ]  step 1052 : train_time=0.133 s, total=142.606 s, mean=0.136 s
+2024-03-15 23:55:50,629 [INFO ]  step 1053 : train_time=0.130 s, total=142.736 s, mean=0.136 s
+2024-03-15 23:55:50,772 [INFO ]  step 1054 : train_time=0.134 s, total=142.870 s, mean=0.136 s
+2024-03-15 23:55:50,916 [INFO ]  step 1055 : train_time=0.135 s, total=143.005 s, mean=0.136 s
+2024-03-15 23:55:50,916 [INFO ]  Train Interval Report : train_rmse_mean=0.000371
+2024-03-15 23:55:50,986 [INFO ]  		Validate : val_time=0.070 s, total=14.955 s, mean=0.071 s
+2024-03-15 23:55:50,986 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002948
+2024-03-15 23:55:51,936 [INFO ]  step 1056 : train_time=0.135 s, total=143.140 s, mean=0.136 s
+2024-03-15 23:55:52,074 [INFO ]  step 1057 : train_time=0.128 s, total=143.267 s, mean=0.136 s
+2024-03-15 23:55:52,220 [INFO ]  step 1058 : train_time=0.137 s, total=143.404 s, mean=0.136 s
+2024-03-15 23:55:52,364 [INFO ]  step 1059 : train_time=0.135 s, total=143.539 s, mean=0.136 s
+2024-03-15 23:55:52,510 [INFO ]  step 1060 : train_time=0.137 s, total=143.677 s, mean=0.136 s
+2024-03-15 23:55:52,510 [INFO ]  Train Interval Report : train_rmse_mean=0.000386
+2024-03-15 23:55:52,580 [INFO ]  		Validate : val_time=0.069 s, total=15.024 s, mean=0.071 s
+2024-03-15 23:55:52,580 [INFO ]  			val_rmse=0.002951, smooth_rmse=0.002951
+2024-03-15 23:55:53,515 [INFO ]  step 1061 : train_time=0.130 s, total=143.807 s, mean=0.136 s
+2024-03-15 23:55:53,659 [INFO ]  step 1062 : train_time=0.135 s, total=143.942 s, mean=0.136 s
+2024-03-15 23:55:53,803 [INFO ]  step 1063 : train_time=0.135 s, total=144.077 s, mean=0.136 s
+2024-03-15 23:55:53,951 [INFO ]  step 1064 : train_time=0.139 s, total=144.216 s, mean=0.136 s
+2024-03-15 23:55:54,100 [INFO ]  step 1065 : train_time=0.139 s, total=144.355 s, mean=0.136 s
+2024-03-15 23:55:54,100 [INFO ]  Train Interval Report : train_rmse_mean=0.000366
+2024-03-15 23:55:54,169 [INFO ]  		Validate : val_time=0.069 s, total=15.093 s, mean=0.071 s
+2024-03-15 23:55:54,169 [INFO ]  			val_rmse=0.002954, smooth_rmse=0.002954
+2024-03-15 23:55:55,115 [INFO ]  step 1066 : train_time=0.128 s, total=144.483 s, mean=0.136 s
+2024-03-15 23:55:55,259 [INFO ]  step 1067 : train_time=0.134 s, total=144.618 s, mean=0.136 s
+2024-03-15 23:55:55,397 [INFO ]  step 1068 : train_time=0.130 s, total=144.747 s, mean=0.136 s
+2024-03-15 23:55:55,536 [INFO ]  step 1069 : train_time=0.130 s, total=144.877 s, mean=0.136 s
+2024-03-15 23:55:55,678 [INFO ]  step 1070 : train_time=0.132 s, total=145.010 s, mean=0.136 s
+2024-03-15 23:55:55,678 [INFO ]  Train Interval Report : train_rmse_mean=0.000390
+2024-03-15 23:55:55,744 [INFO ]  		Validate : val_time=0.066 s, total=15.159 s, mean=0.071 s
+2024-03-15 23:55:55,744 [INFO ]  			val_rmse=0.002948, smooth_rmse=0.002949
+2024-03-15 23:55:56,743 [INFO ]  step 1071 : train_time=0.131 s, total=145.141 s, mean=0.136 s
+2024-03-15 23:55:56,890 [INFO ]  step 1072 : train_time=0.138 s, total=145.278 s, mean=0.136 s
+2024-03-15 23:55:57,033 [INFO ]  step 1073 : train_time=0.134 s, total=145.413 s, mean=0.136 s
+2024-03-15 23:55:57,177 [INFO ]  step 1074 : train_time=0.135 s, total=145.547 s, mean=0.136 s
+2024-03-15 23:55:57,322 [INFO ]  step 1075 : train_time=0.136 s, total=145.684 s, mean=0.136 s
+2024-03-15 23:55:57,322 [INFO ]  Train Interval Report : train_rmse_mean=0.000365
+2024-03-15 23:55:57,391 [INFO ]  		Validate : val_time=0.069 s, total=15.228 s, mean=0.071 s
+2024-03-15 23:55:57,392 [INFO ]  			val_rmse=0.002948, smooth_rmse=0.002949
+2024-03-15 23:55:58,343 [INFO ]  step 1076 : train_time=0.131 s, total=145.815 s, mean=0.136 s
+2024-03-15 23:55:58,489 [INFO ]  step 1077 : train_time=0.137 s, total=145.952 s, mean=0.136 s
+2024-03-15 23:55:58,633 [INFO ]  step 1078 : train_time=0.135 s, total=146.086 s, mean=0.136 s
+2024-03-15 23:55:58,778 [INFO ]  step 1079 : train_time=0.136 s, total=146.222 s, mean=0.136 s
+2024-03-15 23:55:58,920 [INFO ]  step 1080 : train_time=0.134 s, total=146.356 s, mean=0.136 s
+2024-03-15 23:55:58,920 [INFO ]  Train Interval Report : train_rmse_mean=0.000374
+2024-03-15 23:55:58,990 [INFO ]  		Validate : val_time=0.070 s, total=15.298 s, mean=0.071 s
+2024-03-15 23:55:58,990 [INFO ]  			val_rmse=0.002955, smooth_rmse=0.002954
+2024-03-15 23:55:59,942 [INFO ]  step 1081 : train_time=0.133 s, total=146.489 s, mean=0.136 s
+2024-03-15 23:56:00,085 [INFO ]  step 1082 : train_time=0.134 s, total=146.622 s, mean=0.136 s
+2024-03-15 23:56:00,230 [INFO ]  step 1083 : train_time=0.136 s, total=146.758 s, mean=0.136 s
+2024-03-15 23:56:00,372 [INFO ]  step 1084 : train_time=0.133 s, total=146.891 s, mean=0.136 s
+2024-03-15 23:56:00,514 [INFO ]  step 1085 : train_time=0.133 s, total=147.024 s, mean=0.136 s
+2024-03-15 23:56:00,514 [INFO ]  Train Interval Report : train_rmse_mean=0.000358
+2024-03-15 23:56:00,583 [INFO ]  		Validate : val_time=0.069 s, total=15.367 s, mean=0.071 s
+2024-03-15 23:56:00,583 [INFO ]  			val_rmse=0.002948, smooth_rmse=0.002948
+2024-03-15 23:56:01,550 [INFO ]  step 1086 : train_time=0.134 s, total=147.158 s, mean=0.136 s
+2024-03-15 23:56:01,694 [INFO ]  step 1087 : train_time=0.136 s, total=147.294 s, mean=0.136 s
+2024-03-15 23:56:01,842 [INFO ]  step 1088 : train_time=0.138 s, total=147.432 s, mean=0.136 s
+2024-03-15 23:56:01,988 [INFO ]  step 1089 : train_time=0.138 s, total=147.570 s, mean=0.136 s
+2024-03-15 23:56:02,137 [INFO ]  step 1090 : train_time=0.137 s, total=147.707 s, mean=0.136 s
+2024-03-15 23:56:02,137 [INFO ]  Train Interval Report : train_rmse_mean=0.000385
+2024-03-15 23:56:02,207 [INFO ]  		Validate : val_time=0.070 s, total=15.436 s, mean=0.071 s
+2024-03-15 23:56:02,207 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002947
+2024-03-15 23:56:03,156 [INFO ]  step 1091 : train_time=0.134 s, total=147.840 s, mean=0.136 s
+2024-03-15 23:56:03,302 [INFO ]  step 1092 : train_time=0.137 s, total=147.977 s, mean=0.136 s
+2024-03-15 23:56:03,446 [INFO ]  step 1093 : train_time=0.135 s, total=148.112 s, mean=0.136 s
+2024-03-15 23:56:03,593 [INFO ]  step 1094 : train_time=0.137 s, total=148.250 s, mean=0.136 s
+2024-03-15 23:56:03,737 [INFO ]  step 1095 : train_time=0.135 s, total=148.385 s, mean=0.136 s
+2024-03-15 23:56:03,737 [INFO ]  Train Interval Report : train_rmse_mean=0.000377
+2024-03-15 23:56:03,807 [INFO ]  		Validate : val_time=0.070 s, total=15.506 s, mean=0.071 s
+2024-03-15 23:56:03,807 [INFO ]  			val_rmse=0.002944, smooth_rmse=0.002944
+2024-03-15 23:56:04,738 [INFO ]  step 1096 : train_time=0.130 s, total=148.515 s, mean=0.136 s
+2024-03-15 23:56:04,882 [INFO ]  step 1097 : train_time=0.135 s, total=148.650 s, mean=0.136 s
+2024-03-15 23:56:05,028 [INFO ]  step 1098 : train_time=0.137 s, total=148.787 s, mean=0.136 s
+2024-03-15 23:56:05,174 [INFO ]  step 1099 : train_time=0.137 s, total=148.924 s, mean=0.136 s
+2024-03-15 23:56:05,322 [INFO ]  step 1100 : train_time=0.139 s, total=149.063 s, mean=0.136 s
+2024-03-15 23:56:05,322 [INFO ]  Train Interval Report : train_rmse_mean=0.000363
+2024-03-15 23:56:05,392 [INFO ]  		Validate : val_time=0.070 s, total=15.576 s, mean=0.071 s
+2024-03-15 23:56:05,392 [INFO ]  			val_rmse=0.002949, smooth_rmse=0.002948
+2024-03-15 23:56:06,327 [INFO ]  step 1101 : train_time=0.132 s, total=149.195 s, mean=0.136 s
+2024-03-15 23:56:06,468 [INFO ]  step 1102 : train_time=0.132 s, total=149.327 s, mean=0.136 s
+2024-03-15 23:56:06,612 [INFO ]  step 1103 : train_time=0.135 s, total=149.462 s, mean=0.136 s
+2024-03-15 23:56:06,761 [INFO ]  step 1104 : train_time=0.140 s, total=149.602 s, mean=0.136 s
+2024-03-15 23:56:06,904 [INFO ]  step 1105 : train_time=0.133 s, total=149.736 s, mean=0.136 s
+2024-03-15 23:56:06,904 [INFO ]  Train Interval Report : train_rmse_mean=0.000374
+2024-03-15 23:56:06,974 [INFO ]  		Validate : val_time=0.070 s, total=15.646 s, mean=0.071 s
+2024-03-15 23:56:06,974 [INFO ]  			val_rmse=0.002949, smooth_rmse=0.002949
+2024-03-15 23:56:07,926 [INFO ]  step 1106 : train_time=0.135 s, total=149.870 s, mean=0.136 s
+2024-03-15 23:56:08,073 [INFO ]  step 1107 : train_time=0.138 s, total=150.008 s, mean=0.136 s
+2024-03-15 23:56:08,218 [INFO ]  step 1108 : train_time=0.136 s, total=150.144 s, mean=0.136 s
+2024-03-15 23:56:08,359 [INFO ]  step 1109 : train_time=0.132 s, total=150.276 s, mean=0.136 s
+2024-03-15 23:56:08,503 [INFO ]  step 1110 : train_time=0.135 s, total=150.411 s, mean=0.136 s
+2024-03-15 23:56:08,503 [INFO ]  Train Interval Report : train_rmse_mean=0.000364
+2024-03-15 23:56:08,573 [INFO ]  		Validate : val_time=0.070 s, total=15.715 s, mean=0.071 s
+2024-03-15 23:56:08,573 [INFO ]  			val_rmse=0.002948, smooth_rmse=0.002948
+2024-03-15 23:56:09,504 [INFO ]  step 1111 : train_time=0.131 s, total=150.542 s, mean=0.136 s
+2024-03-15 23:56:09,649 [INFO ]  step 1112 : train_time=0.136 s, total=150.678 s, mean=0.136 s
+2024-03-15 23:56:09,797 [INFO ]  step 1113 : train_time=0.139 s, total=150.817 s, mean=0.136 s
+2024-03-15 23:56:09,941 [INFO ]  step 1114 : train_time=0.135 s, total=150.952 s, mean=0.136 s
+2024-03-15 23:56:10,084 [INFO ]  step 1115 : train_time=0.134 s, total=151.086 s, mean=0.136 s
+2024-03-15 23:56:10,084 [INFO ]  Train Interval Report : train_rmse_mean=0.000377
+2024-03-15 23:56:10,155 [INFO ]  		Validate : val_time=0.070 s, total=15.786 s, mean=0.071 s
+2024-03-15 23:56:10,155 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002947
+2024-03-15 23:56:11,146 [INFO ]  step 1116 : train_time=0.133 s, total=151.220 s, mean=0.136 s
+2024-03-15 23:56:11,292 [INFO ]  step 1117 : train_time=0.137 s, total=151.356 s, mean=0.136 s
+2024-03-15 23:56:11,436 [INFO ]  step 1118 : train_time=0.135 s, total=151.491 s, mean=0.136 s
+2024-03-15 23:56:11,581 [INFO ]  step 1119 : train_time=0.136 s, total=151.627 s, mean=0.136 s
+2024-03-15 23:56:11,724 [INFO ]  step 1120 : train_time=0.135 s, total=151.761 s, mean=0.136 s
+2024-03-15 23:56:11,724 [INFO ]  Train Interval Report : train_rmse_mean=0.000356
+2024-03-15 23:56:11,794 [INFO ]  		Validate : val_time=0.070 s, total=15.856 s, mean=0.071 s
+2024-03-15 23:56:11,794 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:12,750 [INFO ]  step 1121 : train_time=0.133 s, total=151.894 s, mean=0.135 s
+2024-03-15 23:56:12,895 [INFO ]  step 1122 : train_time=0.136 s, total=152.030 s, mean=0.135 s
+2024-03-15 23:56:13,040 [INFO ]  step 1123 : train_time=0.135 s, total=152.165 s, mean=0.135 s
+2024-03-15 23:56:13,184 [INFO ]  step 1124 : train_time=0.135 s, total=152.300 s, mean=0.135 s
+2024-03-15 23:56:13,327 [INFO ]  step 1125 : train_time=0.135 s, total=152.435 s, mean=0.135 s
+2024-03-15 23:56:13,327 [INFO ]  Train Interval Report : train_rmse_mean=0.000361
+2024-03-15 23:56:13,397 [INFO ]  		Validate : val_time=0.070 s, total=15.925 s, mean=0.071 s
+2024-03-15 23:56:13,397 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002947
+2024-03-15 23:56:14,320 [INFO ]  step 1126 : train_time=0.127 s, total=152.561 s, mean=0.135 s
+2024-03-15 23:56:14,461 [INFO ]  step 1127 : train_time=0.132 s, total=152.694 s, mean=0.135 s
+2024-03-15 23:56:14,609 [INFO ]  step 1128 : train_time=0.138 s, total=152.832 s, mean=0.135 s
+2024-03-15 23:56:14,756 [INFO ]  step 1129 : train_time=0.138 s, total=152.970 s, mean=0.135 s
+2024-03-15 23:56:14,903 [INFO ]  step 1130 : train_time=0.139 s, total=153.108 s, mean=0.135 s
+2024-03-15 23:56:14,904 [INFO ]  Train Interval Report : train_rmse_mean=0.000374
+2024-03-15 23:56:14,974 [INFO ]  		Validate : val_time=0.070 s, total=15.995 s, mean=0.071 s
+2024-03-15 23:56:14,974 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002947
+2024-03-15 23:56:15,920 [INFO ]  step 1131 : train_time=0.130 s, total=153.238 s, mean=0.135 s
+2024-03-15 23:56:16,059 [INFO ]  step 1132 : train_time=0.130 s, total=153.368 s, mean=0.135 s
+2024-03-15 23:56:16,206 [INFO ]  step 1133 : train_time=0.138 s, total=153.506 s, mean=0.135 s
+2024-03-15 23:56:16,349 [INFO ]  step 1134 : train_time=0.133 s, total=153.639 s, mean=0.135 s
+2024-03-15 23:56:16,496 [INFO ]  step 1135 : train_time=0.138 s, total=153.777 s, mean=0.135 s
+2024-03-15 23:56:16,496 [INFO ]  Train Interval Report : train_rmse_mean=0.000357
+2024-03-15 23:56:16,567 [INFO ]  		Validate : val_time=0.070 s, total=16.065 s, mean=0.071 s
+2024-03-15 23:56:16,567 [INFO ]  			val_rmse=0.002947, smooth_rmse=0.002947
+2024-03-15 23:56:17,507 [INFO ]  step 1136 : train_time=0.132 s, total=153.909 s, mean=0.135 s
+2024-03-15 23:56:17,652 [INFO ]  step 1137 : train_time=0.136 s, total=154.045 s, mean=0.135 s
+2024-03-15 23:56:17,801 [INFO ]  step 1138 : train_time=0.139 s, total=154.185 s, mean=0.135 s
+2024-03-15 23:56:17,948 [INFO ]  step 1139 : train_time=0.138 s, total=154.323 s, mean=0.135 s
+2024-03-15 23:56:18,089 [INFO ]  step 1140 : train_time=0.132 s, total=154.455 s, mean=0.135 s
+2024-03-15 23:56:18,089 [INFO ]  Train Interval Report : train_rmse_mean=0.000376
+2024-03-15 23:56:18,159 [INFO ]  		Validate : val_time=0.070 s, total=16.135 s, mean=0.071 s
+2024-03-15 23:56:18,160 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:19,093 [INFO ]  step 1141 : train_time=0.131 s, total=154.586 s, mean=0.135 s
+2024-03-15 23:56:19,235 [INFO ]  step 1142 : train_time=0.132 s, total=154.719 s, mean=0.135 s
+2024-03-15 23:56:19,382 [INFO ]  step 1143 : train_time=0.138 s, total=154.857 s, mean=0.135 s
+2024-03-15 23:56:19,525 [INFO ]  step 1144 : train_time=0.134 s, total=154.991 s, mean=0.135 s
+2024-03-15 23:56:19,669 [INFO ]  step 1145 : train_time=0.134 s, total=155.125 s, mean=0.135 s
+2024-03-15 23:56:19,669 [INFO ]  Train Interval Report : train_rmse_mean=0.000367
+2024-03-15 23:56:19,739 [INFO ]  		Validate : val_time=0.070 s, total=16.205 s, mean=0.071 s
+2024-03-15 23:56:19,739 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:20,667 [INFO ]  step 1146 : train_time=0.131 s, total=155.256 s, mean=0.135 s
+2024-03-15 23:56:20,810 [INFO ]  step 1147 : train_time=0.133 s, total=155.390 s, mean=0.135 s
+2024-03-15 23:56:20,956 [INFO ]  step 1148 : train_time=0.136 s, total=155.526 s, mean=0.135 s
+2024-03-15 23:56:21,099 [INFO ]  step 1149 : train_time=0.135 s, total=155.660 s, mean=0.135 s
+2024-03-15 23:56:21,246 [INFO ]  step 1150 : train_time=0.138 s, total=155.798 s, mean=0.135 s
+2024-03-15 23:56:21,246 [INFO ]  Train Interval Report : train_rmse_mean=0.000364
+2024-03-15 23:56:21,316 [INFO ]  		Validate : val_time=0.070 s, total=16.275 s, mean=0.071 s
+2024-03-15 23:56:21,316 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:22,317 [INFO ]  step 1151 : train_time=0.130 s, total=155.928 s, mean=0.135 s
+2024-03-15 23:56:22,458 [INFO ]  step 1152 : train_time=0.132 s, total=156.060 s, mean=0.135 s
+2024-03-15 23:56:22,603 [INFO ]  step 1153 : train_time=0.136 s, total=156.196 s, mean=0.135 s
+2024-03-15 23:56:22,747 [INFO ]  step 1154 : train_time=0.136 s, total=156.332 s, mean=0.135 s
+2024-03-15 23:56:22,895 [INFO ]  step 1155 : train_time=0.136 s, total=156.468 s, mean=0.135 s
+2024-03-15 23:56:22,895 [INFO ]  Train Interval Report : train_rmse_mean=0.000360
+2024-03-15 23:56:22,965 [INFO ]  		Validate : val_time=0.070 s, total=16.345 s, mean=0.071 s
+2024-03-15 23:56:22,965 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:23,928 [INFO ]  step 1156 : train_time=0.126 s, total=156.594 s, mean=0.135 s
+2024-03-15 23:56:24,070 [INFO ]  step 1157 : train_time=0.131 s, total=156.725 s, mean=0.135 s
+2024-03-15 23:56:24,220 [INFO ]  step 1158 : train_time=0.139 s, total=156.864 s, mean=0.135 s
+2024-03-15 23:56:24,367 [INFO ]  step 1159 : train_time=0.137 s, total=157.001 s, mean=0.135 s
+2024-03-15 23:56:24,515 [INFO ]  step 1160 : train_time=0.138 s, total=157.139 s, mean=0.135 s
+2024-03-15 23:56:24,515 [INFO ]  Train Interval Report : train_rmse_mean=0.000374
+2024-03-15 23:56:24,586 [INFO ]  		Validate : val_time=0.072 s, total=16.416 s, mean=0.071 s
+2024-03-15 23:56:24,586 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:25,533 [INFO ]  step 1161 : train_time=0.135 s, total=157.274 s, mean=0.135 s
+2024-03-15 23:56:25,678 [INFO ]  step 1162 : train_time=0.136 s, total=157.410 s, mean=0.135 s
+2024-03-15 23:56:25,825 [INFO ]  step 1163 : train_time=0.137 s, total=157.547 s, mean=0.135 s
+2024-03-15 23:56:25,969 [INFO ]  step 1164 : train_time=0.135 s, total=157.682 s, mean=0.135 s
+2024-03-15 23:56:26,117 [INFO ]  step 1165 : train_time=0.139 s, total=157.820 s, mean=0.135 s
+2024-03-15 23:56:26,117 [INFO ]  Train Interval Report : train_rmse_mean=0.000364
+2024-03-15 23:56:26,187 [INFO ]  		Validate : val_time=0.070 s, total=16.486 s, mean=0.071 s
+2024-03-15 23:56:26,187 [INFO ]  			val_rmse=0.002946, smooth_rmse=0.002946
+2024-03-15 23:56:27,010 [WARNI]  Early Stopping
